@@ -1,67 +1,904 @@
 {
-  "title": "Daily X narrative digest — YYYY-MM-DD",
-  "date": "2026-09-15",
+  "title": "Daily X narrative digest — 2026-10-26",
+  "date": "2026-10-26",
   "timezone": "America/Edmonton",
-  "updated": "2026-09-16T12:05:31+03:00",
+  "updated": "2026-10-26T00:14:00-06:00",
   "brand_title": "Your X Virality Score",
   "brand_handle": "@FlowAltDelete",
-  "hits": [],
-  "virals": [],
-  "outsiders": [],
+  "hits": [
+    {
+      "handle": "@OpenAI",
+      "display_name": "OpenAI",
+      "name": "OpenAI",
+      "views": 7321431,
+      "views_label": "7,321,431 views",
+      "url": "https://x.com/OpenAI/status/2113718797505036665",
+      "status_url": "https://x.com/OpenAI/status/2113718797505036665",
+      "created_at": "2026-10-23T19:46:46Z",
+      "hook": "Frontier models lose live internet during training",
+      "text": "Over the past several months, we have substantially hardened the security of our research training environment. We’ve removed live internet access for all frontier models during training and built an offline world for them to use instead—a cached version of the web where they can",
+      "original": "Over the past several months, we have substantially hardened the security of our research training environment. We’ve removed live internet access for all frontier models during training and built an offline world for them to use instead—a cached version of the web where they can",
+      "highlight": true,
+      "draft_en": "OpenAI just removed live internet access from its frontier models during training.\n\nIf the lab building the models is locking things down, your tenant should be too.\n\n3 checks for this week:\n\n1. M365 admin center > Agents > Settings > Agent and plugin access. Pick which publishers users can install from: Microsoft, your org, external.\n\n2. Agent Registry. Block a risky agent and access is cut for current users until the maker resubmits a safer build.\n\n3. Defender for Copilot Studio agents. Bad tool calls get shut down the instant they fire and your SOC gets alerted.\n\nWhich one have you actually turned on?",
+      "video_tip": "20s screen recording: M365 admin center, click Agents > Settings > Agent and plugin access, then Agent Registry > Block. Caption each click 1, 2, 3."
+    },
+    {
+      "handle": "@OpenAI",
+      "display_name": "OpenAI",
+      "name": "OpenAI",
+      "views": 2028853,
+      "views_label": "2,028,853 views",
+      "url": "https://x.com/OpenAI/status/2113766354386084338",
+      "status_url": "https://x.com/OpenAI/status/2113766354386084338",
+      "created_at": "2026-10-23T22:55:45Z",
+      "hook": "Red team finds unauthenticated RCE in Brotli",
+      "text": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\n\nThe flaw could let an attacker run their",
+      "original": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\n\nThe flaw could let an attacker run their",
+      "highlight": true,
+      "draft_en": "This weekend in security:\n\nOpenAI's red team found a remote code execution bug in Brotli.\nGitHub's secret scanning got 86% faster.\n\nMeanwhile the most dangerous thing in my production environment is a SharePoint column someone renamed on Friday.",
+      "video_tip": "Optional: 5s clip of a flow run history turning red with the caption 'renamed on Friday'. Text-only is fine."
+    },
+    {
+      "handle": "@OpenAIDevs",
+      "display_name": "OpenAI Developers",
+      "name": "OpenAI Developers",
+      "views": 495493,
+      "views_label": "495,493 views",
+      "url": "https://x.com/OpenAIDevs/status/2113682848607780912",
+      "status_url": "https://x.com/OpenAIDevs/status/2113682848607780912",
+      "created_at": "2026-10-23T17:23:56Z",
+      "hook": "1.2B users, 40 regions, 12x faster reads on Azure Cosmos DB",
+      "text": "We serve data in milliseconds to more than 1.2 billion users across 40 geographic regions.\n\nTo reach that scale, we worked closely with @AzureCosmosDB on our storage architecture, achieving a 12x improvement in global median read latency.",
+      "original": "We serve data in milliseconds to more than 1.2 billion users across 40 geographic regions.\n\nTo reach that scale, we worked closely with @AzureCosmosDB on our storage architecture, achieving a 12x improvement in global median read latency.",
+      "highlight": true,
+      "draft_en": "ChatGPT: 1.2B users. 40 regions. 12x faster global median reads on Azure Cosmos DB.\n\nMy Power App: 14 users. 1 region. A delegation warning on every gallery.\n\nWe are not the same.",
+      "video_tip": "Split-screen meme: left, the Cosmos DB numbers; right, Power Apps Studio with the yellow delegation triangle zoomed in. 6-8 seconds, no voiceover."
+    },
+    {
+      "handle": "@ChatGPT",
+      "display_name": "ChatGPT",
+      "name": "ChatGPT",
+      "views": 240788,
+      "views_label": "240,788 views",
+      "url": "https://x.com/ChatGPT/status/2113753218543243304",
+      "status_url": "https://x.com/ChatGPT/status/2113753218543243304",
+      "created_at": "2026-10-23T22:03:33Z",
+      "hook": "Using dots to build better dots",
+      "text": "We’re using dots to build better dots.\n\n@rennsong, an engineer at OpenAI, uses her dot to gather feedback from social media and user reports, update a live tracker in ChatGPT Space, and investigate and fix bugs with Codex.",
+      "original": "We’re using dots to build better dots.\n\n@rennsong, an engineer at OpenAI, uses her dot to gather feedback from social media and user reports, update a live tracker in ChatGPT Space, and investigate and fix bugs with Codex.",
+      "highlight": true
+    },
+    {
+      "handle": "@gdb",
+      "display_name": "Greg Brockman",
+      "name": "Greg Brockman",
+      "views": 100439,
+      "views_label": "100,439 views",
+      "url": "https://x.com/gdb/status/2114483026608755082",
+      "status_url": "https://x.com/gdb/status/2114483026608755082",
+      "created_at": "2026-10-25T22:23:33Z",
+      "hook": "Quote: the paper is beyond what a human could have come up with",
+      "text": "“On a technical level, the paper is unbelievable, maybe beyond what a human could have come up with but not beyond human understanding”",
+      "original": "“On a technical level, the paper is unbelievable, maybe beyond what a human could have come up with but not beyond human understanding”",
+      "highlight": true
+    },
+    {
+      "handle": "@simonw",
+      "display_name": "Simon Willison",
+      "name": "Simon Willison",
+      "views": 84734,
+      "views_label": "84,734 views",
+      "url": "https://x.com/simonw/status/2113633667583287786",
+      "status_url": "https://x.com/simonw/status/2113633667583287786",
+      "created_at": "2026-10-23T14:08:30Z",
+      "hook": "Vulnerability apocalypse vs irreversible crypto",
+      "text": "Given the current vulnerability apocalypse, is there anyone left who thinks holding assets in cryptocurrency - where mistaken transactions are irreversible - is still a good idea?",
+      "original": "Given the current vulnerability apocalypse, is there anyone left who thinks holding assets in cryptocurrency - where mistaken transactions are irreversible - is still a good idea?",
+      "highlight": true
+    },
+    {
+      "handle": "@Microsoft",
+      "display_name": "Microsoft",
+      "name": "Microsoft",
+      "views": 68029,
+      "views_label": "68,029 views",
+      "url": "https://x.com/Microsoft/status/2113669297230709024",
+      "status_url": "https://x.com/Microsoft/status/2113669297230709024",
+      "created_at": "2026-10-23T16:30:05Z",
+      "hook": "Ignite Nov 17-21 save the date",
+      "text": "Big ideas are on the calendar. 📅 Join us at #MSIgnite, November 17–21",
+      "original": "Big ideas are on the calendar. 📅 Join us at #MSIgnite, November 17–21",
+      "highlight": true
+    },
+    {
+      "handle": "@github",
+      "display_name": "GitHub",
+      "name": "GitHub",
+      "views": 56053,
+      "views_label": "56,053 views",
+      "url": "https://x.com/github/status/2114145673033691289",
+      "status_url": "https://x.com/github/status/2114145673033691289",
+      "created_at": "2026-10-25T00:03:02Z",
+      "hook": "Digital Universe badge that runs Doom",
+      "text": "#GitHubUniverse badge just went digital… and yes it runs Doom.\n\nCustomize your own, play and share it with #badger26.\n\nSign up to join us virtually (for free)",
+      "original": "#GitHubUniverse badge just went digital… and yes it runs Doom.\n\nCustomize your own, play and share it with #badger26.\n\nSign up to join us virtually (for free)",
+      "highlight": true
+    },
+    {
+      "handle": "@msdev",
+      "display_name": "Microsoft Developer",
+      "name": "Microsoft Developer",
+      "views": 52285,
+      "views_label": "52,285 views",
+      "url": "https://x.com/msdev/status/2113765903657755127",
+      "status_url": "https://x.com/msdev/status/2113765903657755127",
+      "created_at": "2026-10-23T22:53:57Z",
+      "hook": "1.2B users. ~40 regions. One team.",
+      "text": "1.2B users. ~40 regions. Single-digit-millisecond latency. One team.\n\n@AzureCosmosDB and @OpenAIDevs engineers scaled it together. Read the story 👇",
+      "original": "1.2B users. ~40 regions. Single-digit-millisecond latency. One team.\n\n@AzureCosmosDB and @OpenAIDevs engineers scaled it together. Read the story 👇",
+      "highlight": true,
+      "draft_en": "ChatGPT: 1.2B users. 40 regions. 12x faster global median reads on Azure Cosmos DB.\n\nMy Power App: 14 users. 1 region. A delegation warning on every gallery.\n\nWe are not the same.",
+      "video_tip": "Split-screen meme: left, the Cosmos DB numbers; right, Power Apps Studio with the yellow delegation triangle zoomed in. 6-8 seconds, no voiceover."
+    },
+    {
+      "handle": "@github",
+      "display_name": "GitHub",
+      "name": "GitHub",
+      "views": 41695,
+      "views_label": "41,695 views",
+      "url": "https://x.com/github/status/2114037959649288534",
+      "status_url": "https://x.com/github/status/2114037959649288534",
+      "created_at": "2026-10-24T16:55:01Z",
+      "hook": "Evergreen GitHub App for outside-collaborator housekeeping",
+      "text": "Working with outside collaborators can add more work for a repo owner, from confirming access to changing permissions.\n\nTo keep up with manual housekeeping for one shared org, we decided to use Evergreen: a GitHub App built with native GitHub features.\n\nThe workflow 👇",
+      "original": "Working with outside collaborators can add more work for a repo owner, from confirming access to changing permissions.\n\nTo keep up with manual housekeeping for one shared org, we decided to use Evergreen: a GitHub App built with native GitHub features.\n\nThe workflow 👇",
+      "highlight": true
+    },
+    {
+      "handle": "@simonw",
+      "display_name": "Simon Willison",
+      "name": "Simon Willison",
+      "views": 30550,
+      "views_label": "30,550 views",
+      "url": "https://x.com/simonw/status/2113691493823369246",
+      "status_url": "https://x.com/simonw/status/2113691493823369246",
+      "created_at": "2026-10-23T17:58:17Z",
+      "hook": "Pelican benchmark image",
+      "text": "Pretty solid pelican",
+      "original": "Pretty solid pelican",
+      "highlight": true
+    },
+    {
+      "handle": "@github",
+      "display_name": "GitHub",
+      "name": "GitHub",
+      "views": 27437,
+      "views_label": "27,437 views",
+      "url": "https://x.com/github/status/2114479620091171249",
+      "status_url": "https://x.com/github/status/2114479620091171249",
+      "created_at": "2026-10-25T22:10:01Z",
+      "hook": "Secret scanning: +11.5% acceptance, -86% scan time",
+      "text": "Faster secret scanning. Less noise. GitHub's classifier raised acceptance by 11.5% and cut median scan time by 86%.",
+      "original": "Faster secret scanning. Less noise. GitHub's classifier raised acceptance by 11.5% and cut median scan time by 86%.",
+      "highlight": true,
+      "draft_en": "This weekend in security:\n\nOpenAI's red team found a remote code execution bug in Brotli.\nGitHub's secret scanning got 86% faster.\n\nMeanwhile the most dangerous thing in my production environment is a SharePoint column someone renamed on Friday.",
+      "video_tip": "Optional: 5s clip of a flow run history turning red with the caption 'renamed on Friday'. Text-only is fine."
+    },
+    {
+      "handle": "@shanselman",
+      "display_name": "Scott Hanselman",
+      "name": "Scott Hanselman",
+      "views": 13848,
+      "views_label": "13,848 views",
+      "url": "https://x.com/shanselman/status/2114442624019095812",
+      "status_url": "https://x.com/shanselman/status/2114442624019095812",
+      "created_at": "2026-10-25T19:43:00Z",
+      "hook": "One-word post",
+      "text": "Courage",
+      "original": "Courage",
+      "highlight": true
+    },
+    {
+      "handle": "@MSFTCopilot",
+      "display_name": "Microsoft Copilot",
+      "name": "Microsoft Copilot",
+      "views": 10498,
+      "views_label": "10,498 views",
+      "url": "https://x.com/MSFTCopilot/status/2113661797567696934",
+      "status_url": "https://x.com/MSFTCopilot/status/2113661797567696934",
+      "created_at": "2026-10-23T16:00:17Z",
+      "hook": "Copilot Code: build a clearer view from your data",
+      "text": "You already have the data. Build a clearer view with Copilot Code.",
+      "original": "You already have the data. Build a clearer view with Copilot Code.",
+      "highlight": true,
+      "draft_en": "Copilot Code is in public Frontier. Microsoft's pitch: \"You already have the data.\"\n\nMy first-week plan:\n\nDay 1: Check the Frontier controls in the M365 admin center. GitHub connections, business context, agent execution, automatic approvals.\nDay 2: Pick ONE spreadsheet your team rebuilds every Monday.\nDay 3: Ask Copilot Code to build a clearer view of it.\nDay 4: Show your manager.\nDay 5: Get asked to build 12 more.\n\nDecide on automatic approvals on Day 1. Not Day 5.",
+      "video_tip": "15s: screen capture of a messy Monday spreadsheet, hard cut to the Copilot Code view, then a text card 'Day 5: build 12 more'."
+    },
+    {
+      "handle": "@Azure",
+      "display_name": "Microsoft Azure",
+      "name": "Microsoft Azure",
+      "views": 7987,
+      "views_label": "7,987 views",
+      "url": "https://x.com/Azure/status/2113747941030527482",
+      "status_url": "https://x.com/Azure/status/2113747941030527482",
+      "created_at": "2026-10-23T21:42:35Z",
+      "hook": "Cloud-native modernization pitch",
+      "text": "As applications evolve, the cloud-native foundation must evolve with them.\n\nLearn how Azure brings together infrastructure, open-source innovation, smarter operations and cost visibility to help organizations modernize and drive business value",
+      "original": "As applications evolve, the cloud-native foundation must evolve with them.\n\nLearn how Azure brings together infrastructure, open-source innovation, smarter operations and cost visibility to help organizations modernize and drive business value",
+      "highlight": false
+    }
+  ],
+  "virals": [
+    {
+      "handle": "@VORTEX_Promos",
+      "name": "VORTEX_Promos",
+      "views": 92914,
+      "views_label": "92,914 views",
+      "url": "https://x.com/VORTEX_Promos/status/2114248079092121913",
+      "hook": "Tier list of personal AI agents (S/A/B/C/D)",
+      "text": "Tier list of personal AI agents (S/A/B/C/D)"
+    },
+    {
+      "handle": "@RoundtableSpace",
+      "name": "RoundtableSpace",
+      "views": 51093,
+      "views_label": "51,093 views",
+      "url": "https://x.com/RoundtableSpace/status/2114360078480392531",
+      "hook": "Kimi K3.1 Pro open-weight frontier model launch with stacked benchmark bullets",
+      "text": "Kimi K3.1 Pro open-weight frontier model launch with stacked benchmark bullets"
+    },
+    {
+      "handle": "@kyr0stack",
+      "name": "kyr0stack",
+      "views": 21800,
+      "views_label": "21,800 views",
+      "url": "https://x.com/kyr0stack/status/2114091355802657181",
+      "hook": "Quote card + 'worth more than any $500 course' agentic engineering talk",
+      "text": "Quote card + 'worth more than any $500 course' agentic engineering talk"
+    },
+    {
+      "handle": "@emanueledpt",
+      "name": "emanueledpt",
+      "views": 7228,
+      "views_label": "7,228 views",
+      "url": "https://x.com/emanueledpt/status/2114046776072413491",
+      "hook": "Opus 5.5 vs GPT-6 Astra vs GPT-6.1 Sol score/cost comparison",
+      "text": "Opus 5.5 vs GPT-6 Astra vs GPT-6.1 Sol score/cost comparison"
+    },
+    {
+      "handle": "@nvandewetering",
+      "name": "nvandewetering",
+      "views": 6788,
+      "views_label": "6,788 views",
+      "url": "https://x.com/nvandewetering/status/2114016817098158081",
+      "hook": "Personal agent race: Grok Bot vs ChatGPT Dots vs Claude Duet",
+      "text": "Personal agent race: Grok Bot vs ChatGPT Dots vs Claude Duet"
+    },
+    {
+      "handle": "@buildwithrajath",
+      "name": "buildwithrajath",
+      "views": 5108,
+      "views_label": "5,108 views",
+      "url": "https://x.com/buildwithrajath/status/2114080367514968212",
+      "hook": "'OpenAI might be FORCED' arrow-list of competitive pressure",
+      "text": "'OpenAI might be FORCED' arrow-list of competitive pressure"
+    },
+    {
+      "handle": "@btibor91",
+      "name": "btibor91",
+      "views": 3337,
+      "views_label": "3,337 views",
+      "url": "https://x.com/btibor91/status/2114366265456509006",
+      "hook": "Weekly OpenAI + Anthropic roundup (Claude Duet, Patch the Planet)",
+      "text": "Weekly OpenAI + Anthropic roundup (Claude Duet, Patch the Planet)"
+    },
+    {
+      "handle": "@0xrux",
+      "name": "0xrux",
+      "views": 2664,
+      "views_label": "2,664 views",
+      "url": "https://x.com/0xrux/status/2113957254307196963",
+      "hook": "Open-source browser for AI agents, emoji hook",
+      "text": "Open-source browser for AI agents, emoji hook"
+    },
+    {
+      "handle": "@proAlishke",
+      "name": "proAlishke",
+      "views": 2400,
+      "views_label": "2,400 views",
+      "url": "https://x.com/proAlishke/status/2114102351246033204",
+      "hook": "'99% vs 1%' harness framing",
+      "text": "'99% vs 1%' harness framing"
+    },
+    {
+      "handle": "@SharePoint",
+      "name": "SharePoint",
+      "views": 1915,
+      "views_label": "1,915 views",
+      "url": "https://x.com/SharePoint/status/2114375179061055781",
+      "hook": "Weekly M365 and Power Platform community calls",
+      "text": "Weekly M365 and Power Platform community calls"
+    },
+    {
+      "handle": "@DanKornas",
+      "name": "DanKornas",
+      "views": 1729,
+      "views_label": "1,729 views",
+      "url": "https://x.com/DanKornas/status/2114234612293501343",
+      "hook": "'Stop opening random tabs' Azure OpenAI resource map",
+      "text": "'Stop opening random tabs' Azure OpenAI resource map"
+    },
+    {
+      "handle": "@MSFTMechanics",
+      "name": "MSFTMechanics",
+      "views": 1533,
+      "views_label": "1,533 views",
+      "url": "https://x.com/MSFTMechanics/status/2114059227685687374",
+      "hook": "Defender blocks malicious Copilot Studio agent tool calls",
+      "text": "Defender blocks malicious Copilot Studio agent tool calls"
+    },
+    {
+      "handle": "@buckleyplanet",
+      "name": "buckleyplanet",
+      "views": 1448,
+      "views_label": "1,448 views",
+      "url": "https://x.com/buckleyplanet/status/2114543068095414596",
+      "hook": "'If you run M365 or own the Copilot rollout' audience callout",
+      "text": "'If you run M365 or own the Copilot rollout' audience callout"
+    },
+    {
+      "handle": "@MSFTMechanics",
+      "name": "MSFTMechanics",
+      "views": 1342,
+      "views_label": "1,342 views",
+      "url": "https://x.com/MSFTMechanics/status/2114421619095457858",
+      "hook": "Block a risky agent in the Agent Registry",
+      "text": "Block a risky agent in the Agent Registry"
+    },
+    {
+      "handle": "@JamesMalsawm",
+      "name": "JamesMalsawm",
+      "views": 800,
+      "views_label": "800 views",
+      "url": "https://x.com/JamesMalsawm/status/2114227958118236316",
+      "hook": "'Vibe coding or tech debt?' one-line question",
+      "text": "'Vibe coding or tech debt?' one-line question"
+    },
+    {
+      "handle": "@Vladic_ETH",
+      "name": "Vladic_ETH",
+      "views": 589,
+      "views_label": "589 views",
+      "url": "https://x.com/Vladic_ETH/status/2114012933654991009",
+      "hook": "Claude Duet agents built a 3D motion video",
+      "text": "Claude Duet agents built a 3D motion video"
+    },
+    {
+      "handle": "@0xKenny1st",
+      "name": "0xKenny1st",
+      "views": 540,
+      "views_label": "540 views",
+      "url": "https://x.com/0xKenny1st/status/2114078371588063508",
+      "hook": "Same prompt, two models, which wins?",
+      "text": "Same prompt, two models, which wins?"
+    },
+    {
+      "handle": "@dchristian19",
+      "name": "dchristian19",
+      "views": 290,
+      "views_label": "290 views",
+      "url": "https://x.com/dchristian19/status/2114555774945173659",
+      "hook": "Governing apps built with GitHub Copilot Harness",
+      "text": "Governing apps built with GitHub Copilot Harness"
+    },
+    {
+      "handle": "@m365pnp",
+      "name": "m365pnp",
+      "views": 211,
+      "views_label": "211 views",
+      "url": "https://x.com/m365pnp/status/2114570716116828162",
+      "hook": "Copilot Cowork extensibility demo Oct 27",
+      "text": "Copilot Cowork extensibility demo Oct 27"
+    },
+    {
+      "handle": "@kesslernity",
+      "name": "kesslernity",
+      "views": 44,
+      "views_label": "44 views",
+      "url": "https://x.com/kesslernity/status/2113888479989919887",
+      "hook": "Quiet governance wins in M365 Copilot",
+      "text": "Quiet governance wins in M365 Copilot"
+    }
+  ],
+  "outsiders": [
+    {
+      "handle": "@VORTEX_Promos",
+      "name": "VORTEX_Promos",
+      "views": 92914,
+      "views_label": "92,914 views",
+      "url": "https://x.com/VORTEX_Promos/status/2114248079092121913",
+      "hook": "Tier list of personal AI agents (S/A/B/C/D)",
+      "text": "Tier list of personal AI agents (S/A/B/C/D)"
+    },
+    {
+      "handle": "@RoundtableSpace",
+      "name": "RoundtableSpace",
+      "views": 51093,
+      "views_label": "51,093 views",
+      "url": "https://x.com/RoundtableSpace/status/2114360078480392531",
+      "hook": "Kimi K3.1 Pro open-weight frontier model launch with stacked benchmark bullets",
+      "text": "Kimi K3.1 Pro open-weight frontier model launch with stacked benchmark bullets"
+    },
+    {
+      "handle": "@kyr0stack",
+      "name": "kyr0stack",
+      "views": 21800,
+      "views_label": "21,800 views",
+      "url": "https://x.com/kyr0stack/status/2114091355802657181",
+      "hook": "Quote card + 'worth more than any $500 course' agentic engineering talk",
+      "text": "Quote card + 'worth more than any $500 course' agentic engineering talk"
+    },
+    {
+      "handle": "@emanueledpt",
+      "name": "emanueledpt",
+      "views": 7228,
+      "views_label": "7,228 views",
+      "url": "https://x.com/emanueledpt/status/2114046776072413491",
+      "hook": "Opus 5.5 vs GPT-6 Astra vs GPT-6.1 Sol score/cost comparison",
+      "text": "Opus 5.5 vs GPT-6 Astra vs GPT-6.1 Sol score/cost comparison"
+    },
+    {
+      "handle": "@nvandewetering",
+      "name": "nvandewetering",
+      "views": 6788,
+      "views_label": "6,788 views",
+      "url": "https://x.com/nvandewetering/status/2114016817098158081",
+      "hook": "Personal agent race: Grok Bot vs ChatGPT Dots vs Claude Duet",
+      "text": "Personal agent race: Grok Bot vs ChatGPT Dots vs Claude Duet"
+    },
+    {
+      "handle": "@buildwithrajath",
+      "name": "buildwithrajath",
+      "views": 5108,
+      "views_label": "5,108 views",
+      "url": "https://x.com/buildwithrajath/status/2114080367514968212",
+      "hook": "'OpenAI might be FORCED' arrow-list of competitive pressure",
+      "text": "'OpenAI might be FORCED' arrow-list of competitive pressure"
+    },
+    {
+      "handle": "@btibor91",
+      "name": "btibor91",
+      "views": 3337,
+      "views_label": "3,337 views",
+      "url": "https://x.com/btibor91/status/2114366265456509006",
+      "hook": "Weekly OpenAI + Anthropic roundup (Claude Duet, Patch the Planet)",
+      "text": "Weekly OpenAI + Anthropic roundup (Claude Duet, Patch the Planet)"
+    },
+    {
+      "handle": "@0xrux",
+      "name": "0xrux",
+      "views": 2664,
+      "views_label": "2,664 views",
+      "url": "https://x.com/0xrux/status/2113957254307196963",
+      "hook": "Open-source browser for AI agents, emoji hook",
+      "text": "Open-source browser for AI agents, emoji hook"
+    },
+    {
+      "handle": "@proAlishke",
+      "name": "proAlishke",
+      "views": 2400,
+      "views_label": "2,400 views",
+      "url": "https://x.com/proAlishke/status/2114102351246033204",
+      "hook": "'99% vs 1%' harness framing",
+      "text": "'99% vs 1%' harness framing"
+    },
+    {
+      "handle": "@SharePoint",
+      "name": "SharePoint",
+      "views": 1915,
+      "views_label": "1,915 views",
+      "url": "https://x.com/SharePoint/status/2114375179061055781",
+      "hook": "Weekly M365 and Power Platform community calls",
+      "text": "Weekly M365 and Power Platform community calls"
+    },
+    {
+      "handle": "@DanKornas",
+      "name": "DanKornas",
+      "views": 1729,
+      "views_label": "1,729 views",
+      "url": "https://x.com/DanKornas/status/2114234612293501343",
+      "hook": "'Stop opening random tabs' Azure OpenAI resource map",
+      "text": "'Stop opening random tabs' Azure OpenAI resource map"
+    },
+    {
+      "handle": "@MSFTMechanics",
+      "name": "MSFTMechanics",
+      "views": 1533,
+      "views_label": "1,533 views",
+      "url": "https://x.com/MSFTMechanics/status/2114059227685687374",
+      "hook": "Defender blocks malicious Copilot Studio agent tool calls",
+      "text": "Defender blocks malicious Copilot Studio agent tool calls"
+    },
+    {
+      "handle": "@buckleyplanet",
+      "name": "buckleyplanet",
+      "views": 1448,
+      "views_label": "1,448 views",
+      "url": "https://x.com/buckleyplanet/status/2114543068095414596",
+      "hook": "'If you run M365 or own the Copilot rollout' audience callout",
+      "text": "'If you run M365 or own the Copilot rollout' audience callout"
+    },
+    {
+      "handle": "@MSFTMechanics",
+      "name": "MSFTMechanics",
+      "views": 1342,
+      "views_label": "1,342 views",
+      "url": "https://x.com/MSFTMechanics/status/2114421619095457858",
+      "hook": "Block a risky agent in the Agent Registry",
+      "text": "Block a risky agent in the Agent Registry"
+    },
+    {
+      "handle": "@JamesMalsawm",
+      "name": "JamesMalsawm",
+      "views": 800,
+      "views_label": "800 views",
+      "url": "https://x.com/JamesMalsawm/status/2114227958118236316",
+      "hook": "'Vibe coding or tech debt?' one-line question",
+      "text": "'Vibe coding or tech debt?' one-line question"
+    },
+    {
+      "handle": "@Vladic_ETH",
+      "name": "Vladic_ETH",
+      "views": 589,
+      "views_label": "589 views",
+      "url": "https://x.com/Vladic_ETH/status/2114012933654991009",
+      "hook": "Claude Duet agents built a 3D motion video",
+      "text": "Claude Duet agents built a 3D motion video"
+    },
+    {
+      "handle": "@0xKenny1st",
+      "name": "0xKenny1st",
+      "views": 540,
+      "views_label": "540 views",
+      "url": "https://x.com/0xKenny1st/status/2114078371588063508",
+      "hook": "Same prompt, two models, which wins?",
+      "text": "Same prompt, two models, which wins?"
+    },
+    {
+      "handle": "@dchristian19",
+      "name": "dchristian19",
+      "views": 290,
+      "views_label": "290 views",
+      "url": "https://x.com/dchristian19/status/2114555774945173659",
+      "hook": "Governing apps built with GitHub Copilot Harness",
+      "text": "Governing apps built with GitHub Copilot Harness"
+    },
+    {
+      "handle": "@m365pnp",
+      "name": "m365pnp",
+      "views": 211,
+      "views_label": "211 views",
+      "url": "https://x.com/m365pnp/status/2114570716116828162",
+      "hook": "Copilot Cowork extensibility demo Oct 27",
+      "text": "Copilot Cowork extensibility demo Oct 27"
+    },
+    {
+      "handle": "@kesslernity",
+      "name": "kesslernity",
+      "views": 44,
+      "views_label": "44 views",
+      "url": "https://x.com/kesslernity/status/2113888479989919887",
+      "hook": "Quiet governance wins in M365 Copilot",
+      "text": "Quiet governance wins in M365 Copilot"
+    }
+  ],
   "patterns": [
-    "example-pattern"
+    "security / vulnerability narrative",
+    "stacked hard numbers (1.2B · 40 regions · 12x)",
+    "tier lists & head-to-heads",
+    "personal agents race (dots, Duet, Grok Bot)",
+    "agents building agents",
+    "one-line declaratives",
+    "Copilot Code momentum",
+    "governance click-paths"
   ],
   "no_hits": [
     {
-      "handle": "@example_quiet",
-      "reason": "No unpinned day original reached 5,000 views; highest observed was 1,200 views.",
-      "max_views": 1200
+      "handle": "@MicrosoftAI",
+      "reason": "No original post (replies/reposts excluded) since Fri Oct 23 6:00 AM MDT; quiet weekend.",
+      "max_views": 0
+    },
+    {
+      "handle": "@code",
+      "reason": "No original post (replies/reposts excluded) since Fri Oct 23 6:00 AM MDT; quiet weekend.",
+      "max_views": 0
+    },
+    {
+      "handle": "@satyanadella",
+      "reason": "No original post (replies/reposts excluded) since Fri Oct 23 6:00 AM MDT; quiet weekend.",
+      "max_views": 0
+    },
+    {
+      "handle": "@mustafasuleyman",
+      "reason": "No original post (replies/reposts excluded) since Fri Oct 23 6:00 AM MDT; quiet weekend.",
+      "max_views": 0
+    },
+    {
+      "handle": "@clamanna",
+      "reason": "No original post (replies/reposts excluded) since Fri Oct 23 6:00 AM MDT; quiet weekend.",
+      "max_views": 0
+    },
+    {
+      "handle": "@burkeholland",
+      "reason": "No original post (replies/reposts excluded) since Fri Oct 23 6:00 AM MDT; quiet weekend.",
+      "max_views": 0
+    },
+    {
+      "handle": "@pierceboggan",
+      "reason": "No original post (replies/reposts excluded) since Fri Oct 23 6:00 AM MDT; quiet weekend.",
+      "max_views": 0
+    },
+    {
+      "handle": "@OpenAINewsroom",
+      "reason": "No original post (replies/reposts excluded) since Fri Oct 23 6:00 AM MDT; quiet weekend.",
+      "max_views": 0
+    },
+    {
+      "handle": "@sama",
+      "reason": "No original post (replies/reposts excluded) since Fri Oct 23 6:00 AM MDT; quiet weekend.",
+      "max_views": 0
     }
   ],
-  "virals_narrative": "Short outsider synthesis goes here.",
-  "narrative_synthesis": "Short outsider synthesis goes here.",
+  "virals_narrative": "Weekend signal is security: OpenAI's offline-training and Brotli RCE posts drew 9.3M views combined, GitHub's secret scanning and simonw's 'vulnerability apocalypse' rode the same wave. Outside the watchlist, tier lists and head-to-heads of personal agents (dots, Claude Duet, Grok Bot) and new models (Opus 5.5, GPT-6 Astra/Sol, Kimi K3.1 Pro) won. Microsoft-side posts on agent governance (Agent Registry, Defender for Copilot Studio) exist but are under-covered, which leaves room for a practical take.",
+  "narrative_synthesis": "Weekend signal is security: OpenAI's offline-training and Brotli RCE posts drew 9.3M views combined, GitHub's secret scanning and simonw's 'vulnerability apocalypse' rode the same wave. Outside the watchlist, tier lists and head-to-heads of personal agents (dots, Claude Duet, Grok Bot) and new models (Opus 5.5, GPT-6 Astra/Sol, Kimi K3.1 Pro) won. Microsoft-side posts on agent governance (Agent Registry, Defender for Copilot Studio) exist but are under-covered, which leaves room for a practical take.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 0,
-  "outsiders_count": 0,
-  "previous_day": {
-    "date": "2026-09-14",
-    "hits_count": 0,
-    "total_views": 0,
-    "x_score": 0
-  },
+  "hits_count": 15,
+  "outsiders_count": 20,
+  "previous_day": null,
   "leaderboards": {
-    "as_of": "2026-09-15",
-    "tracking_start": "2026-09-13",
+    "as_of": "2026-10-26",
+    "tracking_start": "2026-10-26",
     "days_included": [
-      "2026-09-09",
-      "2026-09-10",
-      "2026-09-11",
-      "2026-09-12",
-      "2026-09-13",
-      "2026-09-14",
-      "2026-09-15"
+      "2026-10-26"
     ],
     "month_days_included": [
-      "2026-09-13",
-      "2026-09-14",
-      "2026-09-15"
+      "2026-10-26"
     ],
     "week": {
-      "label": "Rolling week · Sep 9–Sep 15",
+      "label": "Rolling week · Oct 26–Oct 26",
       "range": [
-        "2026-09-09",
-        "2026-09-15"
+        "2026-10-26",
+        "2026-10-26"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@OpenAI",
+          "name": "OpenAI",
+          "hits": 2,
+          "days": 1,
+          "views": 9350284,
+          "best": 7321431,
+          "best_url": "https://x.com/OpenAI/status/2113718797505036665"
+        },
+        {
+          "handle": "@OpenAIDevs",
+          "name": "OpenAI Developers",
+          "hits": 1,
+          "days": 1,
+          "views": 495493,
+          "best": 495493,
+          "best_url": "https://x.com/OpenAIDevs/status/2113682848607780912"
+        },
+        {
+          "handle": "@ChatGPT",
+          "name": "ChatGPT",
+          "hits": 1,
+          "days": 1,
+          "views": 240788,
+          "best": 240788,
+          "best_url": "https://x.com/ChatGPT/status/2113753218543243304"
+        },
+        {
+          "handle": "@github",
+          "name": "GitHub",
+          "hits": 3,
+          "days": 1,
+          "views": 125185,
+          "best": 56053,
+          "best_url": "https://x.com/github/status/2114145673033691289"
+        },
+        {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 2,
+          "days": 1,
+          "views": 115284,
+          "best": 84734,
+          "best_url": "https://x.com/simonw/status/2113633667583287786"
+        },
+        {
+          "handle": "@gdb",
+          "name": "Greg Brockman",
+          "hits": 1,
+          "days": 1,
+          "views": 100439,
+          "best": 100439,
+          "best_url": "https://x.com/gdb/status/2114483026608755082"
+        },
+        {
+          "handle": "@Microsoft",
+          "name": "Microsoft",
+          "hits": 1,
+          "days": 1,
+          "views": 68029,
+          "best": 68029,
+          "best_url": "https://x.com/Microsoft/status/2113669297230709024"
+        },
+        {
+          "handle": "@msdev",
+          "name": "Microsoft Developer",
+          "hits": 1,
+          "days": 1,
+          "views": 52285,
+          "best": 52285,
+          "best_url": "https://x.com/msdev/status/2113765903657755127"
+        },
+        {
+          "handle": "@shanselman",
+          "name": "Scott Hanselman",
+          "hits": 1,
+          "days": 1,
+          "views": 13848,
+          "best": 13848,
+          "best_url": "https://x.com/shanselman/status/2114442624019095812"
+        },
+        {
+          "handle": "@MSFTCopilot",
+          "name": "Microsoft Copilot",
+          "hits": 1,
+          "days": 1,
+          "views": 10498,
+          "best": 10498,
+          "best_url": "https://x.com/MSFTCopilot/status/2113661797567696934"
+        },
+        {
+          "handle": "@Azure",
+          "name": "Microsoft Azure",
+          "hits": 1,
+          "days": 1,
+          "views": 7987,
+          "best": 7987,
+          "best_url": "https://x.com/Azure/status/2113747941030527482"
+        },
+        {
+          "handle": "@FlowAltDelete",
+          "name": "Josh Cook",
+          "hits": 1,
+          "days": 1,
+          "views": 7581,
+          "best": 7581,
+          "best_url": "https://x.com/FlowAltDelete/status/2114337932589039749"
+        }
+      ]
     },
     "month": {
-      "label": "September 2026 · from Sep 13",
+      "label": "October 2026 · from Oct 26",
       "range": [
-        "2026-09-13",
-        "2026-09-15"
+        "2026-10-26",
+        "2026-10-26"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@OpenAI",
+          "name": "OpenAI",
+          "hits": 2,
+          "days": 1,
+          "views": 9350284,
+          "best": 7321431,
+          "best_url": "https://x.com/OpenAI/status/2113718797505036665"
+        },
+        {
+          "handle": "@OpenAIDevs",
+          "name": "OpenAI Developers",
+          "hits": 1,
+          "days": 1,
+          "views": 495493,
+          "best": 495493,
+          "best_url": "https://x.com/OpenAIDevs/status/2113682848607780912"
+        },
+        {
+          "handle": "@ChatGPT",
+          "name": "ChatGPT",
+          "hits": 1,
+          "days": 1,
+          "views": 240788,
+          "best": 240788,
+          "best_url": "https://x.com/ChatGPT/status/2113753218543243304"
+        },
+        {
+          "handle": "@github",
+          "name": "GitHub",
+          "hits": 3,
+          "days": 1,
+          "views": 125185,
+          "best": 56053,
+          "best_url": "https://x.com/github/status/2114145673033691289"
+        },
+        {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 2,
+          "days": 1,
+          "views": 115284,
+          "best": 84734,
+          "best_url": "https://x.com/simonw/status/2113633667583287786"
+        },
+        {
+          "handle": "@gdb",
+          "name": "Greg Brockman",
+          "hits": 1,
+          "days": 1,
+          "views": 100439,
+          "best": 100439,
+          "best_url": "https://x.com/gdb/status/2114483026608755082"
+        },
+        {
+          "handle": "@Microsoft",
+          "name": "Microsoft",
+          "hits": 1,
+          "days": 1,
+          "views": 68029,
+          "best": 68029,
+          "best_url": "https://x.com/Microsoft/status/2113669297230709024"
+        },
+        {
+          "handle": "@msdev",
+          "name": "Microsoft Developer",
+          "hits": 1,
+          "days": 1,
+          "views": 52285,
+          "best": 52285,
+          "best_url": "https://x.com/msdev/status/2113765903657755127"
+        },
+        {
+          "handle": "@shanselman",
+          "name": "Scott Hanselman",
+          "hits": 1,
+          "days": 1,
+          "views": 13848,
+          "best": 13848,
+          "best_url": "https://x.com/shanselman/status/2114442624019095812"
+        },
+        {
+          "handle": "@MSFTCopilot",
+          "name": "Microsoft Copilot",
+          "hits": 1,
+          "days": 1,
+          "views": 10498,
+          "best": 10498,
+          "best_url": "https://x.com/MSFTCopilot/status/2113661797567696934"
+        },
+        {
+          "handle": "@Azure",
+          "name": "Microsoft Azure",
+          "hits": 1,
+          "days": 1,
+          "views": 7987,
+          "best": 7987,
+          "best_url": "https://x.com/Azure/status/2113747941030527482"
+        },
+        {
+          "handle": "@FlowAltDelete",
+          "name": "Josh Cook",
+          "hits": 1,
+          "days": 1,
+          "views": 7581,
+          "best": 7581,
+          "best_url": "https://x.com/FlowAltDelete/status/2114337932589039749"
+        }
+      ]
     }
   },
   "board_features": {
@@ -88,6 +925,199 @@
   "ui": {
     "default_theme": "night"
   },
-  "day_roster": [],
-  "you_rank": null
+  "day_roster": [
+    {
+      "handle": "@OpenAI",
+      "name": "OpenAI",
+      "views": 7321431,
+      "total_views": 9350284,
+      "hit": true
+    },
+    {
+      "handle": "@OpenAIDevs",
+      "name": "OpenAI Developers",
+      "views": 495493,
+      "total_views": 495493,
+      "hit": true
+    },
+    {
+      "handle": "@ChatGPT",
+      "name": "ChatGPT",
+      "views": 240788,
+      "total_views": 240788,
+      "hit": true
+    },
+    {
+      "handle": "@gdb",
+      "name": "Greg Brockman",
+      "views": 100439,
+      "total_views": 100439,
+      "hit": true
+    },
+    {
+      "handle": "@simonw",
+      "name": "Simon Willison",
+      "views": 84734,
+      "total_views": 115284,
+      "hit": true
+    },
+    {
+      "handle": "@Microsoft",
+      "name": "Microsoft",
+      "views": 68029,
+      "total_views": 68029,
+      "hit": true
+    },
+    {
+      "handle": "@github",
+      "name": "GitHub",
+      "views": 56053,
+      "total_views": 125185,
+      "hit": true
+    },
+    {
+      "handle": "@msdev",
+      "name": "Microsoft Developer",
+      "views": 52285,
+      "total_views": 52285,
+      "hit": true
+    },
+    {
+      "handle": "@shanselman",
+      "name": "Scott Hanselman",
+      "views": 13848,
+      "total_views": 13848,
+      "hit": true
+    },
+    {
+      "handle": "@MSFTCopilot",
+      "name": "Microsoft Copilot",
+      "views": 10498,
+      "total_views": 10498,
+      "hit": true
+    },
+    {
+      "handle": "@Azure",
+      "name": "Microsoft Azure",
+      "views": 7987,
+      "total_views": 7987,
+      "hit": true
+    },
+    {
+      "handle": "@FlowAltDelete",
+      "name": "Josh Cook",
+      "views": 7581,
+      "total_views": 7581,
+      "hit": true
+    },
+    {
+      "handle": "@MicrosoftAI",
+      "name": "MicrosoftAI",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@code",
+      "name": "code",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@satyanadella",
+      "name": "satyanadella",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@mustafasuleyman",
+      "name": "mustafasuleyman",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@clamanna",
+      "name": "clamanna",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@burkeholland",
+      "name": "burkeholland",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@pierceboggan",
+      "name": "pierceboggan",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@OpenAINewsroom",
+      "name": "OpenAINewsroom",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@sama",
+      "name": "sama",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    }
+  ],
+  "you_rank": {
+    "best_views": 7581,
+    "total_views": 7581,
+    "best_url": "https://x.com/FlowAltDelete/status/2114337932589039749",
+    "rank_among_watchlist": 12,
+    "total_accounts": 21,
+    "vs_5k": "done",
+    "vs_10k": "pending"
+  },
+  "drafts": [
+    {
+      "id": "lockdown",
+      "rides": "OpenAI offline training (7.3M) + MSFTMechanics Agent Registry/Defender posts",
+      "text": "OpenAI just removed live internet access from its frontier models during training.\n\nIf the lab building the models is locking things down, your tenant should be too.\n\n3 checks for this week:\n\n1. M365 admin center > Agents > Settings > Agent and plugin access. Pick which publishers users can install from: Microsoft, your org, external.\n\n2. Agent Registry. Block a risky agent and access is cut for current users until the maker resubmits a safer build.\n\n3. Defender for Copilot Studio agents. Bad tool calls get shut down the instant they fire and your SOC gets alerted.\n\nWhich one have you actually turned on?",
+      "why": "Security is the biggest view driver of the weekend (OpenAI 7.3M + 2M, GitHub secret scanning 27k, simonw 'vulnerability apocalypse' 85k). Josh translates the headline into 3 click paths admins can do today, the same practical-angle format as his 7.5k posts.",
+      "video_tip": "20s screen recording: M365 admin center, click Agents > Settings > Agent and plugin access, then Agent Registry > Block. Caption each click 1, 2, 3."
+    },
+    {
+      "id": "copilotcode",
+      "rides": "MSFTCopilot Copilot Code (10.5k) + Josh's own Copilot Code Frontier post (7.6k)",
+      "text": "Copilot Code is in public Frontier. Microsoft's pitch: \"You already have the data.\"\n\nMy first-week plan:\n\nDay 1: Check the Frontier controls in the M365 admin center. GitHub connections, business context, agent execution, automatic approvals.\nDay 2: Pick ONE spreadsheet your team rebuilds every Monday.\nDay 3: Ask Copilot Code to build a clearer view of it.\nDay 4: Show your manager.\nDay 5: Get asked to build 12 more.\n\nDecide on automatic approvals on Day 1. Not Day 5.",
+      "why": "Copilot Code is Josh's proven topic (his best post this weekend, 7.6k). A day-by-day plan with a punchline gives the news a practical, bookmarkable shape and ends on a clear governance move.",
+      "video_tip": "15s: screen capture of a messy Monday spreadsheet, hard cut to the Copilot Code view, then a text card 'Day 5: build 12 more'."
+    },
+    {
+      "id": "scale",
+      "rides": "OpenAIDevs (495k) + msdev (52k) Azure Cosmos DB scale posts",
+      "text": "ChatGPT: 1.2B users. 40 regions. 12x faster global median reads on Azure Cosmos DB.\n\nMy Power App: 14 users. 1 region. A delegation warning on every gallery.\n\nWe are not the same.",
+      "why": "Borrows the exact stacked-number hook from two hits that reached 495k and 52k, then flips it into a Power Platform in-joke. Josh's relatable maker jokes are his most consistent format.",
+      "video_tip": "Split-screen meme: left, the Cosmos DB numbers; right, Power Apps Studio with the yellow delegation triangle zoomed in. 6-8 seconds, no voiceover."
+    },
+    {
+      "id": "tierlist",
+      "rides": "Personal-agent tier list (VORTEX_Promos 93k) + model head-to-head posts (Opus 5.5 vs GPT-6 Astra vs Sol, 7k)",
+      "text": "I ranked every way to build an agent in Microsoft 365. Only one gets S tier.\n\nS: Copilot Studio. Four harnesses now, including the new Customer Conversation one.\nA: Copilot Code. You already have the data, now it builds the view.\nA: Copilot Cowork Projects. Instructions, context and outputs per project.\nB: Agent Builder in Copilot Chat. Fastest path to grounded answers.\nF: A Power Automate flow named \"Copy of Copy of Approval v3\".\n\nWhere would you move Cowork?",
+      "why": "Tier lists were the top-performing outside AI format this weekend and invite replies. Every entry is a feature Josh already covered from real announcements, and the F tier joke keeps his voice.",
+      "video_tip": "Use a tier-list template and drag each logo into its row on screen, 20s, ending on the F-tier flow name for the laugh."
+    },
+    {
+      "id": "security_joke",
+      "rides": "OpenAI Brotli RCE (2M) + GitHub secret scanning (27k) + simonw 'vulnerability apocalypse' (85k)",
+      "text": "This weekend in security:\n\nOpenAI's red team found a remote code execution bug in Brotli.\nGitHub's secret scanning got 86% faster.\n\nMeanwhile the most dangerous thing in my production environment is a SharePoint column someone renamed on Friday.",
+      "why": "Rides the weekend's biggest narrative (security) with two real numbers, then lands on Josh's own SharePoint rename joke format that already earned ~2k views. Short, quotable, easy to repost.",
+      "video_tip": "Optional: 5s clip of a flow run history turning red with the caption 'renamed on Friday'. Text-only is fine."
+    }
+  ]
 }
