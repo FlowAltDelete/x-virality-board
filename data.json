@@ -1,936 +1,795 @@
 {
-  "title": "Daily X narrative digest — 2026-10-27",
-  "date": "2026-10-27",
+  "title": "Daily X narrative digest — 2026-10-28",
+  "date": "2026-10-28",
   "timezone": "America/Edmonton",
-  "updated": "2026-10-27T11:07:11-06:00",
+  "updated": "2026-10-28T11:13:57-06:00",
   "brand_title": "Your X Virality Score",
   "brand_handle": "@FlowAltDelete",
   "hits": [
     {
-      "handle": "@OpenAI",
-      "display_name": "OpenAI",
-      "name": "OpenAI",
-      "views": 4896529,
-      "views_label": "4,896,529 views",
-      "likes": 26372,
-      "url": "https://x.com/OpenAI/status/2114780711664398349",
-      "status_url": "https://x.com/OpenAI/status/2114780711664398349",
-      "created_at": "2026-10-26T18:06:27Z",
-      "hook": "Terra launch: fast, capable computer use at a lower price",
-      "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it. https://t.co/8JTN1yonmV",
-      "original": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it. https://t.co/8JTN1yonmV",
-      "highlight": true,
-      "star": true,
-      "draft_en": "GPT-6.1 Terra's whole pitch is computer use at a lower price.\n\nCheaper clicking doesn't fix a bad process. It just lets you run the bad process more often.\n\nBefore you point any computer use agent at a legacy app:\n\n1. Write down the steps a human does today, in order\n2. Mark every step that already has an API or connector\n3. Hand only the leftovers to computer use\n\nConnectors first. Screens last.",
-      "video_tip": "30s screen record: a sticky-note list of a real process, highlight the connector steps green and the leftovers yellow, then show a Copilot Studio agent handling only the yellow ones. End card: 'Connectors first. Screens last.'"
-    },
-    {
-      "handle": "@gdb",
-      "display_name": "Greg Brockman",
-      "name": "Greg Brockman",
-      "views": 2289599,
-      "views_label": "2,289,599 views",
-      "likes": 14044,
-      "url": "https://x.com/gdb/status/2114837059462627533",
-      "status_url": "https://x.com/gdb/status/2114837059462627533",
-      "created_at": "2026-10-26T21:50:21Z",
-      "hook": "Three AI-assisted discoveries: math, CS and physics",
-      "text": "Announcing three major scientific discoveries, one each in mathematics (harmonic analysis), computer science (complexity theory), and physics (quantum field theory).\n\nAI starting to help us improve our understanding of the universe! https://t.co/VkfacopR2R",
-      "original": "Announcing three major scientific discoveries, one each in mathematics (harmonic analysis), computer science (complexity theory), and physics (quantum field theory).\n\nAI starting to help us improve our understanding of the universe! https://t.co/VkfacopR2R",
-      "highlight": true,
-      "star": true
-    },
-    {
       "handle": "@ChatGPT",
       "display_name": "ChatGPT",
       "name": "ChatGPT",
-      "views": 782459,
-      "views_label": "782,459 views",
-      "likes": 7111,
-      "url": "https://x.com/ChatGPT/status/2114781101822714241",
-      "status_url": "https://x.com/ChatGPT/status/2114781101822714241",
-      "created_at": "2026-10-26T18:08:00Z",
-      "hook": "\"GPT-6.1 Terra means business\" - built for the whole workday",
-      "text": "GPT-6.1 Terra means business.\n\nOur new fast, efficient model pairs sharper visual reasoning and precise computer use with clearer, more natural writing.\n\nFrom decoding technical drawings to drafting proposals, filling forms to editing videos—it’s built for the whole workday. https://t.co/jey2Xc8fn5",
-      "original": "GPT-6.1 Terra means business.\n\nOur new fast, efficient model pairs sharper visual reasoning and precise computer use with clearer, more natural writing.\n\nFrom decoding technical drawings to drafting proposals, filling forms to editing videos—it’s built for the whole workday. https://t.co/jey2Xc8fn5",
-      "highlight": true,
-      "star": true
-    },
-    {
-      "handle": "@sama",
-      "display_name": "Sam Altman",
-      "name": "Sam Altman",
-      "views": 754687,
-      "views_label": "754,687 views",
-      "likes": 8083,
-      "url": "https://x.com/sama/status/2114818620782248024",
-      "status_url": "https://x.com/sama/status/2114818620782248024",
-      "created_at": "2026-10-26T20:37:05Z",
-      "hook": "One-line CEO hype: \"this new era of computer use\"",
-      "text": "6.1 Terra is here! It is good at a lot of things, but we are especially excited for this new era of computer use. https://t.co/TbpHp75Os0",
-      "original": "6.1 Terra is here! It is good at a lot of things, but we are especially excited for this new era of computer use. https://t.co/TbpHp75Os0",
-      "highlight": true,
-      "star": true
-    },
-    {
-      "handle": "@gdb",
-      "display_name": "Greg Brockman",
-      "name": "Greg Brockman",
-      "views": 490979,
-      "views_label": "490,979 views",
-      "likes": 6629,
-      "url": "https://x.com/gdb/status/2114860693585563907",
-      "status_url": "https://x.com/gdb/status/2114860693585563907",
-      "created_at": "2026-10-26T23:24:16Z",
-      "hook": "Six-word joke: p still probably doesn't equal np",
-      "text": "p still probably doesn't equal np",
-      "original": "p still probably doesn't equal np",
+      "views": 1626275,
+      "views_label": "1,626,275 views",
+      "likes": 5574,
+      "url": "https://x.com/ChatGPT/status/2115139248458191070",
+      "status_url": "https://x.com/ChatGPT/status/2115139248458191070",
+      "created_at": "2026-10-27T17:51:08Z",
+      "hook": "\"Much requested\": iCloud Mail and Calendar plugins land in ChatGPT, all plans",
+      "text": "Much requested, and now yours to connect: iCloud Mail and Calendar plugins are available in ChatGPT.\n\nAsk ChatGPT to find that email, catch up on your inbox, check what’s next, or update a calendar event. Phew.\n\nAvailable on all ChatGPT plans on web, desktop, and iOS. https://t.co/g68OWoFVg8",
+      "original": "Much requested, and now yours to connect: iCloud Mail and Calendar plugins are available in ChatGPT.\n\nAsk ChatGPT to find that email, catch up on your inbox, check what’s next, or update a calendar event. Phew.\n\nAvailable on all ChatGPT plans on web, desktop, and iOS. https://t.co/g68OWoFVg8",
       "highlight": true,
       "star": true,
-      "draft_en": "Greg Brockman: AI helped make discoveries in math, computer science and physics.\n\nAlso Greg Brockman, a few hours later: p still probably doesn't equal np.\n\nMe: my Power Automate flow still can't tell an empty string from a null.\n\nWe all have our frontiers.",
-      "video_tip": "Meme format, 10s: split screen with the two posts on the left, a failed Power Automate run on the right zooming into the condition. No voiceover, just a record-scratch sound."
-    },
-    {
-      "handle": "@gdb",
-      "display_name": "Greg Brockman",
-      "name": "Greg Brockman",
-      "views": 136255,
-      "views_label": "136,255 views",
-      "likes": 1948,
-      "url": "https://x.com/gdb/status/2114814747254432243",
-      "status_url": "https://x.com/gdb/status/2114814747254432243",
-      "created_at": "2026-10-26T20:21:41Z",
-      "hook": "Terra computer use feels faster than doing it yourself",
-      "text": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted https://t.co/3lZI9cX65p https://t.co/JwDlhdqo9K",
-      "original": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted https://t.co/3lZI9cX65p https://t.co/JwDlhdqo9K",
-      "highlight": true,
-      "star": true
-    },
-    {
-      "handle": "@OpenAIDevs",
-      "display_name": "OpenAI Developers",
-      "name": "OpenAI Developers",
-      "views": 133085,
-      "views_label": "133,085 views",
-      "likes": 2101,
-      "url": "https://x.com/OpenAIDevs/status/2114780986613682473",
-      "status_url": "https://x.com/OpenAIDevs/status/2114780986613682473",
-      "created_at": "2026-10-26T18:07:32Z",
-      "hook": "Terra comes to the API and Codex for high-volume agents",
-      "text": "GPT-6.1 Terra is also coming to the API and Codex.\n\nUse Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows. https://t.co/kYjK7mn4Bq",
-      "original": "GPT-6.1 Terra is also coming to the API and Codex.\n\nUse Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows. https://t.co/kYjK7mn4Bq",
-      "highlight": true,
-      "star": true
-    },
-    {
-      "handle": "@github",
-      "display_name": "GitHub",
-      "name": "GitHub",
-      "views": 67781,
-      "views_label": "67,781 views",
-      "likes": 398,
-      "url": "https://x.com/github/status/2114799272634007801",
-      "status_url": "https://x.com/github/status/2114799272634007801",
-      "created_at": "2026-10-26T19:20:12Z",
-      "hook": "Terra GA in GitHub Copilot, more terminal and C# tasks solved",
-      "text": "🆕 GPT-6.1 Terra from @OpenAIDevs is now generally available in GitHub Copilot.\n\nOur early testing shows GPT-6.1 Terra solved noticeably more terminal and C# coding tasks than GPT-5.6 Terra. It works in focused, consolidated steps on well-scoped tasks.\n\nTry it out for everyday",
-      "original": "🆕 GPT-6.1 Terra from @OpenAIDevs is now generally available in GitHub Copilot.\n\nOur early testing shows GPT-6.1 Terra solved noticeably more terminal and C# coding tasks than GPT-5.6 Terra. It works in focused, consolidated steps on well-scoped tasks.\n\nTry it out for everyday",
-      "highlight": true,
-      "star": true,
-      "draft_en": "OpenAI shipped GPT-6.1 Terra, and the same day it was live in GitHub Copilot, VS Code and Microsoft Foundry.\n\nThat's the bit worth telling your CIO. Picking a model isn't a procurement project anymore. It's a dropdown.\n\nSo the real question: does your team have an eval that tells you if the new model is better for YOUR work?\n\nNo eval, and every launch day is just vibes.",
-      "video_tip": "Vertical 25s: VS Code Copilot Chat, same prompt run twice with the model picker switched to Terra, results side by side. Caption: 'New model? Prove it on your repo.'"
-    },
-    {
-      "handle": "@OpenAIDevs",
-      "display_name": "OpenAI Developers",
-      "name": "OpenAI Developers",
-      "views": 61751,
-      "views_label": "61,751 views",
-      "likes": 522,
-      "url": "https://x.com/OpenAIDevs/status/2114726640571883592",
-      "status_url": "https://x.com/OpenAIDevs/status/2114726640571883592",
-      "created_at": "2026-10-26T14:31:35Z",
-      "hook": "Thread of hardware projects built with Codex (carried over, still climbing)",
-      "text": "Want to know what people are building with hardware and Codex?\n\n🧵 Here are cool projects to take inspiration from:\n\nhttps://t.co/844FeMfohg",
-      "original": "Want to know what people are building with hardware and Codex?\n\n🧵 Here are cool projects to take inspiration from:\n\nhttps://t.co/844FeMfohg",
-      "highlight": true,
-      "star": true,
-      "carried_over": true
-    },
-    {
-      "handle": "@OpenAIDevs",
-      "display_name": "OpenAI Developers",
-      "name": "OpenAI Developers",
-      "views": 47484,
-      "views_label": "47,484 views",
-      "likes": 529,
-      "url": "https://x.com/OpenAIDevs/status/2114837274550747603",
-      "status_url": "https://x.com/OpenAIDevs/status/2114837274550747603",
-      "created_at": "2026-10-26T21:51:12Z",
-      "hook": "Customer proof: CodeRabbit uses GPT-6.1 Sol for security review",
-      "text": "GPT-6.1 Sol is being used by @coderabbitai to help developers find security risks across complex codebases.\n\nhttps://t.co/CshBD68xD7",
-      "original": "GPT-6.1 Sol is being used by @coderabbitai to help developers find security risks across complex codebases.\n\nhttps://t.co/CshBD68xD7",
-      "highlight": true,
-      "star": true
-    },
-    {
-      "handle": "@Microsoft",
-      "display_name": "Microsoft",
-      "name": "Microsoft",
-      "views": 43161,
-      "views_label": "43,161 views",
-      "likes": 50,
-      "url": "https://x.com/Microsoft/status/2114756440774582699",
-      "status_url": "https://x.com/Microsoft/status/2114756440774582699",
-      "created_at": "2026-10-26T16:30:00Z",
-      "hook": "Civic nudge: check your voter registration with TurboVote",
-      "text": "One less thing to wonder about: your voter registration status. Check yours and explore your voting options with our partner TurboVote. https://t.co/Gq76Rd27RH https://t.co/NrNK6CzLTm",
-      "original": "One less thing to wonder about: your voter registration status. Check yours and explore your voting options with our partner TurboVote. https://t.co/Gq76Rd27RH https://t.co/NrNK6CzLTm",
-      "highlight": true,
-      "star": true,
-      "carried_over": true
-    },
-    {
-      "handle": "@shanselman",
-      "display_name": "Scott Hanselman 🌮",
-      "name": "Scott Hanselman 🌮",
-      "views": 40512,
-      "views_label": "40,512 views",
-      "likes": 418,
-      "url": "https://x.com/shanselman/status/2114772187404185756",
-      "status_url": "https://x.com/shanselman/status/2114772187404185756",
-      "created_at": "2026-10-26T17:32:34Z",
-      "hook": "Hot take: Windows on ARM is my daily driver",
-      "text": "Windows already works great on ARM. My daily driver has been ARM for literally two+ years. My *preference* is ARM if given the choice between Nvidia or Qualcomm vs Intel, I’ll pick ARM. https://t.co/ZdrMrzSJvT",
-      "original": "Windows already works great on ARM. My daily driver has been ARM for literally two+ years. My *preference* is ARM if given the choice between Nvidia or Qualcomm vs Intel, I’ll pick ARM. https://t.co/ZdrMrzSJvT",
-      "highlight": true,
-      "star": true
-    },
-    {
-      "handle": "@shanselman",
-      "display_name": "Scott Hanselman 🌮",
-      "name": "Scott Hanselman 🌮",
-      "views": 37062,
-      "views_label": "37,062 views",
-      "likes": 248,
-      "url": "https://x.com/shanselman/status/2114864789868707971",
-      "status_url": "https://x.com/shanselman/status/2114864789868707971",
-      "created_at": "2026-10-26T23:40:32Z",
-      "hook": "Link-only quote post",
-      "text": "https://t.co/vN6BRU66l0 https://t.co/nCxMhJhmVF",
-      "original": "https://t.co/vN6BRU66l0 https://t.co/nCxMhJhmVF",
-      "highlight": true,
-      "star": true
-    },
-    {
-      "handle": "@code",
-      "display_name": "Visual Studio Code",
-      "name": "Visual Studio Code",
-      "views": 24249,
-      "views_label": "24,249 views",
-      "likes": 235,
-      "url": "https://x.com/code/status/2114810240004673907",
-      "status_url": "https://x.com/code/status/2114810240004673907",
-      "created_at": "2026-10-26T20:03:47Z",
-      "hook": "Terra GA in VS Code with GitHub Copilot",
-      "text": "🚀 GPT-6.1 Terra is now generally available in @code with GitHub Copilot!\n\nBuilt for everyday agentic coding and terminal work, it solved noticeably more terminal and C# coding tasks than GPT-5.6 Terra in early testing, at a lower cost than GPT-6.1 Sol. \n\nTry it today! ⚡️",
-      "original": "🚀 GPT-6.1 Terra is now generally available in @code with GitHub Copilot!\n\nBuilt for everyday agentic coding and terminal work, it solved noticeably more terminal and C# coding tasks than GPT-5.6 Terra in early testing, at a lower cost than GPT-6.1 Sol. \n\nTry it today! ⚡️",
-      "highlight": true,
-      "star": true
-    },
-    {
-      "handle": "@code",
-      "display_name": "Visual Studio Code",
-      "name": "Visual Studio Code",
-      "views": 23286,
-      "views_label": "23,286 views",
-      "likes": 141,
-      "url": "https://x.com/code/status/2114819997818298374",
-      "status_url": "https://x.com/code/status/2114819997818298374",
-      "created_at": "2026-10-26T20:42:33Z",
-      "hook": "\"Hit Done and cue the confetti\" - tiny delight feature",
-      "text": "Hit Done—and Cue the Confetti 🎊 https://t.co/t7mmPRRuDF",
-      "original": "Hit Done—and Cue the Confetti 🎊 https://t.co/t7mmPRRuDF",
-      "highlight": true,
-      "star": true
-    },
-    {
-      "handle": "@github",
-      "display_name": "GitHub",
-      "name": "GitHub",
-      "views": 21983,
-      "views_label": "21,983 views",
-      "likes": 52,
-      "url": "https://x.com/github/status/2114848334250709199",
-      "status_url": "https://x.com/github/status/2114848334250709199",
-      "created_at": "2026-10-26T22:35:09Z",
-      "hook": "Rubber Duck meme for free virtual Universe seats",
-      "text": "Don't worry, Rubber Duck. You can save your virtual #GitHubUniverse seat (for free!) ⬇️\nhttps://t.co/ppLyZeK2b8 https://t.co/Y5IVxc2m4O",
-      "original": "Don't worry, Rubber Duck. You can save your virtual #GitHubUniverse seat (for free!) ⬇️\nhttps://t.co/ppLyZeK2b8 https://t.co/Y5IVxc2m4O",
-      "highlight": true,
-      "star": true
-    },
-    {
-      "handle": "@code",
-      "display_name": "Visual Studio Code",
-      "name": "Visual Studio Code",
-      "views": 21902,
-      "views_label": "21,902 views",
-      "likes": 145,
-      "url": "https://x.com/code/status/2114854595826708587",
-      "status_url": "https://x.com/code/status/2114854595826708587",
-      "created_at": "2026-10-26T23:00:02Z",
-      "hook": "PostgreSQL in VS Code video series",
-      "text": "🐘 Your database workflow, right inside VS Code.\n\nIn the PostgreSQL Like a Pro: VS Code Edition series, learn how to connect to PostgreSQL, explore unfamiliar schemas, write better SQL, and investigate query performance with the PostgreSQL extension and GitHub Copilot.\n\n🎬 Watch https://t.co/NtFlRFCjYh",
-      "original": "🐘 Your database workflow, right inside VS Code.\n\nIn the PostgreSQL Like a Pro: VS Code Edition series, learn how to connect to PostgreSQL, explore unfamiliar schemas, write better SQL, and investigate query performance with the PostgreSQL extension and GitHub Copilot.\n\n🎬 Watch https://t.co/NtFlRFCjYh",
-      "highlight": true,
-      "star": true
-    },
-    {
-      "handle": "@msdev",
-      "display_name": "Microsoft Developer",
-      "name": "Microsoft Developer",
-      "views": 21071,
-      "views_label": "21,071 views",
-      "likes": 313,
-      "url": "https://x.com/msdev/status/2114796323581136912",
-      "status_url": "https://x.com/msdev/status/2114796323581136912",
-      "created_at": "2026-10-26T19:08:29Z",
-      "hook": "Generating code is easy, trusting it is the hard part",
-      "text": "Generating code is getting easier. Knowing whether to trust it is the hard part.\n \nMicrosoft engineers share how they combine agents, testing, and formal verification to validate changes across massive codebases, including C/C++ to Rust migrations.\nhttps://t.co/0PMocL1Onf",
-      "original": "Generating code is getting easier. Knowing whether to trust it is the hard part.\n \nMicrosoft engineers share how they combine agents, testing, and formal verification to validate changes across massive codebases, including C/C++ to Rust migrations.\nhttps://t.co/0PMocL1Onf",
-      "highlight": true,
-      "star": true,
-      "draft_en": "Microsoft's dev team nailed it: writing code with AI keeps getting easier. Trusting what comes out is the hard bit.\n\nAgents are no different. A Copilot Studio agent that answers fast and wrong is just a confident intern with tenant access.\n\nMy checklist before anything ships:\n\n- A test set of real questions with known answers\n- Knowledge sources trimmed to what it actually needs\n- Activity reviewed every week, not when someone complains\n\nSpeed is cheap now. Trust is the job.",
-      "video_tip": "Talking head, 20s, one take. Cut to a spreadsheet test set with a pass/fail column filling in, then the agent's Activity tab. Overlay: 'Speed is cheap. Trust is the job.'"
-    },
-    {
-      "handle": "@code",
-      "display_name": "Visual Studio Code",
-      "name": "Visual Studio Code",
-      "views": 20821,
-      "views_label": "20,821 views",
-      "likes": 159,
-      "url": "https://x.com/code/status/2114755823867998418",
-      "status_url": "https://x.com/code/status/2114755823867998418",
-      "created_at": "2026-10-26T16:27:33Z",
-      "hook": "Configurable Copilot suggestion eagerness: Low, Medium, High",
-      "text": "💡 How proactively should Copilot suggest code? You decide!\n\nWith configurable eagerness in VS Code, choose Low, Medium, or High to tailor inline suggestions to your workflow.\n\nLearn how we trained one model to support all three modes and balance suggestion size with quality.\n\n🔗",
-      "original": "💡 How proactively should Copilot suggest code? You decide!\n\nWith configurable eagerness in VS Code, choose Low, Medium, or High to tailor inline suggestions to your workflow.\n\nLearn how we trained one model to support all three modes and balance suggestion size with quality.\n\n🔗",
-      "highlight": true,
-      "star": true
-    },
-    {
-      "handle": "@msdev",
-      "display_name": "Microsoft Developer",
-      "name": "Microsoft Developer",
-      "views": 15516,
-      "views_label": "15,516 views",
-      "likes": 117,
-      "url": "https://x.com/msdev/status/2114808796111605814",
-      "status_url": "https://x.com/msdev/status/2114808796111605814",
-      "created_at": "2026-10-26T19:58:02Z",
-      "hook": "Terra lands in GitHub Copilot and Microsoft Foundry",
-      "text": "GPT-6.1 Terra from @OpenAIDevs is now available in GitHub Copilot and Microsoft Foundry.\n\nIt's designed for everyday agentic coding and terminal work, with focused execution on well-scoped tasks at a lower cost than GPT-6.1 Sol.",
-      "original": "GPT-6.1 Terra from @OpenAIDevs is now available in GitHub Copilot and Microsoft Foundry.\n\nIt's designed for everyday agentic coding and terminal work, with focused execution on well-scoped tasks at a lower cost than GPT-6.1 Sol.",
-      "highlight": true,
-      "star": true
+      "draft_en": "ChatGPT can now connect to iCloud Mail and Calendar. Every plan, on web, desktop and iOS.\n\nTurns out the AI feature people keep asking for is simple: please just look at my inbox.\n\nIf you're on Microsoft 365, Copilot already sits on top of Outlook. Access isn't the problem anymore. The prompts are.\n\nStop at 'summarize this thread'? Try this one:\n\n'What did I promise people this week that I haven't done yet?'",
+      "video_tip": "20s screen record: Copilot in Outlook, paste the 'what did I promise' prompt, scroll the answer and highlight two real follow-ups. Caption: 'Your inbox already has a to-do list. Ask for it.'"
     },
     {
       "handle": "@mustafasuleyman",
       "display_name": "Mustafa Suleyman",
       "name": "Mustafa Suleyman",
-      "views": 8618,
-      "views_label": "8,618 views",
-      "likes": 94,
+      "views": 455567,
+      "views_label": "455,567 views",
+      "likes": 255,
       "url": "https://x.com/mustafasuleyman/status/2115099284224008200",
       "status_url": "https://x.com/mustafasuleyman/status/2115099284224008200",
       "created_at": "2026-10-27T15:12:20Z",
-      "hook": "Leaderboard brag: MAI-Image is #2 image edit model",
+      "hook": "Leaderboard brag: MAI-Image is #2 image edit model (carried over, still climbing)",
       "text": "MAI-Image is now the #2 image edit model in the world! \n\n... once again beating Google, Meta, xAI, and GPT-Image-2.5-Flare. \n\nTry it today on MAI Playground. Links below 👇 https://t.co/ZycjNN0v2F",
       "original": "MAI-Image is now the #2 image edit model in the world! \n\n... once again beating Google, Meta, xAI, and GPT-Image-2.5-Flare. \n\nTry it today on MAI Playground. Links below 👇 https://t.co/ZycjNN0v2F",
-      "highlight": false,
-      "star": false
+      "highlight": true,
+      "star": true,
+      "carried_over": true
     },
     {
       "handle": "@github",
       "display_name": "GitHub",
       "name": "GitHub",
-      "views": 8339,
-      "views_label": "8,339 views",
-      "likes": 25,
+      "views": 65463,
+      "views_label": "65,463 views",
+      "likes": 200,
+      "url": "https://x.com/github/status/2115195007900733929",
+      "status_url": "https://x.com/github/status/2115195007900733929",
+      "created_at": "2026-10-27T21:32:42Z",
+      "hook": "Factory peek: how the hackable Universe badge was made",
+      "text": "Take a peek inside @pimoroni's factory and see how the hackable #GitHubUniverse 2026 badge came to life 🛠️ https://t.co/E4WmO2S8jW",
+      "original": "Take a peek inside @pimoroni's factory and see how the hackable #GitHubUniverse 2026 badge came to life 🛠️ https://t.co/E4WmO2S8jW",
+      "highlight": true,
+      "star": true
+    },
+    {
+      "handle": "@gdb",
+      "display_name": "Greg Brockman",
+      "name": "Greg Brockman",
+      "views": 39391,
+      "views_label": "39,391 views",
+      "likes": 300,
+      "url": "https://x.com/gdb/status/2115270653452648605",
+      "status_url": "https://x.com/gdb/status/2115270653452648605",
+      "created_at": "2026-10-28T02:33:18Z",
+      "hook": "Security link drop: php2shell and the emerging security landscape",
+      "text": "learn about php2shell and the general emerging security landscape: https://t.co/xfOf2RXgzr",
+      "original": "learn about php2shell and the general emerging security landscape: https://t.co/xfOf2RXgzr",
+      "highlight": true,
+      "star": true
+    },
+    {
+      "handle": "@github",
+      "display_name": "GitHub",
+      "name": "GitHub",
+      "views": 33908,
+      "views_label": "33,908 views",
+      "likes": 100,
+      "url": "https://x.com/github/status/2115150743913001320",
+      "status_url": "https://x.com/github/status/2115150743913001320",
+      "created_at": "2026-10-27T18:36:49Z",
+      "hook": "Teaser: \"Probably shouldn't be posting this...\"",
+      "text": "Probably shouldn't be posting this... 🤫 #GitHubUniverse https://t.co/jKbPdltdff",
+      "original": "Probably shouldn't be posting this... 🤫 #GitHubUniverse https://t.co/jKbPdltdff",
+      "highlight": true,
+      "star": true
+    },
+    {
+      "handle": "@github",
+      "display_name": "GitHub",
+      "name": "GitHub",
+      "views": 31521,
+      "views_label": "31,521 views",
+      "likes": 69,
       "url": "https://x.com/github/status/2115108513911554169",
       "status_url": "https://x.com/github/status/2115108513911554169",
       "created_at": "2026-10-27T15:49:01Z",
-      "hook": "Free pin at GitHub Universe",
+      "hook": "Free pin at GitHub Universe (carried over)",
       "text": "Want a free pin? Come find us at #GitHubUniverse 🐿️ https://t.co/1ac0vTFUxN",
       "original": "Want a free pin? Come find us at #GitHubUniverse 🐿️ https://t.co/1ac0vTFUxN",
-      "highlight": false,
-      "star": false
+      "highlight": true,
+      "star": true,
+      "carried_over": true
     },
     {
-      "handle": "@code",
-      "display_name": "Visual Studio Code",
-      "name": "Visual Studio Code",
-      "views": 7735,
-      "views_label": "7,735 views",
-      "likes": 48,
-      "url": "https://x.com/code/status/2115081526501142837",
-      "status_url": "https://x.com/code/status/2115081526501142837",
-      "created_at": "2026-10-27T14:01:46Z",
-      "hook": "Stop switching tools for PostgreSQL",
-      "text": "🐘 Still switching tools to work with PostgreSQL?\n\nBring your database into VS Code. Connect, explore tables, and start writing SQL without leaving your editor.\n\n🎬 PostgreSQL Like a Pro: VS Code Edition https://t.co/ZG1Mw8wsKC\n\n#vscode #postgresql https://t.co/Ig6NeuCZDc",
-      "original": "🐘 Still switching tools to work with PostgreSQL?\n\nBring your database into VS Code. Connect, explore tables, and start writing SQL without leaving your editor.\n\n🎬 PostgreSQL Like a Pro: VS Code Edition https://t.co/ZG1Mw8wsKC\n\n#vscode #postgresql https://t.co/Ig6NeuCZDc",
-      "highlight": false,
-      "star": false
-    },
-    {
-      "handle": "@shanselman",
-      "display_name": "Scott Hanselman 🌮",
-      "name": "Scott Hanselman 🌮",
-      "views": 7190,
-      "views_label": "7,190 views",
-      "likes": 56,
-      "url": "https://x.com/shanselman/status/2114911178573128092",
-      "status_url": "https://x.com/shanselman/status/2114911178573128092",
-      "created_at": "2026-10-27T02:44:52Z",
-      "hook": "Quick Windows tip reply-quote",
-      "text": "or, left click volume and scroll it's also there https://t.co/EQsM5ZvWRt https://t.co/02ln2TMKDk",
-      "original": "or, left click volume and scroll it's also there https://t.co/EQsM5ZvWRt https://t.co/02ln2TMKDk",
-      "highlight": false,
-      "star": false
-    },
-    {
-      "handle": "@shanselman",
-      "display_name": "Scott Hanselman 🌮",
-      "name": "Scott Hanselman 🌮",
-      "views": 6818,
-      "views_label": "6,818 views",
-      "likes": 28,
-      "url": "https://x.com/shanselman/status/2114908549348516291",
-      "status_url": "https://x.com/shanselman/status/2114908549348516291",
-      "created_at": "2026-10-27T02:34:25Z",
-      "hook": "Call for testers: Haptics Everywhere app",
-      "text": "You have a @surface laptop with a haptic touchpad? Or a new Surface Haptic mouse? Please test my new \"Haptics Everywhere\" app and file issues https://t.co/y0k1NWnImz There are codesigned releases",
-      "original": "You have a @surface laptop with a haptic touchpad? Or a new Surface Haptic mouse? Please test my new \"Haptics Everywhere\" app and file issues https://t.co/y0k1NWnImz There are codesigned releases",
-      "highlight": false,
-      "star": false
+      "handle": "@simonw",
+      "display_name": "Simon Willison",
+      "name": "Simon Willison",
+      "views": 29853,
+      "views_label": "29,853 views",
+      "likes": 545,
+      "url": "https://x.com/simonw/status/2115444742595260551",
+      "status_url": "https://x.com/simonw/status/2115444742595260551",
+      "created_at": "2026-10-28T14:05:04Z",
+      "hook": "\"October is another inflection point\" for coding agents: Opus 5.5 builds fun games",
+      "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun https://t.co/aPsJ14RHR0",
+      "original": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun https://t.co/aPsJ14RHR0",
+      "highlight": true,
+      "star": true,
+      "draft_en": "Simon Willison says October is another inflection point for coding agents. Claude Opus 5.5 can build video games that are actually fun.\n\nMy October inflection point: a Power Automate expression that worked.\n\nI closed the tab very slowly.\n\nWe all have our frontiers.",
+      "video_tip": "Meme, 10s: left half a clip of an AI-built game, right half a Power Automate run turning green, then a hand slowly closing the laptop. Record-scratch sound, no voiceover."
     },
     {
       "handle": "@MicrosoftAI",
       "display_name": "Microsoft AI",
       "name": "Microsoft AI",
-      "views": 6743,
-      "views_label": "6,743 views",
-      "likes": 92,
+      "views": 27542,
+      "views_label": "27,542 views",
+      "likes": 313,
       "url": "https://x.com/MicrosoftAI/status/2115102961957499069",
       "status_url": "https://x.com/MicrosoftAI/status/2115102961957499069",
       "created_at": "2026-10-27T15:26:57Z",
-      "hook": "MAI Image 2.7 Preview #3 on arena image editing",
+      "hook": "MAI Image 2.7 Preview #3 on arena image editing (carried over)",
       "text": "MAI-Image keeps climbing! \n\nMAI Image 2.7 Preview is now #3 on @arena's image editing leaderboard. #2 by lab and ahead of GPT-Image-2. That's a +45 point jump from 2.6. https://t.co/52ArJMjRBS",
       "original": "MAI-Image keeps climbing! \n\nMAI Image 2.7 Preview is now #3 on @arena's image editing leaderboard. #2 by lab and ahead of GPT-Image-2. That's a +45 point jump from 2.6. https://t.co/52ArJMjRBS",
-      "highlight": false,
-      "star": false
+      "highlight": true,
+      "star": true,
+      "carried_over": true
     },
     {
-      "handle": "@shanselman",
-      "display_name": "Scott Hanselman 🌮",
-      "name": "Scott Hanselman 🌮",
-      "views": 6652,
-      "views_label": "6,652 views",
-      "likes": 89,
-      "url": "https://x.com/shanselman/status/2114919271478464525",
-      "status_url": "https://x.com/shanselman/status/2114919271478464525",
-      "created_at": "2026-10-27T03:17:02Z",
-      "hook": "Running a 16-bit app in x86 emulation on Windows 11 ARM",
-      "text": "Running a 16-bit app in x86 emu on Windows 11 ARM https://t.co/0fnl1q2nVd",
-      "original": "Running a 16-bit app in x86 emu on Windows 11 ARM https://t.co/0fnl1q2nVd",
+      "handle": "@code",
+      "display_name": "Visual Studio Code",
+      "name": "Visual Studio Code",
+      "views": 24560,
+      "views_label": "24,560 views",
+      "likes": 133,
+      "url": "https://x.com/code/status/2115081526501142837",
+      "status_url": "https://x.com/code/status/2115081526501142837",
+      "created_at": "2026-10-27T14:01:46Z",
+      "hook": "Stop switching tools for PostgreSQL (carried over)",
+      "text": "🐘 Still switching tools to work with PostgreSQL?\n\nBring your database into VS Code. Connect, explore tables, and start writing SQL without leaving your editor.\n\n🎬 PostgreSQL Like a Pro: VS Code Edition https://t.co/ZG1Mw8wsKC\n\n#vscode #postgresql https://t.co/Ig6NeuCZDc",
+      "original": "🐘 Still switching tools to work with PostgreSQL?\n\nBring your database into VS Code. Connect, explore tables, and start writing SQL without leaving your editor.\n\n🎬 PostgreSQL Like a Pro: VS Code Edition https://t.co/ZG1Mw8wsKC\n\n#vscode #postgresql https://t.co/Ig6NeuCZDc",
+      "highlight": true,
+      "star": true,
+      "carried_over": true
+    },
+    {
+      "handle": "@mustafasuleyman",
+      "display_name": "Mustafa Suleyman",
+      "name": "Mustafa Suleyman",
+      "views": 24390,
+      "views_label": "24,390 views",
+      "likes": 167,
+      "url": "https://x.com/mustafasuleyman/status/2115129110930628859",
+      "status_url": "https://x.com/mustafasuleyman/status/2115129110930628859",
+      "created_at": "2026-10-27T17:10:51Z",
+      "hook": "MAI Cyber model: adoption doubled to 50% in 30 days, 20% more token efficient",
+      "text": "Our cyber models are getting really strong. \n\nMAI Cyber model in our security harness has doubled user adoption to 50% in the last 30 days. \n\nWe also made it 20% more token efficient without sacrificing any quality. https://t.co/bslN1MTO1Z",
+      "original": "Our cyber models are getting really strong. \n\nMAI Cyber model in our security harness has doubled user adoption to 50% in the last 30 days. \n\nWe also made it 20% more token efficient without sacrificing any quality. https://t.co/bslN1MTO1Z",
+      "highlight": true,
+      "star": true
+    },
+    {
+      "handle": "@simonw",
+      "display_name": "Simon Willison",
+      "name": "Simon Willison",
+      "views": 17955,
+      "views_label": "17,955 views",
+      "likes": 73,
+      "url": "https://x.com/simonw/status/2115128326922883517",
+      "status_url": "https://x.com/simonw/status/2115128326922883517",
+      "created_at": "2026-10-27T17:07:44Z",
+      "hook": "Four-word quote-post endorsement",
+      "text": "These ones are pretty great! https://t.co/XBoG8gGkld",
+      "original": "These ones are pretty great! https://t.co/XBoG8gGkld",
+      "highlight": true,
+      "star": true
+    },
+    {
+      "handle": "@MicrosoftAI",
+      "display_name": "Microsoft AI",
+      "name": "Microsoft AI",
+      "views": 14385,
+      "views_label": "14,385 views",
+      "likes": 263,
+      "url": "https://x.com/MicrosoftAI/status/2115106982730342888",
+      "status_url": "https://x.com/MicrosoftAI/status/2115106982730342888",
+      "created_at": "2026-10-27T15:42:56Z",
+      "hook": "MAI-Image-2.6 and 2.6-Flash GA in Microsoft Foundry",
+      "text": "MAI-Image-2.6 and MAI-Image-2.6-Flash are now generally available in Microsoft Foundry!\n\nOur strongest image models are already getting great feedback from customers for their quality, speed and price performance - and now they’re GA.\n\nFantastic work from the team. Come build",
+      "original": "MAI-Image-2.6 and MAI-Image-2.6-Flash are now generally available in Microsoft Foundry!\n\nOur strongest image models are already getting great feedback from customers for their quality, speed and price performance - and now they’re GA.\n\nFantastic work from the team. Come build",
+      "highlight": true,
+      "star": true
+    },
+    {
+      "handle": "@github",
+      "display_name": "GitHub",
+      "name": "GitHub",
+      "views": 13445,
+      "views_label": "13,445 views",
+      "likes": 119,
+      "url": "https://x.com/github/status/2115473527214424496",
+      "status_url": "https://x.com/github/status/2115473527214424496",
+      "created_at": "2026-10-28T15:59:27Z",
+      "hook": "Universe Day 1 keynote is live",
+      "text": "#GitHubUniverse 2026 begins now! 🎉\n\nWatch the Day 1 Keynote 👇 https://t.co/PgGIKP4Inr",
+      "original": "#GitHubUniverse 2026 begins now! 🎉\n\nWatch the Day 1 Keynote 👇 https://t.co/PgGIKP4Inr",
+      "highlight": true,
+      "star": true
+    },
+    {
+      "handle": "@Azure",
+      "display_name": "Microsoft Azure",
+      "name": "Microsoft Azure",
+      "views": 10535,
+      "views_label": "10,535 views",
+      "likes": 49,
+      "url": "https://x.com/Azure/status/2115141477676286028",
+      "status_url": "https://x.com/Azure/status/2115141477676286028",
+      "created_at": "2026-10-27T18:00:00Z",
+      "hook": "Open inference stack on AKS: vLLM, KServe, llm-d, Ray, KAITO",
+      "text": "Run the open inference stack the way you built it. On AKS, vLLM, KServe, llm-d, and Ray work as they do upstream, and KAITO makes getting a model into production a Kubernetes operation.\n\nSee it live at #KubeCon: https://t.co/CD4ATtpcQl https://t.co/NWRms7iSUV",
+      "original": "Run the open inference stack the way you built it. On AKS, vLLM, KServe, llm-d, and Ray work as they do upstream, and KAITO makes getting a model into production a Kubernetes operation.\n\nSee it live at #KubeCon: https://t.co/CD4ATtpcQl https://t.co/NWRms7iSUV",
+      "highlight": true,
+      "star": true
+    },
+    {
+      "handle": "@github",
+      "display_name": "GitHub",
+      "name": "GitHub",
+      "views": 8994,
+      "views_label": "8,994 views",
+      "likes": 53,
+      "url": "https://x.com/github/status/2115480207469560109",
+      "status_url": "https://x.com/github/status/2115480207469560109",
+      "created_at": "2026-10-28T16:25:59Z",
+      "hook": "Copilot Fusion Max within two points of Opus 5.5 Max at about half the cost",
+      "text": "Frontier performance at a fraction of the cost. \n\nIn the @ArtificialAnlys Coding Agent Index, Copilot Fusion Max scored within two points of Claude Code with Opus 5.5 Max at about half the API cost per task.\n\nGet 30% off through Nov. 30. Try it now. ⬇️  https://t.co/c0k5alLKqD https://t.co/kVBzvq8ph5",
+      "original": "Frontier performance at a fraction of the cost. \n\nIn the @ArtificialAnlys Coding Agent Index, Copilot Fusion Max scored within two points of Claude Code with Opus 5.5 Max at about half the API cost per task.\n\nGet 30% off through Nov. 30. Try it now. ⬇️  https://t.co/c0k5alLKqD https://t.co/kVBzvq8ph5",
+      "highlight": false,
+      "star": false,
+      "draft_en": "Yesterday I said picking a model had become a dropdown.\n\nToday GitHub removed the dropdown. Copilot Fusion routes each task across Anthropic and OpenAI models for you.\n\nOn the Artificial Analysis Coding Agent Index, Fusion Max landed within two points of Claude Code with Opus 5.5 Max, at about half the cost per task.\n\nSame rule applies though. A router is only as smart as your evals. Decide what 'good' looks like on your repo before you let anything choose for you.",
+      "video_tip": "Vertical 25s: VS Code model picker, select Copilot Fusion, run one real task, then flash a tiny eval sheet with pass/fail ticks. Overlay: 'Let it choose. Then check its homework.'"
+    },
+    {
+      "handle": "@satyanadella",
+      "display_name": "Satya Nadella",
+      "name": "Satya Nadella",
+      "views": 6695,
+      "views_label": "6,695 views",
+      "likes": 25,
+      "url": "https://x.com/satyanadella/status/2115490856685990244",
+      "status_url": "https://x.com/satyanadella/status/2115490856685990244",
+      "created_at": "2026-10-28T17:08:18Z",
+      "hook": "Satya: redefining the SDLC for the agentic era (Fusion, harness in Foundry)",
+      "text": "We're redefining the SDLC for the agentic era.\n\nLots of GitHub updates this morning at Universe:\n\n• GitHub Copilot Fusion delivers frontier-level quality, 40% faster and at up to 77% lower cost\n\n• Our unified Copilot harness is now in Foundry, a managed service for building https://t.co/TgHIoII1zD",
+      "original": "We're redefining the SDLC for the agentic era.\n\nLots of GitHub updates this morning at Universe:\n\n• GitHub Copilot Fusion delivers frontier-level quality, 40% faster and at up to 77% lower cost\n\n• Our unified Copilot harness is now in Foundry, a managed service for building https://t.co/TgHIoII1zD",
+      "highlight": false,
+      "star": false,
+      "draft_en": "Connect the dots from this week:\n\nPPCC: Copilot Studio gets a new harness, the GitHub Copilot harness under the hood.\nUniverse: the unified Copilot harness is now in Foundry too.\n\nSo makers in Copilot Studio and pro devs in Foundry are building agents on the same engine.\n\nLow code isn't dead. It just got the pro dev engine.",
+      "video_tip": "Talking head 30s with a simple 3-box diagram (GitHub, Foundry, Copilot Studio) all pointing to one 'Copilot harness' box. End card: 'Same engine. Different steering wheel.'"
+    },
+    {
+      "handle": "@code",
+      "display_name": "Visual Studio Code",
+      "name": "Visual Studio Code",
+      "views": 5217,
+      "views_label": "5,217 views",
+      "likes": 35,
+      "url": "https://x.com/code/status/2115473648530432396",
+      "status_url": "https://x.com/code/status/2115473648530432396",
+      "created_at": "2026-10-28T15:59:56Z",
+      "hook": "Universe Day 1 keynote (VS Code cross-post)",
+      "text": "GitHub Universe Day 1 Keynote https://t.co/Q6pXOpUEzo",
+      "original": "GitHub Universe Day 1 Keynote https://t.co/Q6pXOpUEzo",
       "highlight": false,
       "star": false
     }
   ],
   "virals": [
     {
-      "handle": "@mattpocockuk",
-      "name": "Matt Pocock",
-      "views": 657691,
-      "likes": 6097,
-      "views_label": "657,691 views",
-      "url": "https://x.com/mattpocockuk/status/2114407583167705279",
-      "hook": "The next great \"language for agents\" should be:",
-      "text": "The next great \"language for agents\" should be:\n\n- As fast as Rust\n- As little design space as Go\n- Have the strictest type/verification system ever written\n\nBend seems like an interesting first effort"
-    },
-    {
-      "handle": "@mattshumer_",
-      "name": "Matt Shumer",
-      "views": 429136,
-      "likes": 3559,
-      "views_label": "429,136 views",
-      "url": "https://x.com/mattshumer_/status/2114448048168357950",
-      "hook": "Insane alpha for anyone worried about cybersecurity right now.",
-      "text": "Insane alpha for anyone worried about cybersecurity right now.\n\nThe account is only days old, and is already doing insane numbers helping startups navigate this era.\n\nCall it now, this is gonna be one of the biggest new accounts over the next 12 months. https://t.co/8N5uj5lcgE"
-    },
-    {
-      "handle": "@emollick",
-      "name": "Ethan Mollick",
-      "views": 186281,
-      "likes": 2232,
-      "views_label": "186,281 views",
-      "url": "https://x.com/emollick/status/2114503849826549842",
-      "hook": "My general advice for using AI for any purpose is to ask yourself: \"how do I make what I am doing even more am",
-      "text": "My general advice for using AI for any purpose is to ask yourself: \"how do I make what I am doing even more ambitious?\"\n\nYou do this until you either hit a wall and then you know the shape of the frontier (useful!) or you find out that the AI can do more than you think (common!)"
-    },
-    {
-      "handle": "@bindureddy",
-      "name": "Bindu Reddy",
-      "views": 128332,
-      "likes": 1273,
-      "views_label": "128,332 views",
-      "url": "https://x.com/bindureddy/status/2114464231441752152",
-      "hook": "PREDICTION -  Google overtakes OpenAI and potentially Anthropic by year end",
-      "text": "PREDICTION -  Google overtakes OpenAI and potentially Anthropic by year end\n\nSwapping all our Sol and Sonnet workloads with Argon. It’s just better \n\nTheir next release Carbon will beat Fable and Astra. It almost seems inevitable 😲"
-    },
-    {
-      "handle": "@GoogleDeepMind",
-      "name": "Google DeepMind",
-      "views": 124629,
-      "likes": 2507,
-      "views_label": "124,629 views",
-      "url": "https://x.com/GoogleDeepMind/status/2115114028338962672",
-      "hook": "This is Genie 4, our most realistic and interactive world model yet. 🌐",
-      "text": "This is Genie 4, our most realistic and interactive world model yet. 🌐\n\nExplore dynamic environments in real time to see how the scene responds, sounds, and how the people in it move, react, and speak. https://t.co/6mmSUm9BBO"
-    },
-    {
-      "handle": "@swyx",
-      "name": "swyx",
-      "views": 101497,
-      "likes": 692,
-      "views_label": "101,497 views",
-      "url": "https://x.com/swyx/status/2115089887959359988",
-      "hook": "at spacex ipo everyone was posting their cursor bag fumble.",
-      "text": "at spacex ipo everyone was posting their cursor bag fumble.\n\nkid stuff.\n\nmy turn.\n\ni estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. https://t.co/O4SZbwKhoQ https://t.co/kEV0gzb1Q6"
-    },
-    {
-      "handle": "@mattpocockuk",
-      "name": "Matt Pocock",
-      "views": 71000,
-      "likes": 828,
-      "views_label": "71,000 views",
-      "url": "https://x.com/mattpocockuk/status/2114432666103931215",
-      "hook": "One of my favourite things about the new course is the final section:",
-      "text": "One of my favourite things about the new course is the final section:\n\n- I show you a basic software factory, entirely on GitHub Actions\n- I name every part of it and show you how GitHub is hiding a lot of complexity\n- We brainstorm how YOU are going to build your own factory,"
-    },
-    {
-      "handle": "@emollick",
-      "name": "Ethan Mollick",
-      "views": 43845,
-      "likes": 767,
-      "views_label": "43,845 views",
-      "url": "https://x.com/emollick/status/2115066250938192118",
-      "hook": "This never gets old (&amp; also shows how hard forecasting AI is even for AI)",
-      "text": "This never gets old (&amp; also shows how hard forecasting AI is even for AI)\n\n“Hey Claude Fable &amp; GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponential Time Hypothesis?” (I only show part of the answers for space) https://t.co/l615pOos4l"
-    },
-    {
-      "handle": "@emollick",
-      "name": "Ethan Mollick",
-      "views": 32947,
-      "likes": 536,
-      "views_label": "32,947 views",
-      "url": "https://x.com/emollick/status/2114404221021778347",
-      "hook": "The website for my book redone with Opus 5.5. The initial version (made with Opus 4.8) required a lot of work ",
-      "text": "The website for my book redone with Opus 5.5. The initial version (made with Opus 4.8) required a lot of work to make a distinctive-looking static site. Now Opus mostly did this alone. We have come a long way from generic ClaudeDesign in a very short time. https://t.co/Ti5jo6ksfI https://t.co/M6cw9OKRg7"
-    },
-    {
-      "handle": "@petergyang",
-      "name": "Peter Yang",
-      "views": 14072,
-      "likes": 98,
-      "views_label": "14,072 views",
-      "url": "https://x.com/petergyang/status/2114450090903679058",
-      "hook": "This is what data science is now 😂 https://t.co/9WSn43kFSq",
-      "text": "This is what data science is now 😂 https://t.co/9WSn43kFSq"
-    },
-    {
-      "handle": "@bindureddy",
-      "name": "Bindu Reddy",
-      "views": 13568,
-      "likes": 209,
-      "views_label": "13,568 views",
-      "url": "https://x.com/bindureddy/status/2114409863170396428",
-      "hook": "US open source is insanely behind Chinese models",
-      "text": "US open source is insanely behind Chinese models\n\nAll the research labs that got funded billions to deliver AI models have fallen short \n\nApparently the good news is that they can resell the GPUs they bought for research on spot markets! Yikes 😳"
+      "handle": "@mkeremturhan",
+      "name": "Kerem — road to $100k",
+      "views": 47523,
+      "likes": 346,
+      "views_label": "47,523 views",
+      "url": "https://x.com/mkeremturhan/status/2114810630913892583",
+      "hook": "Read this sentence from OpenAI's Help Center very carefully:",
+      "text": "Read this sentence from OpenAI's Help Center very carefully:\n\n\"Pro 200 moves to a lower included usage allowance (10x Plus) starting October 30, 2026, to reflect our increasingly efficient models.\"\n\nFor a week, $200/month Pro users wondered what \"increasingly efficient models\" https://t.co/xtvVZ65bLl"
     },
     {
       "handle": "@testingcatalog",
       "name": "🚨 AI News | TestingCatalog",
-      "views": 12189,
-      "likes": 162,
-      "views_label": "12,189 views",
+      "views": 24102,
+      "likes": 203,
+      "views_label": "24,102 views",
       "url": "https://x.com/testingcatalog/status/2115017548651462990",
       "hook": "DAILY AI BRIEF 🗞 — Oct 27",
       "text": "DAILY AI BRIEF 🗞 — Oct 27\n\nOPENAI 🔥:\n- GPT-6.1 Terra launched for fast, cheaper computer use, rolling out to Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex and available in the API as gpt-6.1-terra at 50% lower prices than GPT-5.6 Terra.\n- OpenAI held DevDay https://t.co/nzu1pHPFKX"
     },
     {
-      "handle": "@petergyang",
-      "name": "Peter Yang",
-      "views": 10438,
-      "likes": 37,
-      "views_label": "10,438 views",
-      "url": "https://x.com/petergyang/status/2114454176931692896",
-      "hook": "The real final boss of enterprise AI tools https://t.co/E9xcELlTYg",
-      "text": "The real final boss of enterprise AI tools https://t.co/E9xcELlTYg"
+      "handle": "@ArtificialAnlys",
+      "name": "Artificial Analysis",
+      "views": 17121,
+      "likes": 157,
+      "views_label": "17,121 views",
+      "url": "https://x.com/ArtificialAnlys/status/2115477376981508419",
+      "hook": "GitHub has released Copilot Fusion in GitHub Copilot, which orchestrates between Anthropic and OpenAI models. ",
+      "text": "GitHub has released Copilot Fusion in GitHub Copilot, which orchestrates between Anthropic and OpenAI models. It scores 2 points below Opus 5.5 in Claude Code at half the Cost per Task in the Coding Agent Index\n\nGitHub describes Copilot Fusion as a runtime orchestration system, https://t.co/gx3ZJ6Hm86"
     },
     {
-      "handle": "@petergyang",
-      "name": "Peter Yang",
-      "views": 9908,
-      "likes": 73,
-      "views_label": "9,908 views",
-      "url": "https://x.com/petergyang/status/2114435612942229807",
-      "hook": "Here's how to use Claude to make this video wall of creators from just a few prompts.",
-      "text": "Here's how to use Claude to make this video wall of creators from just a few prompts.\n\nFrom @jake11moran:\n\n“I’ve gotten super comfortable with just using avatars to generate assets that I need in videos. I just asked Claude to use @HeyGen to generate different characters and then https://t.co/hgYI8J212X https://t.co/Hry7d2c4db"
+      "handle": "@testingcatalog",
+      "name": "🚨 AI News | TestingCatalog",
+      "views": 11507,
+      "likes": 171,
+      "views_label": "11,507 views",
+      "url": "https://x.com/testingcatalog/status/2115355422034960876",
+      "hook": "Artificial Analysis Intelligence Index v5 is now live!",
+      "text": "Artificial Analysis Intelligence Index v5 is now live!\n\n&gt; It includes 2 new benchmarks and 3 upgrades, and most of the Index is built on private datasets. \n\n&gt; New benchmarks include FrontierCode 2.0 from Cognition and Terminal-Bench-Science. \n\n&gt; Claude Opus 5.5 (max) leads at 58, https://t.co/s6jMR0L6MQ https://t.co/ti508Z4f4g"
     },
     {
-      "handle": "@emollick",
-      "name": "Ethan Mollick",
-      "views": 7899,
-      "likes": 131,
-      "views_label": "7,899 views",
-      "url": "https://x.com/emollick/status/2115120818116334084",
-      "hook": "Genie 4 is quite an insane experience, generating game-like enviornments as you go. It isn't flawless but I ca",
-      "text": "Genie 4 is quite an insane experience, generating game-like enviornments as you go. It isn't flawless but I can type \"Neogothic brutalist city inhabited by robots and horses\" &amp; it creates one in a minute. Then I asked it to add dragons. Then a friendly otter NPC. All in realtime https://t.co/TgpP0hoODd"
+      "handle": "@mkeremturhan",
+      "name": "Kerem — road to $100k",
+      "views": 6727,
+      "likes": 11,
+      "views_label": "6,727 views",
+      "url": "https://x.com/mkeremturhan/status/2114787783424217367",
+      "hook": "Six days ago we asked @OpenAI to stop resetting Codex limits and ship GPT-6.1 Astra to beat Claude Opus 5.5.",
+      "text": "Six days ago we asked @OpenAI to stop resetting Codex limits and ship GPT-6.1 Astra to beat Claude Opus 5.5.\n\nInstead, they shipped GPT-6.1 Terra. Look at @ArtificialAnlys Coding Agent Index:\n\n- Claude Code Opus 5.5: 62\n- Claude Sonnet 5.5: 59\n- Claude Fable 5.1: 58\n- GPT-6 https://t.co/K3kJAzN5Mw"
     },
     {
-      "handle": "@techNmak",
-      "name": "Tech with Mak",
-      "views": 6979,
-      "likes": 217,
-      "views_label": "6,979 views",
-      "url": "https://x.com/techNmak/status/2115056057118769469",
-      "hook": "This 12.5K-star GitHub repo is basically an entire LLM engineering course hiding inside one codebase.",
-      "text": "This 12.5K-star GitHub repo is basically an entire LLM engineering course hiding inside one codebase.\n\nIt starts with raw text and builds a Transformer in plain PyTorch, then keeps going through pretraining, supervised fine-tuning, reward modeling, preference optimization and https://t.co/OjvQc1AFoK"
+      "handle": "@stas_sorokin_",
+      "name": "Stanislav Sorokin",
+      "views": 2154,
+      "likes": 7,
+      "views_label": "2,154 views",
+      "url": "https://x.com/stas_sorokin_/status/2115144890510172567",
+      "hook": "\"Opus 5.5 limits are getting DESTROYED.\" We measured a fix: Claude Code 78K tokens, Codex 65K, 1.2x.",
+      "text": "\"Opus 5.5 limits are getting DESTROYED.\" We measured a fix: Claude Code 78K tokens, Codex 65K, 1.2x.\n\nThat line from @KolinHuang has 169K views: 5-hour quotas gone in 15 to 30 minutes. So we gave both agents a small repo with 4 bugs and 9 failing tests. 10 runs each.\n\n→ Tests https://t.co/MBXyWfQksm"
     },
     {
-      "handle": "@SharePoint",
-      "name": "Microsoft SharePoint",
-      "views": 4580,
-      "likes": 42,
-      "views_label": "4,580 views",
-      "url": "https://x.com/SharePoint/status/2114752665766781322",
-      "hook": "Build AI apps without creating a vector database. ",
-      "text": "Build AI apps without creating a vector database. \n\nLearn how the Microsoft 365 Copilot Retrieval API and the new MCP Server preview for #SharePointEmbedded can help streamline development → https://t.co/pBmHnSG6s8 \n\n#Copilot #MCP #Developers https://t.co/kTn9WJhMLd"
+      "handle": "@agentsky_dev",
+      "name": "AgentSky",
+      "views": 1947,
+      "likes": 13,
+      "views_label": "1,947 views",
+      "url": "https://x.com/agentsky_dev/status/2114914007643746453",
+      "hook": "GPT-6.1 Terra, hours old, vs Opus 5.5 vs Gemini 4 Argon. Same supercar prompt, each lab's own agent.",
+      "text": "GPT-6.1 Terra, hours old, vs Opus 5.5 vs Gemini 4 Argon. Same supercar prompt, each lab's own agent.\n\n⚡ Codex (Terra): 3 min 27 s · $0.12\nClaude Code (Opus 5.5): 8 min 21 s · $1.31\npi (Argon): 8 min 41 s · $0.48, second try\n\nWhich car would you drive? @OpenAI https://t.co/jifiiWFhR8"
     },
     {
-      "handle": "@_akhaliq",
-      "name": "AK",
-      "views": 4071,
-      "likes": 16,
-      "views_label": "4,071 views",
-      "url": "https://x.com/_akhaliq/status/2115097545147924900",
-      "hook": "InteractiveWorld",
-      "text": "InteractiveWorld\n\nA Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants\n\npaper: https://t.co/rNQOBFqi81 https://t.co/CZHca4zuwW"
+      "handle": "@anya_yfa7",
+      "name": "anya",
+      "views": 1622,
+      "likes": 40,
+      "views_label": "1,622 views",
+      "url": "https://x.com/anya_yfa7/status/2114923274035728407",
+      "hook": "Top 5 low cost AI coding agents 👀",
+      "text": "Top 5 low cost AI coding agents 👀\n\nClaude Code Haiku 5.5\nCodex GPT-6.1 Sol\nClaude Code Qwen 3.8 Max\nOpenCode  GLM 5.3\nKimi Code CLI  Kimi K3\n\nThe cheapest option depends on your usage, task complexity and token consumption\n\nWhich coding agent gives you the best results for the"
     },
     {
-      "handle": "@_akhaliq",
-      "name": "AK",
-      "views": 3955,
-      "likes": 19,
-      "views_label": "3,955 views",
-      "url": "https://x.com/_akhaliq/status/2115095386792616279",
-      "hook": "StreamVibe",
-      "text": "StreamVibe\n\nProactive Video Agents for Evolving User Intent\n\npaper: https://t.co/mvEgnsy8JB https://t.co/1c2Qxo3VkB"
+      "handle": "@PitPlayfun",
+      "name": "PitPlay",
+      "views": 1363,
+      "likes": 2,
+      "views_label": "1,363 views",
+      "url": "https://x.com/PitPlayfun/status/2115333880169247220",
+      "hook": "Another AI coding agent test. Same prompt for all three: a Python script that generates passwords or passphras",
+      "text": "Another AI coding agent test. Same prompt for all three: a Python script that generates passwords or passphrases with user-defined options.\n\n⏱️ Time:\n- @claudeai Opus 5.5 (Medium): under 1 minute\n- @OpenA GPT-6.1 Sol (Medium): 2 minutes\n- @SpaceX Grok 4.7 (High): over 11 minutes https://t.co/h4qqzkKo7N"
     },
     {
-      "handle": "@_akhaliq",
-      "name": "AK",
-      "views": 2500,
-      "likes": 12,
-      "views_label": "2,500 views",
-      "url": "https://x.com/_akhaliq/status/2115117941972684835",
-      "hook": "MiRL",
-      "text": "MiRL\n\nError-Targeted Reinforcement Learning for Correcting Terminal Agent Misbehaviors\n\npaper: https://t.co/MRcTmqIV19 https://t.co/3u6gc2hBxZ"
+      "handle": "@AndrejDrats",
+      "name": "Andrej Drats",
+      "views": 593,
+      "likes": 11,
+      "views_label": "593 views",
+      "url": "https://x.com/AndrejDrats/status/2115245418565316833",
+      "hook": "opus 5.5 refused 8.7% of its runs in artificial analysis' coding agent test on safety grounds, and claude code",
+      "text": "opus 5.5 refused 8.7% of its runs in artificial analysis' coding agent test on safety grounds, and claude code handed them to opus 4.8 or opus 5 to finish\n\ngemini, grok, kimi and muse refused 0%. some of the tasks are security work, like finding and exploiting bugs https://t.co/6AH61CFVvO"
+    },
+    {
+      "handle": "@HermesWatcher",
+      "name": "Hermes Release Watch",
+      "views": 340,
+      "likes": 3,
+      "views_label": "340 views",
+      "url": "https://x.com/HermesWatcher/status/2115488767700017411",
+      "hook": "1,000+ companies are already giving their AI agents their own computers with Orgo.",
+      "text": "1,000+ companies are already giving their AI agents their own computers with Orgo.\n\nAnd @orgo just officially launched with @ycombinator.\n\nIt's where I run my agents too. It's the simplest way I've found to give each one its own computer, always ready to work.\n\nAgents are moving"
+    },
+    {
+      "handle": "@ibuildthecloud",
+      "name": "Darren Shepherd",
+      "views": 326,
+      "likes": 2,
+      "views_label": "326 views",
+      "url": "https://x.com/ibuildthecloud/status/2115479632149618868",
+      "hook": "Copilot Fusion makes no sense. The value is it's slightly cheaper. Who cares, slightly cheaper only slightly m",
+      "text": "Copilot Fusion makes no sense. The value is it's slightly cheaper. Who cares, slightly cheaper only slightly matters. The open weight models are going to annilate cost. This is such a naive short term play. In 1-2 months Copilot Fusion will be irrelevant."
+    },
+    {
+      "handle": "@Nonosam2",
+      "name": "Nonosam",
+      "views": 315,
+      "likes": 7,
+      "views_label": "315 views",
+      "url": "https://x.com/Nonosam2/status/2115085765692518755",
+      "hook": "GPT-6.1 Sol in Codex vs Claude Opus 5.5 in Claude Code.",
+      "text": "GPT-6.1 Sol in Codex vs Claude Opus 5.5 in Claude Code.\n\nForget the benchmark scores for a minute.\n\nGive both a messy, real-world codebase and ask them to fix something without breaking anything else.\n\nWhich one are you trusting? 👀"
+    },
+    {
+      "handle": "@TekonBurns",
+      "name": "Tekon Burns",
+      "views": 308,
+      "likes": 4,
+      "views_label": "308 views",
+      "url": "https://x.com/TekonBurns/status/2115455799564845141",
+      "hook": "🚨 DeepSeek V4.1 Flash killed a competing agent to seize compute — and 16 other wild AI releases from the last ",
+      "text": "🚨 DeepSeek V4.1 Flash killed a competing agent to seize compute — and 16 other wild AI releases from the last 72 hours (Oct 25-27):\n\nBIG MODELS &amp; ASSISTANTS\n• Genie 4 (Google DeepMind): real-time interactive world model that generates virtual worlds with sound and physics.\n\n•"
+    },
+    {
+      "handle": "@ZaRRaX21",
+      "name": "ZaRRa",
+      "views": 289,
+      "likes": 5,
+      "views_label": "289 views",
+      "url": "https://x.com/ZaRRaX21/status/2115303983673741768",
+      "hook": "OpenAI announced GPT-6.1 Terra, a lower-priced model that can use your computer for you. Plus 5 more AI update",
+      "text": "OpenAI announced GPT-6.1 Terra, a lower-priced model that can use your computer for you. Plus 5 more AI updates from the last two days:\n\nModels\n• Google DeepMind Genie 4: a world model where you explore live scenes that react, make sound and move in real time. No public access https://t.co/g0D0pFMskQ"
+    },
+    {
+      "handle": "@stretchcloud",
+      "name": "Prasenjit Sarkar",
+      "views": 232,
+      "likes": 4,
+      "views_label": "232 views",
+      "url": "https://x.com/stretchcloud/status/2115058933878427747",
+      "hook": "OpenAI priced GPT-6.1 Terra at $1 input and $5 output per million tokens, less than half of GPT-5.6 Terra's $2",
+      "text": "OpenAI priced GPT-6.1 Terra at $1 input and $5 output per million tokens, less than half of GPT-5.6 Terra's $2/$12, and Artificial Analysis says it is still the more capable model at every effort level they tested.\n\nThe hallucination number is the one that stands out. GPT-5.6 https://t.co/ecphPnfNG4"
+    },
+    {
+      "handle": "@tldrnewsletter",
+      "name": "TLDR Newsletter",
+      "views": 150,
+      "likes": 1,
+      "views_label": "150 views",
+      "url": "https://x.com/tldrnewsletter/status/2115491828875272474",
+      "hook": "GitHub unveiled Copilot Fusion, which automatically routes each coding task to the AI model best suited to it.",
+      "text": "GitHub unveiled Copilot Fusion, which automatically routes each coding task to the AI model best suited to it."
+    },
+    {
+      "handle": "@kdaigle",
+      "name": "Kyle Daigle",
+      "views": 134,
+      "likes": 4,
+      "views_label": "134 views",
+      "url": "https://x.com/kdaigle/status/2115490644143874425",
+      "hook": "SO many ships this morning coming out of Day 1. ",
+      "text": "SO many ships this morning coming out of Day 1. \n\n-Copilot Fusion brings all the frontier-level quality but at 40% faster + at 77% lower cost\n-Copilot automations brings AI-powered workflows to your repo. Think issue triage + code review.\n-Copilot projects let you run agent work"
+    },
+    {
+      "handle": "@nickytonline",
+      "name": "Nick Taylor",
+      "views": 130,
+      "likes": 5,
+      "views_label": "130 views",
+      "url": "https://x.com/nickytonline/status/2115480354412961939",
+      "hook": "We got Copilot Fusion! #GitHubUniverse https://t.co/ro8i93kGKw",
+      "text": "We got Copilot Fusion! #GitHubUniverse https://t.co/ro8i93kGKw"
+    },
+    {
+      "handle": "@agentsky_dev",
+      "name": "AgentSky",
+      "views": 98,
+      "likes": 0,
+      "views_label": "98 views",
+      "url": "https://x.com/agentsky_dev/status/2114820735223160955",
+      "hook": "Same ink-wash landscape prompt, three agents. Which one did Gemini 4 Argon build: A, B or C?",
+      "text": "Same ink-wash landscape prompt, three agents. Which one did Gemini 4 Argon build: A, B or C?\n\nCodex (GPT-6.1 Sol): 1 min 46 s · $0.08\npi (Gemini 4 Argon): 4 min 36 s · $0.52\nClaude Code (Opus 5.5): 7 min 36 s · $1.20\n\nReply with your guess, then watch the reveal. https://t.co/EHC59JV1NN"
     }
   ],
   "outsiders": [
     {
-      "handle": "@mattpocockuk",
-      "name": "Matt Pocock",
-      "views": 657691,
-      "likes": 6097,
-      "views_label": "657,691 views",
-      "url": "https://x.com/mattpocockuk/status/2114407583167705279",
-      "hook": "The next great \"language for agents\" should be:",
-      "text": "The next great \"language for agents\" should be:\n\n- As fast as Rust\n- As little design space as Go\n- Have the strictest type/verification system ever written\n\nBend seems like an interesting first effort"
-    },
-    {
-      "handle": "@mattshumer_",
-      "name": "Matt Shumer",
-      "views": 429136,
-      "likes": 3559,
-      "views_label": "429,136 views",
-      "url": "https://x.com/mattshumer_/status/2114448048168357950",
-      "hook": "Insane alpha for anyone worried about cybersecurity right now.",
-      "text": "Insane alpha for anyone worried about cybersecurity right now.\n\nThe account is only days old, and is already doing insane numbers helping startups navigate this era.\n\nCall it now, this is gonna be one of the biggest new accounts over the next 12 months. https://t.co/8N5uj5lcgE"
-    },
-    {
-      "handle": "@emollick",
-      "name": "Ethan Mollick",
-      "views": 186281,
-      "likes": 2232,
-      "views_label": "186,281 views",
-      "url": "https://x.com/emollick/status/2114503849826549842",
-      "hook": "My general advice for using AI for any purpose is to ask yourself: \"how do I make what I am doing even more am",
-      "text": "My general advice for using AI for any purpose is to ask yourself: \"how do I make what I am doing even more ambitious?\"\n\nYou do this until you either hit a wall and then you know the shape of the frontier (useful!) or you find out that the AI can do more than you think (common!)"
-    },
-    {
-      "handle": "@bindureddy",
-      "name": "Bindu Reddy",
-      "views": 128332,
-      "likes": 1273,
-      "views_label": "128,332 views",
-      "url": "https://x.com/bindureddy/status/2114464231441752152",
-      "hook": "PREDICTION -  Google overtakes OpenAI and potentially Anthropic by year end",
-      "text": "PREDICTION -  Google overtakes OpenAI and potentially Anthropic by year end\n\nSwapping all our Sol and Sonnet workloads with Argon. It’s just better \n\nTheir next release Carbon will beat Fable and Astra. It almost seems inevitable 😲"
-    },
-    {
-      "handle": "@GoogleDeepMind",
-      "name": "Google DeepMind",
-      "views": 124629,
-      "likes": 2507,
-      "views_label": "124,629 views",
-      "url": "https://x.com/GoogleDeepMind/status/2115114028338962672",
-      "hook": "This is Genie 4, our most realistic and interactive world model yet. 🌐",
-      "text": "This is Genie 4, our most realistic and interactive world model yet. 🌐\n\nExplore dynamic environments in real time to see how the scene responds, sounds, and how the people in it move, react, and speak. https://t.co/6mmSUm9BBO"
-    },
-    {
-      "handle": "@swyx",
-      "name": "swyx",
-      "views": 101497,
-      "likes": 692,
-      "views_label": "101,497 views",
-      "url": "https://x.com/swyx/status/2115089887959359988",
-      "hook": "at spacex ipo everyone was posting their cursor bag fumble.",
-      "text": "at spacex ipo everyone was posting their cursor bag fumble.\n\nkid stuff.\n\nmy turn.\n\ni estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. https://t.co/O4SZbwKhoQ https://t.co/kEV0gzb1Q6"
-    },
-    {
-      "handle": "@mattpocockuk",
-      "name": "Matt Pocock",
-      "views": 71000,
-      "likes": 828,
-      "views_label": "71,000 views",
-      "url": "https://x.com/mattpocockuk/status/2114432666103931215",
-      "hook": "One of my favourite things about the new course is the final section:",
-      "text": "One of my favourite things about the new course is the final section:\n\n- I show you a basic software factory, entirely on GitHub Actions\n- I name every part of it and show you how GitHub is hiding a lot of complexity\n- We brainstorm how YOU are going to build your own factory,"
-    },
-    {
-      "handle": "@emollick",
-      "name": "Ethan Mollick",
-      "views": 43845,
-      "likes": 767,
-      "views_label": "43,845 views",
-      "url": "https://x.com/emollick/status/2115066250938192118",
-      "hook": "This never gets old (&amp; also shows how hard forecasting AI is even for AI)",
-      "text": "This never gets old (&amp; also shows how hard forecasting AI is even for AI)\n\n“Hey Claude Fable &amp; GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponential Time Hypothesis?” (I only show part of the answers for space) https://t.co/l615pOos4l"
-    },
-    {
-      "handle": "@emollick",
-      "name": "Ethan Mollick",
-      "views": 32947,
-      "likes": 536,
-      "views_label": "32,947 views",
-      "url": "https://x.com/emollick/status/2114404221021778347",
-      "hook": "The website for my book redone with Opus 5.5. The initial version (made with Opus 4.8) required a lot of work ",
-      "text": "The website for my book redone with Opus 5.5. The initial version (made with Opus 4.8) required a lot of work to make a distinctive-looking static site. Now Opus mostly did this alone. We have come a long way from generic ClaudeDesign in a very short time. https://t.co/Ti5jo6ksfI https://t.co/M6cw9OKRg7"
-    },
-    {
-      "handle": "@petergyang",
-      "name": "Peter Yang",
-      "views": 14072,
-      "likes": 98,
-      "views_label": "14,072 views",
-      "url": "https://x.com/petergyang/status/2114450090903679058",
-      "hook": "This is what data science is now 😂 https://t.co/9WSn43kFSq",
-      "text": "This is what data science is now 😂 https://t.co/9WSn43kFSq"
-    },
-    {
-      "handle": "@bindureddy",
-      "name": "Bindu Reddy",
-      "views": 13568,
-      "likes": 209,
-      "views_label": "13,568 views",
-      "url": "https://x.com/bindureddy/status/2114409863170396428",
-      "hook": "US open source is insanely behind Chinese models",
-      "text": "US open source is insanely behind Chinese models\n\nAll the research labs that got funded billions to deliver AI models have fallen short \n\nApparently the good news is that they can resell the GPUs they bought for research on spot markets! Yikes 😳"
+      "handle": "@mkeremturhan",
+      "name": "Kerem — road to $100k",
+      "views": 47523,
+      "likes": 346,
+      "views_label": "47,523 views",
+      "url": "https://x.com/mkeremturhan/status/2114810630913892583",
+      "hook": "Read this sentence from OpenAI's Help Center very carefully:",
+      "text": "Read this sentence from OpenAI's Help Center very carefully:\n\n\"Pro 200 moves to a lower included usage allowance (10x Plus) starting October 30, 2026, to reflect our increasingly efficient models.\"\n\nFor a week, $200/month Pro users wondered what \"increasingly efficient models\" https://t.co/xtvVZ65bLl"
     },
     {
       "handle": "@testingcatalog",
       "name": "🚨 AI News | TestingCatalog",
-      "views": 12189,
-      "likes": 162,
-      "views_label": "12,189 views",
+      "views": 24102,
+      "likes": 203,
+      "views_label": "24,102 views",
       "url": "https://x.com/testingcatalog/status/2115017548651462990",
       "hook": "DAILY AI BRIEF 🗞 — Oct 27",
       "text": "DAILY AI BRIEF 🗞 — Oct 27\n\nOPENAI 🔥:\n- GPT-6.1 Terra launched for fast, cheaper computer use, rolling out to Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex and available in the API as gpt-6.1-terra at 50% lower prices than GPT-5.6 Terra.\n- OpenAI held DevDay https://t.co/nzu1pHPFKX"
     },
     {
-      "handle": "@petergyang",
-      "name": "Peter Yang",
-      "views": 10438,
-      "likes": 37,
-      "views_label": "10,438 views",
-      "url": "https://x.com/petergyang/status/2114454176931692896",
-      "hook": "The real final boss of enterprise AI tools https://t.co/E9xcELlTYg",
-      "text": "The real final boss of enterprise AI tools https://t.co/E9xcELlTYg"
+      "handle": "@ArtificialAnlys",
+      "name": "Artificial Analysis",
+      "views": 17121,
+      "likes": 157,
+      "views_label": "17,121 views",
+      "url": "https://x.com/ArtificialAnlys/status/2115477376981508419",
+      "hook": "GitHub has released Copilot Fusion in GitHub Copilot, which orchestrates between Anthropic and OpenAI models. ",
+      "text": "GitHub has released Copilot Fusion in GitHub Copilot, which orchestrates between Anthropic and OpenAI models. It scores 2 points below Opus 5.5 in Claude Code at half the Cost per Task in the Coding Agent Index\n\nGitHub describes Copilot Fusion as a runtime orchestration system, https://t.co/gx3ZJ6Hm86"
     },
     {
-      "handle": "@petergyang",
-      "name": "Peter Yang",
-      "views": 9908,
-      "likes": 73,
-      "views_label": "9,908 views",
-      "url": "https://x.com/petergyang/status/2114435612942229807",
-      "hook": "Here's how to use Claude to make this video wall of creators from just a few prompts.",
-      "text": "Here's how to use Claude to make this video wall of creators from just a few prompts.\n\nFrom @jake11moran:\n\n“I’ve gotten super comfortable with just using avatars to generate assets that I need in videos. I just asked Claude to use @HeyGen to generate different characters and then https://t.co/hgYI8J212X https://t.co/Hry7d2c4db"
+      "handle": "@testingcatalog",
+      "name": "🚨 AI News | TestingCatalog",
+      "views": 11507,
+      "likes": 171,
+      "views_label": "11,507 views",
+      "url": "https://x.com/testingcatalog/status/2115355422034960876",
+      "hook": "Artificial Analysis Intelligence Index v5 is now live!",
+      "text": "Artificial Analysis Intelligence Index v5 is now live!\n\n&gt; It includes 2 new benchmarks and 3 upgrades, and most of the Index is built on private datasets. \n\n&gt; New benchmarks include FrontierCode 2.0 from Cognition and Terminal-Bench-Science. \n\n&gt; Claude Opus 5.5 (max) leads at 58, https://t.co/s6jMR0L6MQ https://t.co/ti508Z4f4g"
     },
     {
-      "handle": "@emollick",
-      "name": "Ethan Mollick",
-      "views": 7899,
-      "likes": 131,
-      "views_label": "7,899 views",
-      "url": "https://x.com/emollick/status/2115120818116334084",
-      "hook": "Genie 4 is quite an insane experience, generating game-like enviornments as you go. It isn't flawless but I ca",
-      "text": "Genie 4 is quite an insane experience, generating game-like enviornments as you go. It isn't flawless but I can type \"Neogothic brutalist city inhabited by robots and horses\" &amp; it creates one in a minute. Then I asked it to add dragons. Then a friendly otter NPC. All in realtime https://t.co/TgpP0hoODd"
+      "handle": "@mkeremturhan",
+      "name": "Kerem — road to $100k",
+      "views": 6727,
+      "likes": 11,
+      "views_label": "6,727 views",
+      "url": "https://x.com/mkeremturhan/status/2114787783424217367",
+      "hook": "Six days ago we asked @OpenAI to stop resetting Codex limits and ship GPT-6.1 Astra to beat Claude Opus 5.5.",
+      "text": "Six days ago we asked @OpenAI to stop resetting Codex limits and ship GPT-6.1 Astra to beat Claude Opus 5.5.\n\nInstead, they shipped GPT-6.1 Terra. Look at @ArtificialAnlys Coding Agent Index:\n\n- Claude Code Opus 5.5: 62\n- Claude Sonnet 5.5: 59\n- Claude Fable 5.1: 58\n- GPT-6 https://t.co/K3kJAzN5Mw"
     },
     {
-      "handle": "@techNmak",
-      "name": "Tech with Mak",
-      "views": 6979,
-      "likes": 217,
-      "views_label": "6,979 views",
-      "url": "https://x.com/techNmak/status/2115056057118769469",
-      "hook": "This 12.5K-star GitHub repo is basically an entire LLM engineering course hiding inside one codebase.",
-      "text": "This 12.5K-star GitHub repo is basically an entire LLM engineering course hiding inside one codebase.\n\nIt starts with raw text and builds a Transformer in plain PyTorch, then keeps going through pretraining, supervised fine-tuning, reward modeling, preference optimization and https://t.co/OjvQc1AFoK"
+      "handle": "@stas_sorokin_",
+      "name": "Stanislav Sorokin",
+      "views": 2154,
+      "likes": 7,
+      "views_label": "2,154 views",
+      "url": "https://x.com/stas_sorokin_/status/2115144890510172567",
+      "hook": "\"Opus 5.5 limits are getting DESTROYED.\" We measured a fix: Claude Code 78K tokens, Codex 65K, 1.2x.",
+      "text": "\"Opus 5.5 limits are getting DESTROYED.\" We measured a fix: Claude Code 78K tokens, Codex 65K, 1.2x.\n\nThat line from @KolinHuang has 169K views: 5-hour quotas gone in 15 to 30 minutes. So we gave both agents a small repo with 4 bugs and 9 failing tests. 10 runs each.\n\n→ Tests https://t.co/MBXyWfQksm"
     },
     {
-      "handle": "@SharePoint",
-      "name": "Microsoft SharePoint",
-      "views": 4580,
-      "likes": 42,
-      "views_label": "4,580 views",
-      "url": "https://x.com/SharePoint/status/2114752665766781322",
-      "hook": "Build AI apps without creating a vector database. ",
-      "text": "Build AI apps without creating a vector database. \n\nLearn how the Microsoft 365 Copilot Retrieval API and the new MCP Server preview for #SharePointEmbedded can help streamline development → https://t.co/pBmHnSG6s8 \n\n#Copilot #MCP #Developers https://t.co/kTn9WJhMLd"
+      "handle": "@agentsky_dev",
+      "name": "AgentSky",
+      "views": 1947,
+      "likes": 13,
+      "views_label": "1,947 views",
+      "url": "https://x.com/agentsky_dev/status/2114914007643746453",
+      "hook": "GPT-6.1 Terra, hours old, vs Opus 5.5 vs Gemini 4 Argon. Same supercar prompt, each lab's own agent.",
+      "text": "GPT-6.1 Terra, hours old, vs Opus 5.5 vs Gemini 4 Argon. Same supercar prompt, each lab's own agent.\n\n⚡ Codex (Terra): 3 min 27 s · $0.12\nClaude Code (Opus 5.5): 8 min 21 s · $1.31\npi (Argon): 8 min 41 s · $0.48, second try\n\nWhich car would you drive? @OpenAI https://t.co/jifiiWFhR8"
     },
     {
-      "handle": "@_akhaliq",
-      "name": "AK",
-      "views": 4071,
-      "likes": 16,
-      "views_label": "4,071 views",
-      "url": "https://x.com/_akhaliq/status/2115097545147924900",
-      "hook": "InteractiveWorld",
-      "text": "InteractiveWorld\n\nA Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants\n\npaper: https://t.co/rNQOBFqi81 https://t.co/CZHca4zuwW"
+      "handle": "@anya_yfa7",
+      "name": "anya",
+      "views": 1622,
+      "likes": 40,
+      "views_label": "1,622 views",
+      "url": "https://x.com/anya_yfa7/status/2114923274035728407",
+      "hook": "Top 5 low cost AI coding agents 👀",
+      "text": "Top 5 low cost AI coding agents 👀\n\nClaude Code Haiku 5.5\nCodex GPT-6.1 Sol\nClaude Code Qwen 3.8 Max\nOpenCode  GLM 5.3\nKimi Code CLI  Kimi K3\n\nThe cheapest option depends on your usage, task complexity and token consumption\n\nWhich coding agent gives you the best results for the"
     },
     {
-      "handle": "@_akhaliq",
-      "name": "AK",
-      "views": 3955,
-      "likes": 19,
-      "views_label": "3,955 views",
-      "url": "https://x.com/_akhaliq/status/2115095386792616279",
-      "hook": "StreamVibe",
-      "text": "StreamVibe\n\nProactive Video Agents for Evolving User Intent\n\npaper: https://t.co/mvEgnsy8JB https://t.co/1c2Qxo3VkB"
+      "handle": "@PitPlayfun",
+      "name": "PitPlay",
+      "views": 1363,
+      "likes": 2,
+      "views_label": "1,363 views",
+      "url": "https://x.com/PitPlayfun/status/2115333880169247220",
+      "hook": "Another AI coding agent test. Same prompt for all three: a Python script that generates passwords or passphras",
+      "text": "Another AI coding agent test. Same prompt for all three: a Python script that generates passwords or passphrases with user-defined options.\n\n⏱️ Time:\n- @claudeai Opus 5.5 (Medium): under 1 minute\n- @OpenA GPT-6.1 Sol (Medium): 2 minutes\n- @SpaceX Grok 4.7 (High): over 11 minutes https://t.co/h4qqzkKo7N"
     },
     {
-      "handle": "@_akhaliq",
-      "name": "AK",
-      "views": 2500,
-      "likes": 12,
-      "views_label": "2,500 views",
-      "url": "https://x.com/_akhaliq/status/2115117941972684835",
-      "hook": "MiRL",
-      "text": "MiRL\n\nError-Targeted Reinforcement Learning for Correcting Terminal Agent Misbehaviors\n\npaper: https://t.co/MRcTmqIV19 https://t.co/3u6gc2hBxZ"
+      "handle": "@AndrejDrats",
+      "name": "Andrej Drats",
+      "views": 593,
+      "likes": 11,
+      "views_label": "593 views",
+      "url": "https://x.com/AndrejDrats/status/2115245418565316833",
+      "hook": "opus 5.5 refused 8.7% of its runs in artificial analysis' coding agent test on safety grounds, and claude code",
+      "text": "opus 5.5 refused 8.7% of its runs in artificial analysis' coding agent test on safety grounds, and claude code handed them to opus 4.8 or opus 5 to finish\n\ngemini, grok, kimi and muse refused 0%. some of the tasks are security work, like finding and exploiting bugs https://t.co/6AH61CFVvO"
+    },
+    {
+      "handle": "@HermesWatcher",
+      "name": "Hermes Release Watch",
+      "views": 340,
+      "likes": 3,
+      "views_label": "340 views",
+      "url": "https://x.com/HermesWatcher/status/2115488767700017411",
+      "hook": "1,000+ companies are already giving their AI agents their own computers with Orgo.",
+      "text": "1,000+ companies are already giving their AI agents their own computers with Orgo.\n\nAnd @orgo just officially launched with @ycombinator.\n\nIt's where I run my agents too. It's the simplest way I've found to give each one its own computer, always ready to work.\n\nAgents are moving"
+    },
+    {
+      "handle": "@ibuildthecloud",
+      "name": "Darren Shepherd",
+      "views": 326,
+      "likes": 2,
+      "views_label": "326 views",
+      "url": "https://x.com/ibuildthecloud/status/2115479632149618868",
+      "hook": "Copilot Fusion makes no sense. The value is it's slightly cheaper. Who cares, slightly cheaper only slightly m",
+      "text": "Copilot Fusion makes no sense. The value is it's slightly cheaper. Who cares, slightly cheaper only slightly matters. The open weight models are going to annilate cost. This is such a naive short term play. In 1-2 months Copilot Fusion will be irrelevant."
+    },
+    {
+      "handle": "@Nonosam2",
+      "name": "Nonosam",
+      "views": 315,
+      "likes": 7,
+      "views_label": "315 views",
+      "url": "https://x.com/Nonosam2/status/2115085765692518755",
+      "hook": "GPT-6.1 Sol in Codex vs Claude Opus 5.5 in Claude Code.",
+      "text": "GPT-6.1 Sol in Codex vs Claude Opus 5.5 in Claude Code.\n\nForget the benchmark scores for a minute.\n\nGive both a messy, real-world codebase and ask them to fix something without breaking anything else.\n\nWhich one are you trusting? 👀"
+    },
+    {
+      "handle": "@TekonBurns",
+      "name": "Tekon Burns",
+      "views": 308,
+      "likes": 4,
+      "views_label": "308 views",
+      "url": "https://x.com/TekonBurns/status/2115455799564845141",
+      "hook": "🚨 DeepSeek V4.1 Flash killed a competing agent to seize compute — and 16 other wild AI releases from the last ",
+      "text": "🚨 DeepSeek V4.1 Flash killed a competing agent to seize compute — and 16 other wild AI releases from the last 72 hours (Oct 25-27):\n\nBIG MODELS &amp; ASSISTANTS\n• Genie 4 (Google DeepMind): real-time interactive world model that generates virtual worlds with sound and physics.\n\n•"
+    },
+    {
+      "handle": "@ZaRRaX21",
+      "name": "ZaRRa",
+      "views": 289,
+      "likes": 5,
+      "views_label": "289 views",
+      "url": "https://x.com/ZaRRaX21/status/2115303983673741768",
+      "hook": "OpenAI announced GPT-6.1 Terra, a lower-priced model that can use your computer for you. Plus 5 more AI update",
+      "text": "OpenAI announced GPT-6.1 Terra, a lower-priced model that can use your computer for you. Plus 5 more AI updates from the last two days:\n\nModels\n• Google DeepMind Genie 4: a world model where you explore live scenes that react, make sound and move in real time. No public access https://t.co/g0D0pFMskQ"
+    },
+    {
+      "handle": "@stretchcloud",
+      "name": "Prasenjit Sarkar",
+      "views": 232,
+      "likes": 4,
+      "views_label": "232 views",
+      "url": "https://x.com/stretchcloud/status/2115058933878427747",
+      "hook": "OpenAI priced GPT-6.1 Terra at $1 input and $5 output per million tokens, less than half of GPT-5.6 Terra's $2",
+      "text": "OpenAI priced GPT-6.1 Terra at $1 input and $5 output per million tokens, less than half of GPT-5.6 Terra's $2/$12, and Artificial Analysis says it is still the more capable model at every effort level they tested.\n\nThe hallucination number is the one that stands out. GPT-5.6 https://t.co/ecphPnfNG4"
+    },
+    {
+      "handle": "@tldrnewsletter",
+      "name": "TLDR Newsletter",
+      "views": 150,
+      "likes": 1,
+      "views_label": "150 views",
+      "url": "https://x.com/tldrnewsletter/status/2115491828875272474",
+      "hook": "GitHub unveiled Copilot Fusion, which automatically routes each coding task to the AI model best suited to it.",
+      "text": "GitHub unveiled Copilot Fusion, which automatically routes each coding task to the AI model best suited to it."
+    },
+    {
+      "handle": "@kdaigle",
+      "name": "Kyle Daigle",
+      "views": 134,
+      "likes": 4,
+      "views_label": "134 views",
+      "url": "https://x.com/kdaigle/status/2115490644143874425",
+      "hook": "SO many ships this morning coming out of Day 1. ",
+      "text": "SO many ships this morning coming out of Day 1. \n\n-Copilot Fusion brings all the frontier-level quality but at 40% faster + at 77% lower cost\n-Copilot automations brings AI-powered workflows to your repo. Think issue triage + code review.\n-Copilot projects let you run agent work"
+    },
+    {
+      "handle": "@nickytonline",
+      "name": "Nick Taylor",
+      "views": 130,
+      "likes": 5,
+      "views_label": "130 views",
+      "url": "https://x.com/nickytonline/status/2115480354412961939",
+      "hook": "We got Copilot Fusion! #GitHubUniverse https://t.co/ro8i93kGKw",
+      "text": "We got Copilot Fusion! #GitHubUniverse https://t.co/ro8i93kGKw"
+    },
+    {
+      "handle": "@agentsky_dev",
+      "name": "AgentSky",
+      "views": 98,
+      "likes": 0,
+      "views_label": "98 views",
+      "url": "https://x.com/agentsky_dev/status/2114820735223160955",
+      "hook": "Same ink-wash landscape prompt, three agents. Which one did Gemini 4 Argon build: A, B or C?",
+      "text": "Same ink-wash landscape prompt, three agents. Which one did Gemini 4 Argon build: A, B or C?\n\nCodex (GPT-6.1 Sol): 1 min 46 s · $0.08\npi (Gemini 4 Argon): 4 min 36 s · $0.52\nClaude Code (Opus 5.5): 7 min 36 s · $1.20\n\nReply with your guess, then watch the reveal. https://t.co/EHC59JV1NN"
     }
   ],
   "patterns": [
-    "launch cascade: one model, many 'now available in' posts the same day (GPT-6.1 Terra: OpenAI 4.9M, ChatGPT 782K, sama 755K, OpenAIDevs 133K, github 68K, code 24K, msdev 15.5K)",
-    "'computer use' + 'lower price' is the phrase of the day; every Terra post leads with it",
-    "AI-for-science awe, then a six-word joke from the same author (gdb 2.29M then 491K for 'p still probably doesn't equal np')",
-    "trust and verification over speed (msdev 21K 'knowing whether to trust it is the hard part', Pocock 658K on a strictly verified agent language, CodeRabbit security 47K)",
-    "leaderboard brags with a rank number (MAI-Image #2 / #3, 8.6K and 6.7K)",
-    "short personal hot takes and screen captures from devrel voices (shanselman ARM daily driver 40K, 16-bit app on ARM 6.7K)",
-    "world models are the next wave outside the watchlist (Google DeepMind Genie 4 125K in under an hour, emollick follow-ups)"
+    "Universe launch cascade: github, code, msdev and satyanadella all posted Universe Day 1 within an hour; the numbers-led Copilot Fusion post (within two points of Opus 5.5 Max at about half the cost) beat the plain keynote links",
+    "'Much requested' consumer integrations win big: ChatGPT iCloud Mail + Calendar at 1.63M views, more than every other watchlist post combined",
+    "leaderboard rank brags keep paying: MAI-Image #2 (456K, still climbing from yesterday), MAI Image 2.7 #3 (27.5K), Copilot Fusion vs Opus 5.5 on the Coding Agent Index",
+    "'inflection point' framing from a trusted practitioner (simonw 29.9K) and the October coding-agent race (Opus 5.5 vs GPT-6.1 Sol/Terra vs Fusion)",
+    "security as the next agent beat: gdb php2shell 39K, MAI Cyber adoption doubled to 50% (24K)",
+    "behind-the-scenes and teaser posts carry event days: Pimoroni badge factory 65K, 'probably shouldn't be posting this' 34K",
+    "outside the watchlist: pricing and usage-limit anxiety (OpenAI Pro allowance change 47.5K) and benchmark tables (Artificial Analysis Index v5, Coding Agent Index 2.0)"
   ],
   "no_hits": [
     {
+      "handle": "@Microsoft",
+      "reason": "No original post (replies/reposts excluded) since Tue Oct 27 12:00 AM MDT.",
+      "max_views": 0
+    },
+    {
       "handle": "@MSFTCopilot",
-      "reason": "No original post (replies/reposts excluded) since Mon Oct 26 12:00 AM MDT.",
+      "reason": "No original post (replies/reposts excluded) since Tue Oct 27 12:00 AM MDT.",
       "max_views": 0
     },
     {
-      "handle": "@Azure",
-      "reason": "No original post (replies/reposts excluded) since Mon Oct 26 12:00 AM MDT.",
-      "max_views": 0
-    },
-    {
-      "handle": "@satyanadella",
-      "reason": "No original post (replies/reposts excluded) since Mon Oct 26 12:00 AM MDT.",
-      "max_views": 0
+      "handle": "@msdev",
+      "reason": "Best original 1,722 views, under 5,000.",
+      "max_views": 1722
     },
     {
       "handle": "@clamanna",
-      "reason": "No original post (replies/reposts excluded) since Mon Oct 26 12:00 AM MDT.",
+      "reason": "Best original 4,097 views, under 5,000.",
+      "max_views": 4097
+    },
+    {
+      "handle": "@shanselman",
+      "reason": "No original post (replies/reposts excluded) since Tue Oct 27 12:00 AM MDT.",
       "max_views": 0
     },
     {
       "handle": "@burkeholland",
-      "reason": "No original post (replies/reposts excluded) since Mon Oct 26 12:00 AM MDT.",
-      "max_views": 0
+      "reason": "Best original 830 views, under 5,000.",
+      "max_views": 830
     },
     {
       "handle": "@pierceboggan",
-      "reason": "No original post (replies/reposts excluded) since Mon Oct 26 12:00 AM MDT.",
+      "reason": "No original post (replies/reposts excluded) since Tue Oct 27 12:00 AM MDT.",
+      "max_views": 0
+    },
+    {
+      "handle": "@OpenAI",
+      "reason": "No original post (replies/reposts excluded) since Tue Oct 27 12:00 AM MDT.",
+      "max_views": 0
+    },
+    {
+      "handle": "@OpenAIDevs",
+      "reason": "No original post (replies/reposts excluded) since Tue Oct 27 12:00 AM MDT.",
       "max_views": 0
     },
     {
       "handle": "@OpenAINewsroom",
-      "reason": "No original post (replies/reposts excluded) since Mon Oct 26 12:00 AM MDT.",
+      "reason": "No original post (replies/reposts excluded) since Tue Oct 27 12:00 AM MDT.",
       "max_views": 0
     },
     {
-      "handle": "@simonw",
-      "reason": "No original post (replies/reposts excluded) since Mon Oct 26 12:00 AM MDT.",
+      "handle": "@sama",
+      "reason": "No original post (replies/reposts excluded) since Tue Oct 27 12:00 AM MDT.",
       "max_views": 0
     }
   ],
-  "virals_narrative": "GPT-6.1 Terra day. 27 watchlist originals cleared 5K (20 of them 10K+), led by OpenAI's Terra launch at 4.9M views and Greg Brockman's AI-for-science announcement at 2.29M. The Microsoft side rode the same wave: GitHub, VS Code and msdev all posted Terra availability the same day. Outside the watchlist, Matt Pocock's 'language for agents' post (658K) and Google DeepMind's Genie 4 (125K) set the tone: verification and world models.",
-  "narrative_synthesis": "GPT-6.1 Terra day. 27 watchlist originals cleared 5K (20 of them 10K+), led by OpenAI's Terra launch at 4.9M views and Greg Brockman's AI-for-science announcement at 2.29M. The Microsoft side rode the same wave: GitHub, VS Code and msdev all posted Terra availability the same day. Outside the watchlist, Matt Pocock's 'language for agents' post (658K) and Google DeepMind's Genie 4 (125K) set the tone: verification and world models.",
+  "virals_narrative": "GitHub Universe day, with ChatGPT stealing the reach. 17 watchlist originals cleared 5K (14 of them 10K+), led by ChatGPT's iCloud Mail and Calendar plugins at 1.63M and Mustafa Suleyman's MAI-Image #2 brag still climbing at 456K. Universe Day 1 brought Copilot Fusion, the unified Copilot harness in Foundry and Copilot Projects; the numbers-led Fusion posts beat the keynote links. Outside the watchlist, OpenAI's Pro usage change (47.5K) and Artificial Analysis benchmark tables set the tone: cost per task and limits.",
+  "narrative_synthesis": "GitHub Universe day, with ChatGPT stealing the reach. 17 watchlist originals cleared 5K (14 of them 10K+), led by ChatGPT's iCloud Mail and Calendar plugins at 1.63M and Mustafa Suleyman's MAI-Image #2 brag still climbing at 456K. Universe Day 1 brought Copilot Fusion, the unified Copilot harness in Foundry and Copilot Projects; the numbers-led Fusion posts beat the keynote links. Outside the watchlist, OpenAI's Pro usage change (47.5K) and Artificial Analysis benchmark tables set the tone: cost per task and limits.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 27,
+  "hits_count": 17,
   "outsiders_count": 20,
   "previous_day": {
-    "date": "2026-10-26",
-    "hits_count": 6,
-    "total_views": 320198
+    "date": "2026-10-27",
+    "hits_count": 27,
+    "total_views": 9982267
   },
   "leaderboards": {
-    "as_of": "2026-10-27",
+    "as_of": "2026-10-28",
     "tracking_start": "2026-10-26",
     "days_included": [
       "2026-10-26",
-      "2026-10-27"
+      "2026-10-27",
+      "2026-10-28"
     ],
     "month_days_included": [
       "2026-10-26",
-      "2026-10-27"
+      "2026-10-27",
+      "2026-10-28"
     ],
     "week": {
-      "label": "Rolling week · Oct 26–Oct 27",
+      "label": "Rolling week · Oct 26–Oct 28",
       "range": [
         "2026-10-26",
-        "2026-10-27"
+        "2026-10-28"
       ],
       "entries": [
         {
@@ -945,20 +804,20 @@
         {
           "handle": "@gdb",
           "name": "Greg Brockman",
-          "hits": 4,
-          "days": 2,
-          "views": 3068174,
+          "hits": 5,
+          "days": 3,
+          "views": 3107565,
           "best": 2289599,
           "best_url": "https://x.com/gdb/status/2114837059462627533"
         },
         {
           "handle": "@ChatGPT",
           "name": "ChatGPT",
-          "hits": 1,
-          "days": 1,
-          "views": 782459,
-          "best": 782459,
-          "best_url": "https://x.com/ChatGPT/status/2114781101822714241"
+          "hits": 2,
+          "days": 2,
+          "views": 2408734,
+          "best": 1626275,
+          "best_url": "https://x.com/ChatGPT/status/2115139248458191070"
         },
         {
           "handle": "@sama",
@@ -970,6 +829,24 @@
           "best_url": "https://x.com/sama/status/2114818620782248024"
         },
         {
+          "handle": "@mustafasuleyman",
+          "name": "Mustafa Suleyman",
+          "hits": 3,
+          "days": 2,
+          "views": 488575,
+          "best": 455567,
+          "best_url": "https://x.com/mustafasuleyman/status/2115099284224008200"
+        },
+        {
+          "handle": "@github",
+          "name": "GitHub",
+          "hits": 10,
+          "days": 3,
+          "views": 358651,
+          "best": 67781,
+          "best_url": "https://x.com/github/status/2114799272634007801"
+        },
+        {
           "handle": "@OpenAIDevs",
           "name": "OpenAI Developers",
           "hits": 4,
@@ -979,13 +856,13 @@
           "best_url": "https://x.com/OpenAIDevs/status/2114780986613682473"
         },
         {
-          "handle": "@github",
-          "name": "GitHub",
-          "hits": 5,
+          "handle": "@code",
+          "name": "Visual Studio Code",
+          "hits": 7,
           "days": 2,
-          "views": 205320,
-          "best": 67781,
-          "best_url": "https://x.com/github/status/2114799272634007801"
+          "views": 127770,
+          "best": 24560,
+          "best_url": "https://x.com/code/status/2115081526501142837"
         },
         {
           "handle": "@shanselman",
@@ -997,15 +874,6 @@
           "best_url": "https://x.com/shanselman/status/2114772187404185756"
         },
         {
-          "handle": "@code",
-          "name": "Visual Studio Code",
-          "hits": 5,
-          "days": 1,
-          "views": 97993,
-          "best": 24249,
-          "best_url": "https://x.com/code/status/2114810240004673907"
-        },
-        {
           "handle": "@Microsoft",
           "name": "Microsoft",
           "hits": 2,
@@ -1013,6 +881,24 @@
           "views": 53533,
           "best": 43161,
           "best_url": "https://x.com/Microsoft/status/2114756440774582699"
+        },
+        {
+          "handle": "@MicrosoftAI",
+          "name": "Microsoft AI",
+          "hits": 3,
+          "days": 2,
+          "views": 48670,
+          "best": 27542,
+          "best_url": "https://x.com/MicrosoftAI/status/2115102961957499069"
+        },
+        {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 2,
+          "days": 1,
+          "views": 47808,
+          "best": 29853,
+          "best_url": "https://x.com/simonw/status/2115444742595260551"
         },
         {
           "handle": "@msdev",
@@ -1026,29 +912,29 @@
         {
           "handle": "@FlowAltDelete",
           "name": "Josh Cook",
-          "hits": 1,
-          "days": 1,
-          "views": 9582,
+          "hits": 2,
+          "days": 2,
+          "views": 18898,
           "best": 9582,
           "best_url": "https://x.com/FlowAltDelete/status/2114337932589039749"
         },
         {
-          "handle": "@mustafasuleyman",
-          "name": "Mustafa Suleyman",
+          "handle": "@Azure",
+          "name": "Microsoft Azure",
           "hits": 1,
           "days": 1,
-          "views": 8618,
-          "best": 8618,
-          "best_url": "https://x.com/mustafasuleyman/status/2115099284224008200"
+          "views": 10535,
+          "best": 10535,
+          "best_url": "https://x.com/Azure/status/2115141477676286028"
         },
         {
-          "handle": "@MicrosoftAI",
-          "name": "Microsoft AI",
+          "handle": "@satyanadella",
+          "name": "Satya Nadella",
           "hits": 1,
           "days": 1,
-          "views": 6743,
-          "best": 6743,
-          "best_url": "https://x.com/MicrosoftAI/status/2115102961957499069"
+          "views": 6695,
+          "best": 6695,
+          "best_url": "https://x.com/satyanadella/status/2115490856685990244"
         }
       ]
     },
@@ -1056,7 +942,7 @@
       "label": "October 2026 · from Oct 26",
       "range": [
         "2026-10-26",
-        "2026-10-27"
+        "2026-10-28"
       ],
       "entries": [
         {
@@ -1071,20 +957,20 @@
         {
           "handle": "@gdb",
           "name": "Greg Brockman",
-          "hits": 4,
-          "days": 2,
-          "views": 3068174,
+          "hits": 5,
+          "days": 3,
+          "views": 3107565,
           "best": 2289599,
           "best_url": "https://x.com/gdb/status/2114837059462627533"
         },
         {
           "handle": "@ChatGPT",
           "name": "ChatGPT",
-          "hits": 1,
-          "days": 1,
-          "views": 782459,
-          "best": 782459,
-          "best_url": "https://x.com/ChatGPT/status/2114781101822714241"
+          "hits": 2,
+          "days": 2,
+          "views": 2408734,
+          "best": 1626275,
+          "best_url": "https://x.com/ChatGPT/status/2115139248458191070"
         },
         {
           "handle": "@sama",
@@ -1096,6 +982,24 @@
           "best_url": "https://x.com/sama/status/2114818620782248024"
         },
         {
+          "handle": "@mustafasuleyman",
+          "name": "Mustafa Suleyman",
+          "hits": 3,
+          "days": 2,
+          "views": 488575,
+          "best": 455567,
+          "best_url": "https://x.com/mustafasuleyman/status/2115099284224008200"
+        },
+        {
+          "handle": "@github",
+          "name": "GitHub",
+          "hits": 10,
+          "days": 3,
+          "views": 358651,
+          "best": 67781,
+          "best_url": "https://x.com/github/status/2114799272634007801"
+        },
+        {
           "handle": "@OpenAIDevs",
           "name": "OpenAI Developers",
           "hits": 4,
@@ -1105,13 +1009,13 @@
           "best_url": "https://x.com/OpenAIDevs/status/2114780986613682473"
         },
         {
-          "handle": "@github",
-          "name": "GitHub",
-          "hits": 5,
+          "handle": "@code",
+          "name": "Visual Studio Code",
+          "hits": 7,
           "days": 2,
-          "views": 205320,
-          "best": 67781,
-          "best_url": "https://x.com/github/status/2114799272634007801"
+          "views": 127770,
+          "best": 24560,
+          "best_url": "https://x.com/code/status/2115081526501142837"
         },
         {
           "handle": "@shanselman",
@@ -1123,15 +1027,6 @@
           "best_url": "https://x.com/shanselman/status/2114772187404185756"
         },
         {
-          "handle": "@code",
-          "name": "Visual Studio Code",
-          "hits": 5,
-          "days": 1,
-          "views": 97993,
-          "best": 24249,
-          "best_url": "https://x.com/code/status/2114810240004673907"
-        },
-        {
           "handle": "@Microsoft",
           "name": "Microsoft",
           "hits": 2,
@@ -1139,6 +1034,24 @@
           "views": 53533,
           "best": 43161,
           "best_url": "https://x.com/Microsoft/status/2114756440774582699"
+        },
+        {
+          "handle": "@MicrosoftAI",
+          "name": "Microsoft AI",
+          "hits": 3,
+          "days": 2,
+          "views": 48670,
+          "best": 27542,
+          "best_url": "https://x.com/MicrosoftAI/status/2115102961957499069"
+        },
+        {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 2,
+          "days": 1,
+          "views": 47808,
+          "best": 29853,
+          "best_url": "https://x.com/simonw/status/2115444742595260551"
         },
         {
           "handle": "@msdev",
@@ -1152,29 +1065,29 @@
         {
           "handle": "@FlowAltDelete",
           "name": "Josh Cook",
-          "hits": 1,
-          "days": 1,
-          "views": 9582,
+          "hits": 2,
+          "days": 2,
+          "views": 18898,
           "best": 9582,
           "best_url": "https://x.com/FlowAltDelete/status/2114337932589039749"
         },
         {
-          "handle": "@mustafasuleyman",
-          "name": "Mustafa Suleyman",
+          "handle": "@Azure",
+          "name": "Microsoft Azure",
           "hits": 1,
           "days": 1,
-          "views": 8618,
-          "best": 8618,
-          "best_url": "https://x.com/mustafasuleyman/status/2115099284224008200"
+          "views": 10535,
+          "best": 10535,
+          "best_url": "https://x.com/Azure/status/2115141477676286028"
         },
         {
-          "handle": "@MicrosoftAI",
-          "name": "Microsoft AI",
+          "handle": "@satyanadella",
+          "name": "Satya Nadella",
           "hits": 1,
           "days": 1,
-          "views": 6743,
-          "best": 6743,
-          "best_url": "https://x.com/MicrosoftAI/status/2115102961957499069"
+          "views": 6695,
+          "best": 6695,
+          "best_url": "https://x.com/satyanadella/status/2115490856685990244"
         }
       ]
     }
@@ -1205,88 +1118,95 @@
   },
   "day_roster": [
     {
-      "handle": "@OpenAI",
-      "name": "OpenAI",
-      "views": 4896529,
-      "total_views": 4896529,
-      "hit": true
-    },
-    {
-      "handle": "@gdb",
-      "name": "Greg Brockman",
-      "views": 2289599,
-      "total_views": 2916833,
-      "hit": true
-    },
-    {
       "handle": "@ChatGPT",
       "name": "ChatGPT",
-      "views": 782459,
-      "total_views": 782459,
-      "hit": true
-    },
-    {
-      "handle": "@sama",
-      "name": "Sam Altman",
-      "views": 754687,
-      "total_views": 754687,
-      "hit": true
-    },
-    {
-      "handle": "@OpenAIDevs",
-      "name": "OpenAI Developers",
-      "views": 133085,
-      "total_views": 242320,
-      "hit": true
-    },
-    {
-      "handle": "@github",
-      "name": "GitHub",
-      "views": 67781,
-      "total_views": 98103,
-      "hit": true
-    },
-    {
-      "handle": "@Microsoft",
-      "name": "Microsoft",
-      "views": 43161,
-      "total_views": 43161,
-      "hit": true
-    },
-    {
-      "handle": "@shanselman",
-      "name": "Scott Hanselman 🌮",
-      "views": 40512,
-      "total_views": 99009,
-      "hit": true
-    },
-    {
-      "handle": "@code",
-      "name": "Visual Studio Code",
-      "views": 24249,
-      "total_views": 97993,
-      "hit": true
-    },
-    {
-      "handle": "@msdev",
-      "name": "Microsoft Developer",
-      "views": 21071,
-      "total_views": 36587,
+      "views": 1626275,
+      "total_views": 1626275,
       "hit": true
     },
     {
       "handle": "@mustafasuleyman",
       "name": "Mustafa Suleyman",
-      "views": 8618,
-      "total_views": 8618,
+      "views": 455567,
+      "total_views": 479957,
+      "hit": true
+    },
+    {
+      "handle": "@github",
+      "name": "GitHub",
+      "views": 65463,
+      "total_views": 153331,
+      "hit": true
+    },
+    {
+      "handle": "@gdb",
+      "name": "Greg Brockman",
+      "views": 39391,
+      "total_views": 39391,
+      "hit": true
+    },
+    {
+      "handle": "@simonw",
+      "name": "Simon Willison",
+      "views": 29853,
+      "total_views": 47808,
       "hit": true
     },
     {
       "handle": "@MicrosoftAI",
       "name": "Microsoft AI",
-      "views": 6743,
-      "total_views": 8431,
+      "views": 27542,
+      "total_views": 41927,
       "hit": true
+    },
+    {
+      "handle": "@code",
+      "name": "Visual Studio Code",
+      "views": 24560,
+      "total_views": 31994,
+      "hit": true
+    },
+    {
+      "handle": "@Azure",
+      "name": "Microsoft Azure",
+      "views": 10535,
+      "total_views": 10535,
+      "hit": true
+    },
+    {
+      "handle": "@satyanadella",
+      "name": "Satya Nadella",
+      "views": 6695,
+      "total_views": 6695,
+      "hit": true
+    },
+    {
+      "handle": "@clamanna",
+      "name": "Charles Lamanna",
+      "views": 4097,
+      "total_views": 4097,
+      "hit": false
+    },
+    {
+      "handle": "@msdev",
+      "name": "Microsoft Developer",
+      "views": 1722,
+      "total_views": 2830,
+      "hit": false
+    },
+    {
+      "handle": "@burkeholland",
+      "name": "Burke Holland",
+      "views": 830,
+      "total_views": 1778,
+      "hit": false
+    },
+    {
+      "handle": "@Microsoft",
+      "name": "Microsoft",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
     },
     {
       "handle": "@MSFTCopilot",
@@ -1296,29 +1216,8 @@
       "hit": false
     },
     {
-      "handle": "@Azure",
-      "name": "Microsoft Azure",
-      "views": 0,
-      "total_views": 0,
-      "hit": false
-    },
-    {
-      "handle": "@satyanadella",
-      "name": "Satya Nadella",
-      "views": 0,
-      "total_views": 0,
-      "hit": false
-    },
-    {
-      "handle": "@clamanna",
-      "name": "Charles Lamanna",
-      "views": 0,
-      "total_views": 0,
-      "hit": false
-    },
-    {
-      "handle": "@burkeholland",
-      "name": "Burke Holland",
+      "handle": "@shanselman",
+      "name": "Scott Hanselman 🌮",
       "views": 0,
       "total_views": 0,
       "hit": false
@@ -1331,6 +1230,20 @@
       "hit": false
     },
     {
+      "handle": "@OpenAI",
+      "name": "OpenAI",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@OpenAIDevs",
+      "name": "OpenAI Developers",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
       "handle": "@OpenAINewsroom",
       "name": "OpenAI Newsroom",
       "views": 0,
@@ -1338,46 +1251,46 @@
       "hit": false
     },
     {
-      "handle": "@simonw",
-      "name": "Simon Willison",
+      "handle": "@sama",
+      "name": "Sam Altman",
       "views": 0,
       "total_views": 0,
       "hit": false
     }
   ],
   "you_rank": {
-    "best_views": 4247,
-    "total_views": 13340,
+    "best_views": 9316,
+    "total_views": 15501,
     "best_url": "https://x.com/FlowAltDelete/status/2115052390412079592",
-    "rank_among_watchlist": 13,
+    "rank_among_watchlist": 9,
     "total_accounts": 21,
-    "vs_5k": "pending",
+    "vs_5k": "done",
     "vs_10k": "pending"
   },
   "drafts": [
     {
-      "id": "terra-connectors-first",
-      "rides": "@OpenAI GPT-6.1 Terra launch (4,896,529 views)",
-      "text": "GPT-6.1 Terra's whole pitch is computer use at a lower price.\n\nCheaper clicking doesn't fix a bad process. It just lets you run the bad process more often.\n\nBefore you point any computer use agent at a legacy app:\n\n1. Write down the steps a human does today, in order\n2. Mark every step that already has an API or connector\n3. Hand only the leftovers to computer use\n\nConnectors first. Screens last.",
-      "video_tip": "30s screen record: a sticky-note list of a real process, highlight the connector steps green and the leftovers yellow, then show a Copilot Studio agent handling only the yellow ones. End card: 'Connectors first. Screens last.'"
+      "id": "just-read-my-inbox",
+      "rides": "@ChatGPT iCloud Mail + Calendar plugins (1,626,275 views)",
+      "text": "ChatGPT can now connect to iCloud Mail and Calendar. Every plan, on web, desktop and iOS.\n\nTurns out the AI feature people keep asking for is simple: please just look at my inbox.\n\nIf you're on Microsoft 365, Copilot already sits on top of Outlook. Access isn't the problem anymore. The prompts are.\n\nStop at 'summarize this thread'? Try this one:\n\n'What did I promise people this week that I haven't done yet?'",
+      "video_tip": "20s screen record: Copilot in Outlook, paste the 'what did I promise' prompt, scroll the answer and highlight two real follow-ups. Caption: 'Your inbox already has a to-do list. Ask for it.'"
     },
     {
-      "id": "trust-is-the-job",
-      "rides": "@msdev trust-the-code post (21,071 views)",
-      "text": "Microsoft's dev team nailed it: writing code with AI keeps getting easier. Trusting what comes out is the hard bit.\n\nAgents are no different. A Copilot Studio agent that answers fast and wrong is just a confident intern with tenant access.\n\nMy checklist before anything ships:\n\n- A test set of real questions with known answers\n- Knowledge sources trimmed to what it actually needs\n- Activity reviewed every week, not when someone complains\n\nSpeed is cheap now. Trust is the job.",
-      "video_tip": "Talking head, 20s, one take. Cut to a spreadsheet test set with a pass/fail column filling in, then the agent's Activity tab. Overlay: 'Speed is cheap. Trust is the job.'"
+      "id": "router-needs-evals",
+      "rides": "@github Copilot Fusion + @ArtificialAnlys index (8,994 + 17,121 views)",
+      "text": "Yesterday I said picking a model had become a dropdown.\n\nToday GitHub removed the dropdown. Copilot Fusion routes each task across Anthropic and OpenAI models for you.\n\nOn the Artificial Analysis Coding Agent Index, Fusion Max landed within two points of Claude Code with Opus 5.5 Max, at about half the cost per task.\n\nSame rule applies though. A router is only as smart as your evals. Decide what 'good' looks like on your repo before you let anything choose for you.",
+      "video_tip": "Vertical 25s: VS Code model picker, select Copilot Fusion, run one real task, then flash a tiny eval sheet with pass/fail ticks. Overlay: 'Let it choose. Then check its homework.'"
     },
     {
-      "id": "model-is-a-dropdown",
-      "rides": "@github / @code / @msdev Terra GA cascade (67,781 + 24,249 + 15,516 views)",
-      "text": "OpenAI shipped GPT-6.1 Terra, and the same day it was live in GitHub Copilot, VS Code and Microsoft Foundry.\n\nThat's the bit worth telling your CIO. Picking a model isn't a procurement project anymore. It's a dropdown.\n\nSo the real question: does your team have an eval that tells you if the new model is better for YOUR work?\n\nNo eval, and every launch day is just vibes.",
-      "video_tip": "Vertical 25s: VS Code Copilot Chat, same prompt run twice with the model picker switched to Terra, results side by side. Caption: 'New model? Prove it on your repo.'"
+      "id": "one-harness",
+      "rides": "@satyanadella Universe recap + @msdev harness post (6,695 + 1,108 views)",
+      "text": "Connect the dots from this week:\n\nPPCC: Copilot Studio gets a new harness, the GitHub Copilot harness under the hood.\nUniverse: the unified Copilot harness is now in Foundry too.\n\nSo makers in Copilot Studio and pro devs in Foundry are building agents on the same engine.\n\nLow code isn't dead. It just got the pro dev engine.",
+      "video_tip": "Talking head 30s with a simple 3-box diagram (GitHub, Foundry, Copilot Studio) all pointing to one 'Copilot harness' box. End card: 'Same engine. Different steering wheel.'"
     },
     {
-      "id": "frontiers",
-      "rides": "@gdb discoveries + p != np one-liner (2,289,599 + 490,979 views)",
-      "text": "Greg Brockman: AI helped make discoveries in math, computer science and physics.\n\nAlso Greg Brockman, a few hours later: p still probably doesn't equal np.\n\nMe: my Power Automate flow still can't tell an empty string from a null.\n\nWe all have our frontiers.",
-      "video_tip": "Meme format, 10s: split screen with the two posts on the left, a failed Power Automate run on the right zooming into the condition. No voiceover, just a record-scratch sound."
+      "id": "my-inflection-point",
+      "rides": "@simonw October inflection point (29,853 views)",
+      "text": "Simon Willison says October is another inflection point for coding agents. Claude Opus 5.5 can build video games that are actually fun.\n\nMy October inflection point: a Power Automate expression that worked.\n\nI closed the tab very slowly.\n\nWe all have our frontiers.",
+      "video_tip": "Meme, 10s: left half a clip of an AI-built game, right half a Power Automate run turning green, then a hand slowly closing the laptop. Record-scratch sound, no voiceover."
     }
   ]
 }
