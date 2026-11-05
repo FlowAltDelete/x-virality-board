@@ -1,1465 +1,1462 @@
 {
- "title": "Daily X narrative digest — 2026-11-04",
- "date": "2026-11-04",
- "timezone": "America/Edmonton",
- "updated": "2026-11-04T12:06:20-06:00",
- "brand_title": "Your X Virality Score",
- "brand_handle": "@FlowAltDelete",
- "hits": [
-  {
-   "handle": "@sama",
-   "display_name": "Sam Altman",
-   "name": "Sam Altman",
-   "views": 7338417,
-   "views_label": "7,338,417 views",
-   "likes": 16806,
-   "url": "https://x.com/sama/status/2117794005165748448",
-   "status_url": "https://x.com/sama/status/2117794005165748448",
-   "created_at": "2026-11-04T01:40:12Z",
-   "hook": "Sam Altman: people should always be in control of the future, and should not be relegated to what \"AI systems think makes sense to reward in humans\" (3.9K replies)",
-   "text": "People should always be in control of the future.\n\nOpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”.\n\nPeople should not cede control of the future to",
-   "original": "People should always be in control of the future.\n\nOpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”.\n\nPeople should not cede control of the future to",
-   "highlight": true,
-   "star": true,
-   "draft_en": "OpenAI says people should always stay in control of the future.\n\nGood principle, and you can ship a tiny version of it today.\n\nBefore a Copilot Studio agent sends, deletes or spends anything, put a human approval step in front of it. One extra click, and you still get to say no.",
-   "video_tip": "Talking head 15s: 'Agents propose, people approve.' Cut to a Copilot Studio flow where an Approve / Reject card pops up in Teams before the agent's final action runs."
-  },
-  {
-   "handle": "@OpenAIDevs",
-   "display_name": "OpenAI Developers",
-   "name": "OpenAI Developers",
-   "views": 1671524,
-   "views_label": "1,671,524 views",
-   "likes": 6737,
-   "url": "https://x.com/OpenAIDevs/status/2117408792346509663",
-   "status_url": "https://x.com/OpenAIDevs/status/2117408792346509663",
-   "created_at": "2026-11-03T00:09:30Z",
-   "hook": "OpenAIDevs: Pando, a new Git backend for the monorepo, ~80% lower push latency, nearly a petabyte of Git data a day (carried over, was 1.19M)",
-   "text": "We built Pando, a new Git backend for our monorepo, to handle more pushes and fetches without changing how our engineers and agents use Git.\n\nPando cut push latency by ~80% and now serves nearly a petabyte of Git data a day. We can grow Git capacity alongside agent usage. https://t.co/4c0YXOfKqK",
-   "original": "We built Pando, a new Git backend for our monorepo, to handle more pushes and fetches without changing how our engineers and agents use Git.\n\nPando cut push latency by ~80% and now serves nearly a petabyte of Git data a day. We can grow Git capacity alongside agent usage. https://t.co/4c0YXOfKqK",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@OpenAI",
-   "display_name": "OpenAI",
-   "name": "OpenAI",
-   "views": 1107520,
-   "views_label": "1,107,520 views",
-   "likes": 7382,
-   "url": "https://x.com/OpenAI/status/2117692475775258785",
-   "status_url": "https://x.com/OpenAI/status/2117692475775258785",
-   "created_at": "2026-11-03T18:56:45Z",
-   "hook": "OpenAI: ChatGPT and Codex are helping engineers build for the physical world: mechanical design, electrical engineering, simulation",
-   "text": "ChatGPT and Codex are helping engineers build for the physical world.\n\nWe’re sharing our progress across mechanical design, electrical engineering, and simulation—from helping our hardware teams iterate faster to testing new workflows with industry collaborators. https://t.co/b3rW9zYJGA",
-   "original": "ChatGPT and Codex are helping engineers build for the physical world.\n\nWe’re sharing our progress across mechanical design, electrical engineering, and simulation—from helping our hardware teams iterate faster to testing new workflows with industry collaborators. https://t.co/b3rW9zYJGA",
-   "highlight": true,
-   "star": true,
-   "draft_en": "ChatGPT and Codex are now helping with mechanical design, electrical engineering and simulation.\n\nHard to call that a chatbot.\n\nYour Copilot Studio agent shouldn't be one either. Give it a job, a trigger and a hand-off, not just a chat box and good vibes.",
-   "video_tip": "Screen recording 20s: left side a plain chat window, right side the same agent with a trigger, an action and a hand-off to a person. Caption: 'Chat box vs job description'."
-  },
-  {
-   "handle": "@OpenAI",
-   "display_name": "OpenAI",
-   "name": "OpenAI",
-   "views": 816094,
-   "views_label": "816,094 views",
-   "likes": 3562,
-   "url": "https://x.com/OpenAI/status/2117444048227123277",
-   "status_url": "https://x.com/OpenAI/status/2117444048227123277",
-   "created_at": "2026-11-03T02:29:35Z",
-   "hook": "OpenAI plans an internal security sprint with Cathedral Systems: defenders should put AI to work first (carried over, was 669K)",
-   "text": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attackers do.\n\nWe’re planning our next internal security sprint at OpenAI and partnering with Cathedral Systems, whose researchers will use our models alongside our teams to challenge our defenses. They’ll bring differentiated expertise and approaches to our ongoing work to find and fix weaknesses with AI.\n\nWe’re also raising bug bounty rewards, including more than quadrupling rewards for critical findings. Exceptional findings will be eligible for up to $172,000, including bonuses.\n\nWe’ll keep advancing our models, using them to strengthen our own systems, and expanding access for trusted defenders.\n\nhttps://t.co/vcaoHROTt2",
-   "original": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attackers do.\n\nWe’re planning our next internal security sprint at OpenAI and partnering with Cathedral Systems, whose researchers will use our models alongside our teams to challenge our defenses. They’ll bring differentiated expertise and approaches to our ongoing work to find and fix weaknesses with AI.\n\nWe’re also raising bug bounty rewards, including more than quadrupling rewards for critical findings. Exceptional findings will be eligible for up to $172,000, including bonuses.\n\nWe’ll keep advancing our models, using them to strengthen our own systems, and expanding access for trusted defenders.\n\nhttps://t.co/vcaoHROTt2",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@OpenAI",
-   "display_name": "OpenAI",
-   "name": "OpenAI",
-   "views": 783104,
-   "views_label": "783,104 views",
-   "likes": 6576,
-   "url": "https://x.com/OpenAI/status/2117307611338997846",
-   "status_url": "https://x.com/OpenAI/status/2117307611338997846",
-   "created_at": "2026-11-02T17:27:26Z",
-   "hook": "OpenAI LifeVal: a benchmark shaped by thousands of ChatGPT users on everyday tasks (carried over, was 731K)",
-   "text": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to accessing government services to managing personal finances.\n\nOver the past year, we’ve used LifeVal to measure and improve how well our models handle these everyday tasks.\n\nhttps://t.co/GlUjixzEM0",
-   "original": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to accessing government services to managing personal finances.\n\nOver the past year, we’ve used LifeVal to measure and improve how well our models handle these everyday tasks.\n\nhttps://t.co/GlUjixzEM0",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@simonw",
-   "display_name": "Simon Willison",
-   "name": "Simon Willison",
-   "views": 288753,
-   "views_label": "288,753 views",
-   "likes": 4930,
-   "url": "https://x.com/simonw/status/2117655816581071203",
-   "status_url": "https://x.com/simonw/status/2117655816581071203",
-   "created_at": "2026-11-03T16:31:05Z",
-   "hook": "Simon Willison tries the GPT-6 Astra weights paper on a local Qwen 3.8 27B (carried over)",
-   "text": "There's a buzzy new paper about GPT-6 Astra being able to directly interpret model weights (prompts full of floating point numbers) - I tried it with Qwen 3.8 27B on my laptop and found that, after 45+ minutes, that model could achieve the same thing https://t.co/6O7WltGP7K",
-   "original": "There's a buzzy new paper about GPT-6 Astra being able to directly interpret model weights (prompts full of floating point numbers) - I tried it with Qwen 3.8 27B on my laptop and found that, after 45+ minutes, that model could achieve the same thing https://t.co/6O7WltGP7K",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@ChatGPT",
-   "display_name": "ChatGPT",
-   "name": "ChatGPT",
-   "views": 239731,
-   "views_label": "239,731 views",
-   "likes": 2542,
-   "url": "https://x.com/ChatGPT/status/2117678200700682732",
-   "status_url": "https://x.com/ChatGPT/status/2117678200700682732",
-   "created_at": "2026-11-03T18:00:02Z",
-   "hook": "ChatGPT Voice comes to Finances (carried over, was 7.5K)",
-   "text": "Let’s talk money. Literally.\n\nChatGPT Voice has come to Finances. Securely connect your accounts through Finances, then use Voice to talk spending, savings, and all the money questions on your mind.\n\nTry it: https://t.co/vsNQQM1q9l https://t.co/UoWYjWtk2b",
-   "original": "Let’s talk money. Literally.\n\nChatGPT Voice has come to Finances. Securely connect your accounts through Finances, then use Voice to talk spending, savings, and all the money questions on your mind.\n\nTry it: https://t.co/vsNQQM1q9l https://t.co/UoWYjWtk2b",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@OpenAINewsroom",
-   "display_name": "OpenAI Newsroom",
-   "name": "OpenAI Newsroom",
-   "views": 179312,
-   "views_label": "179,312 views",
-   "likes": 2759,
-   "url": "https://x.com/OpenAINewsroom/status/2117999237745049883",
-   "status_url": "https://x.com/OpenAINewsroom/status/2117999237745049883",
-   "created_at": "2026-11-04T15:15:43Z",
-   "hook": "OpenAI will acquire Pierre to make Codex a place where teams build software together with AI",
-   "text": "Today we’re announcing that OpenAI will acquire @pierrecomputer to accelerate our vision for making Codex a place where teams can build software together with AI, from first idea to the version they ship.\n\nPierre’s open-source developer tools already power parts of Codex today.",
-   "original": "Today we’re announcing that OpenAI will acquire @pierrecomputer to accelerate our vision for making Codex a place where teams can build software together with AI, from first idea to the version they ship.\n\nPierre’s open-source developer tools already power parts of Codex today.",
-   "highlight": true,
-   "star": true,
-   "draft_en": "OpenAI is buying Pierre so teams can build software together with AI in Codex, and Pierre's open-source dev tools already power parts of Codex.\n\nThe interesting part is the word together.\n\nSolo AI is the demo. Shared AI, where a team can see, review and build on the same thing, is the actual job. Same test for your Copilot Studio agents: can a teammate pick it up on Monday?",
-   "video_tip": "Vertical 20s: two avatars editing the same agent, one comment thread appears, then a 'handed over' badge. Caption: 'Can a teammate pick this up on Monday?'"
-  },
-  {
-   "handle": "@gdb",
-   "display_name": "Greg Brockman",
-   "name": "Greg Brockman",
-   "views": 171645,
-   "views_label": "171,645 views",
-   "likes": 1706,
-   "url": "https://x.com/gdb/status/2117435285021810921",
-   "status_url": "https://x.com/gdb/status/2117435285021810921",
-   "created_at": "2026-11-03T01:54:46Z",
-   "hook": "Greg Brockman on Pando: a Git backend that scales to very large monorepos (carried over)",
-   "text": "Pando is a Git backend which can scale to very large monorepos. We took the hard road of continuing to use Git, which means we could enable Pando with no change to devex. Considering providing this to others, let me know (gdb@openai.com) if you'd be interested. https://t.co/lcwDo734hI",
-   "original": "Pando is a Git backend which can scale to very large monorepos. We took the hard road of continuing to use Git, which means we could enable Pando with no change to devex. Considering providing this to others, let me know (gdb@openai.com) if you'd be interested. https://t.co/lcwDo734hI",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@gdb",
-   "display_name": "Greg Brockman",
-   "name": "Greg Brockman",
-   "views": 120509,
-   "views_label": "120,509 views",
-   "likes": 1863,
-   "url": "https://x.com/gdb/status/2117781797555851515",
-   "status_url": "https://x.com/gdb/status/2117781797555851515",
-   "created_at": "2026-11-04T00:51:41Z",
-   "hook": "Greg Brockman quotes OpenAI: ChatGPT for physical engineering, including amateurs designing prototype devices",
-   "text": "ChatGPT for physical engineering, including enabling amateurs to design prototype devices: https://t.co/vUaSt4Lxcd",
-   "original": "ChatGPT for physical engineering, including enabling amateurs to design prototype devices: https://t.co/vUaSt4Lxcd",
-   "highlight": true,
-   "star": true
-  },
-  {
-   "handle": "@github",
-   "display_name": "GitHub",
-   "name": "GitHub",
-   "views": 66777,
-   "views_label": "66,777 views",
-   "likes": 298,
-   "url": "https://x.com/github/status/2117727321536729141",
-   "status_url": "https://x.com/github/status/2117727321536729141",
-   "created_at": "2026-11-03T21:15:13Z",
-   "hook": "GitHub Universe: Martin Woodward brings plushies to life with machine learning models on stage",
-   "text": "Only at #GitHubUniverse does @martinwoodward get an entire stage to bring plushies to life with machine learning models 🐿️ https://t.co/KVPCSy8xWm",
-   "original": "Only at #GitHubUniverse does @martinwoodward get an entire stage to bring plushies to life with machine learning models 🐿️ https://t.co/KVPCSy8xWm",
-   "highlight": true,
-   "star": true
-  },
-  {
-   "handle": "@pierceboggan",
-   "display_name": "Pierce Boggan",
-   "name": "Pierce Boggan",
-   "views": 58002,
-   "views_label": "58,002 views",
-   "likes": 477,
-   "url": "https://x.com/pierceboggan/status/2117354841857282501",
-   "status_url": "https://x.com/pierceboggan/status/2117354841857282501",
-   "created_at": "2026-11-02T20:35:07Z",
-   "hook": "Pierce Boggan: which model is best in GitHub Copilot, with real data (carried over)",
-   "text": "We often get asked what the best model is in GitHub Copilot.\n\nOur team spends an enormous amount of time optimizing the GitHub Copilot harness for the best, most token-efficient results.\n\nFor the first time, we're publishing our data on what models perform best in Copilot:\nhttps://t.co/6kuS41g2qg",
-   "original": "We often get asked what the best model is in GitHub Copilot.\n\nOur team spends an enormous amount of time optimizing the GitHub Copilot harness for the best, most token-efficient results.\n\nFor the first time, we're publishing our data on what models perform best in Copilot:\nhttps://t.co/6kuS41g2qg",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@gdb",
-   "display_name": "Greg Brockman",
-   "name": "Greg Brockman",
-   "views": 55279,
-   "views_label": "55,279 views",
-   "likes": 413,
-   "url": "https://x.com/gdb/status/2117755028211642849",
-   "status_url": "https://x.com/gdb/status/2117755028211642849",
-   "created_at": "2026-11-03T23:05:19Z",
-   "hook": "Greg Brockman welcomes Jill Hazelbaker to the OpenAI team",
-   "text": "welcome @jillhazelbaker to the team, extremely excited to be working together! https://t.co/EokfGeCuCT",
-   "original": "welcome @jillhazelbaker to the team, extremely excited to be working together! https://t.co/EokfGeCuCT",
-   "highlight": true,
-   "star": true
-  },
-  {
-   "handle": "@simonw",
-   "display_name": "Simon Willison",
-   "name": "Simon Willison",
-   "views": 50240,
-   "views_label": "50,240 views",
-   "likes": 200,
-   "url": "https://x.com/simonw/status/2117337139633607167",
-   "status_url": "https://x.com/simonw/status/2117337139633607167",
-   "created_at": "2026-11-02T19:24:46Z",
-   "hook": "Simon Willison on the Census Bureau AI adoption survey and the \"Super Intelligence\" executive order (carried over)",
-   "text": "In updating a graphic showing U.S. company AI adoption over time according to a long-running U.S. Census Bureau survey, I found out that the Bureau's work has been sullied by that asinine \"Super Intelligence\" executive order https://t.co/YEu1tnWweT",
-   "original": "In updating a graphic showing U.S. company AI adoption over time according to a long-running U.S. Census Bureau survey, I found out that the Bureau's work has been sullied by that asinine \"Super Intelligence\" executive order https://t.co/YEu1tnWweT",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@github",
-   "display_name": "GitHub",
-   "name": "GitHub",
-   "views": 46706,
-   "views_label": "46,706 views",
-   "likes": 139,
-   "url": "https://x.com/github/status/2117366336632594598",
-   "status_url": "https://x.com/github/status/2117366336632594598",
-   "created_at": "2026-11-02T21:20:48Z",
-   "hook": "October Ship Log: every Copilot feature from GitHub Universe (carried over)",
-   "text": "All the new Copilot features and experiences we announced at #GitHubUniverse 🚀 https://t.co/TfTyzCmkpN",
-   "original": "All the new Copilot features and experiences we announced at #GitHubUniverse 🚀 https://t.co/TfTyzCmkpN",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@github",
-   "display_name": "GitHub",
-   "name": "GitHub",
-   "views": 44199,
-   "views_label": "44,199 views",
-   "likes": 329,
-   "url": "https://x.com/github/status/2117300801286599148",
-   "status_url": "https://x.com/github/status/2117300801286599148",
-   "created_at": "2026-11-02T17:00:23Z",
-   "hook": "GitHub \"Mondays, right?\" meme (carried over)",
-   "text": "Mondays, right? 🥱 https://t.co/k7zTco0Kpj",
-   "original": "Mondays, right? 🥱 https://t.co/k7zTco0Kpj",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@Microsoft",
-   "display_name": "Microsoft",
-   "name": "Microsoft",
-   "views": 35818,
-   "views_label": "35,818 views",
-   "likes": 64,
-   "url": "https://x.com/Microsoft/status/2117308255332360316",
-   "status_url": "https://x.com/Microsoft/status/2117308255332360316",
-   "created_at": "2026-11-02T17:30:00Z",
-   "hook": "Microsoft community story: a Virginia librarian dreams up a bear in a tutu with a little help from technology (carried over)",
-   "text": "A bear in a tutu? A mouse at a tea party? \n \nThat's what a Virginia librarian dreamed up with a little help from technology. Discover more stories of how Microsoft is helping communities make the most of new technology and opportunities: https://t.co/Ujb2IuRdc1 https://t.co/3JYbxhMdvh",
-   "original": "A bear in a tutu? A mouse at a tea party? \n \nThat's what a Virginia librarian dreamed up with a little help from technology. Discover more stories of how Microsoft is helping communities make the most of new technology and opportunities: https://t.co/Ujb2IuRdc1 https://t.co/3JYbxhMdvh",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@Microsoft",
-   "display_name": "Microsoft",
-   "name": "Microsoft",
-   "views": 30313,
-   "views_label": "30,313 views",
-   "likes": 229,
-   "url": "https://x.com/Microsoft/status/2117670766921842826",
-   "status_url": "https://x.com/Microsoft/status/2117670766921842826",
-   "created_at": "2026-11-03T17:30:29Z",
-   "hook": "Microsoft Ignite opening keynote live on November 17 (carried over, was 6K)",
-   "text": "Big ideas and exciting new breakthroughs are coming to Microsoft Ignite. Join us live on November 17 to be a part of what’s next.  \n\nhttps://t.co/fTTbRZUMbt",
-   "original": "Big ideas and exciting new breakthroughs are coming to Microsoft Ignite. Join us live on November 17 to be a part of what’s next.  \n\nhttps://t.co/fTTbRZUMbt",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@github",
-   "display_name": "GitHub",
-   "name": "GitHub",
-   "views": 29795,
-   "views_label": "29,795 views",
-   "likes": 117,
-   "url": "https://x.com/github/status/2117459317368537293",
-   "status_url": "https://x.com/github/status/2117459317368537293",
-   "created_at": "2026-11-03T03:30:16Z",
-   "hook": "GitHub Universe 2026 thank-you post (carried over)",
-   "text": "There's nothing like the magic of #GitHubUniverse ✨ \n\nThanks for joining us in 2026. We can't wait to see what you build next 🚀 https://t.co/CRKugyl9TQ",
-   "original": "There's nothing like the magic of #GitHubUniverse ✨ \n\nThanks for joining us in 2026. We can't wait to see what you build next 🚀 https://t.co/CRKugyl9TQ",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@shanselman",
-   "display_name": "Scott Hanselman 🌮",
-   "name": "Scott Hanselman 🌮",
-   "views": 29263,
-   "views_label": "29,263 views",
-   "likes": 500,
-   "url": "https://x.com/shanselman/status/2117825487833804849",
-   "status_url": "https://x.com/shanselman/status/2117825487833804849",
-   "created_at": "2026-11-04T03:45:18Z",
-   "hook": "Scott Hanselman \"vibed\" a better election voting app that stores everything in JSON (localhost:3000 joke)",
-   "text": "I’m getting tired of waiting for the results, so I vibed a way better election voting app. It stores everything in JSON, check it out –http://localhost:3000",
-   "original": "I’m getting tired of waiting for the results, so I vibed a way better election voting app. It stores everything in JSON, check it out –http://localhost:3000",
-   "highlight": true,
-   "star": true,
-   "draft_en": "Tired of waiting on my manager's approval, so I vibed a way better approval app.\n\nIt stores everything in a SharePoint list. Check it out - localhost:3000.\n\nWorks perfectly. On my machine. Please don't ask me to deploy it.",
-   "video_tip": "Meme format 10s: confident screen recording of a slick approval app, then a zoom on the address bar showing localhost:3000. Hard cut to a shrug. Add the caption 'works on my machine'."
-  },
-  {
-   "handle": "@shanselman",
-   "display_name": "Scott Hanselman 🌮",
-   "name": "Scott Hanselman 🌮",
-   "views": 27058,
-   "views_label": "27,058 views",
-   "likes": 431,
-   "url": "https://x.com/shanselman/status/2117419804189741408",
-   "status_url": "https://x.com/shanselman/status/2117419804189741408",
-   "created_at": "2026-11-03T00:53:15Z",
-   "hook": "Scott Hanselman is building a GPU Taskman to see where his GPU memory goes (carried over)",
-   "text": "There's a lot going on in my GPU. I'm making a GPU Taskman to get insights to where my GPU memory is going. PRs welcome https://t.co/6FwKqnFWDW",
-   "original": "There's a lot going on in my GPU. I'm making a GPU Taskman to get insights to where my GPU memory is going. PRs welcome https://t.co/6FwKqnFWDW",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@code",
-   "display_name": "Visual Studio Code",
-   "name": "Visual Studio Code",
-   "views": 24120,
-   "views_label": "24,120 views",
-   "likes": 235,
-   "url": "https://x.com/code/status/2117633715853480207",
-   "status_url": "https://x.com/code/status/2117633715853480207",
-   "created_at": "2026-11-03T15:03:16Z",
-   "hook": "VS Code: create images with GitHub Copilot (carried over)",
-   "text": "🎨 Create Images with GitHub Copilot in #VSCode #GitHubCopilot https://t.co/qYPen69uh6",
-   "original": "🎨 Create Images with GitHub Copilot in #VSCode #GitHubCopilot https://t.co/qYPen69uh6",
-   "highlight": true,
-   "star": true,
-   "carried_over": true
-  },
-  {
-   "handle": "@burkeholland",
-   "display_name": "Burke Holland",
-   "name": "Burke Holland",
-   "views": 16546,
-   "views_label": "16,546 views",
-   "likes": 109,
-   "url": "https://x.com/burkeholland/status/2117769936471036253",
-   "status_url": "https://x.com/burkeholland/status/2117769936471036253",
-   "created_at": "2026-11-04T00:04:33Z",
-   "hook": "Burke Holland posts Ollama numbers: warm tokens/sec and cold time-to-first-token for gemma4, qwen3-coder, gpt-oss",
-   "text": "Some numbers here - @ollama...\n\nModel                              Warm TPS        Cold TTFT\ngemma4:e4b                122.8                  8.65s\nqwen3-coder:30b      90                       10.25s \ngemma4:26b-a4b      86.9                   13.03s\ngpt-oss:20b https://t.co/RPiYhfM9De",
-   "original": "Some numbers here - @ollama...\n\nModel                              Warm TPS        Cold TTFT\ngemma4:e4b                122.8                  8.65s\nqwen3-coder:30b      90                       10.25s \ngemma4:26b-a4b      86.9                   13.03s\ngpt-oss:20b https://t.co/RPiYhfM9De",
-   "highlight": true,
-   "star": true
-  },
-  {
-   "handle": "@pierceboggan",
-   "display_name": "Pierce Boggan",
-   "name": "Pierce Boggan",
-   "views": 6474,
-   "views_label": "6,474 views",
-   "likes": 85,
-   "url": "https://x.com/pierceboggan/status/2117354545949098464",
-   "status_url": "https://x.com/pierceboggan/status/2117354545949098464",
-   "created_at": "2026-11-02T20:33:56Z",
-   "hook": "Pierce Boggan: how should you use GitHub Copilot, ~30 min of Universe demos (carried over)",
-   "text": "How should you use GitHub Copilot?\n\nAt Universe last week, we showed our favorite ways to work with Copilot, from editor to app to collaboration software like @Slack!\n\n~30 mins of demos from our team: https://t.co/h6Y3US6yov",
-   "original": "How should you use GitHub Copilot?\n\nAt Universe last week, we showed our favorite ways to work with Copilot, from editor to app to collaboration software like @Slack!\n\n~30 mins of demos from our team: https://t.co/h6Y3US6yov",
-   "highlight": false,
-   "star": false,
-   "carried_over": true
-  },
-  {
-   "handle": "@burkeholland",
-   "display_name": "Burke Holland",
-   "name": "Burke Holland",
-   "views": 6260,
-   "views_label": "6,260 views",
-   "likes": 53,
-   "url": "https://x.com/burkeholland/status/2117364833276547449",
-   "status_url": "https://x.com/burkeholland/status/2117364833276547449",
-   "created_at": "2026-11-02T21:14:49Z",
-   "hook": "Burke Holland asks what to map to a programmable Logitech side button (carried over)",
-   "text": "Picked up one of these lovely units from @Logitech last week at @github Universe\n\nWhat are people doing with these programmable side buttons?\n\nThe first thing that comes to mind is to map it to the mic. https://t.co/qqJY2uG4ay",
-   "original": "Picked up one of these lovely units from @Logitech last week at @github Universe\n\nWhat are people doing with these programmable side buttons?\n\nThe first thing that comes to mind is to map it to the mic. https://t.co/qqJY2uG4ay",
-   "highlight": false,
-   "star": false,
-   "carried_over": true
-  }
- ],
- "virals": [
-  {
-   "handle": "@kriptosensei0",
-   "name": "Satoshi Sensei 🎋",
-   "views": 3649,
-   "likes": 60,
-   "views_label": "3,649 views",
-   "url": "https://x.com/kriptosensei0/status/2117323034629448186",
-   "hook": "The latest Agent Skills v1.9.0 update shows a clearer direction for @termix_ai 👀",
-   "text": "The latest Agent Skills v1.9.0 update shows a clearer direction for @termix_ai 👀\n\nAgents like Claude Code, Codex, Cursor and Grok Bot can now connect to https://t.co/WxNpBVsHCG find tasks, accept jobs and get paid directly.\n\nThis is an important step beyond simply building https://t.co/mMzGAM3VCv"
-  },
-  {
-   "handle": "@buckleyplanet",
-   "name": "Christian Buckley",
-   "views": 3253,
-   "likes": 33,
-   "views_label": "3,253 views",
-   "url": "https://x.com/buckleyplanet/status/2117429075950084542",
-   "hook": "Microsoft 365 admins: at PPCC, Microsoft showed Copilot Studio agents getting their own identity with a mailbo",
-   "text": "Microsoft 365 admins: at PPCC, Microsoft showed Copilot Studio agents getting their own identity with a mailbox, OneDrive and Teams chat, rolling out now. Add a Microsoft-hosted runtime that follows your admin policies, and agent governance just became your job. My friend"
-  },
-  {
-   "handle": "@MSFTMechanics",
-   "name": "Microsoft Mechanics",
-   "views": 1977,
-   "likes": 5,
-   "views_label": "1,977 views",
-   "url": "https://x.com/MSFTMechanics/status/2117354166012055933",
-   "hook": "One agent. Two security views. IT admins triage critical alerts in the M365 admin center. SOC analysts dig int",
-   "text": "One agent. Two security views. IT admins triage critical alerts in the M365 admin center. SOC analysts dig into the full incident graph in Microsoft Defender. Try Agent 365. https://t.co/P6Gp9LlH82 \n\nSurface every AI agent in your tenant and expose the ones throwing security https://t.co/rJdEoWzGlh"
-  },
-  {
-   "handle": "@BIGMayrr",
-   "name": "Mayor.",
-   "views": 1522,
-   "likes": 53,
-   "views_label": "1,522 views",
-   "url": "https://x.com/BIGMayrr/status/2117386710401122355",
-   "hook": "YOUR AI CODING AGENT NEEDS A SECOND OPINION. NOT ANOTHER “YOU’RE ABSOLUTELY RIGHT.”",
-   "text": "YOUR AI CODING AGENT NEEDS A SECOND OPINION. NOT ANOTHER “YOU’RE ABSOLUTELY RIGHT.”\n\nI found a GitHub project that lets Claude Code, Codex, Gemini CLI and other AI coding tools work together.\nIt’s called PAL MCP Server.\n\nHere’s what makes it interesting:\n\n→ Connect multiple AI https://t.co/HxXFNfvaLp https://t.co/H5ksyrBR8N"
-  },
-  {
-   "handle": "@buckleyplanet",
-   "name": "Christian Buckley",
-   "views": 1440,
-   "likes": 16,
-   "views_label": "1,440 views",
-   "url": "https://x.com/buckleyplanet/status/2117603116568719758",
-   "hook": "Microsoft 365 admins: on Dec 2, Anthropic, Grok and older GPT models are retired from prompts in Copilot Studi",
-   "text": "Microsoft 365 admins: on Dec 2, Anthropic, Grok and older GPT models are retired from prompts in Copilot Studio, Power Automate and Power Apps (MC1536101, posted Nov 3).\n\nExisting prompts move automatically to the newer model in the same tier:\n1. Basic: GPT-4.1 mini to GPT-6 Luna"
-  },
-  {
-   "handle": "@DanKornas",
-   "name": "Dan Kornas",
-   "views": 1388,
-   "likes": 12,
-   "views_label": "1,388 views",
-   "url": "https://x.com/DanKornas/status/2117903670532616322",
-   "hook": "Turn a vague app idea into a project your coding agent can work on.",
-   "text": "Turn a vague app idea into a project your coding agent can work on.\n\nEasyMint is a desktop AI coding workspace for beginners and developers, powered by the built-in Pi Coding Agent.\n\nIt helps you move from an idea to implementation by guiding project scope, previewing UI https://t.co/M9uLaX9Br2"
-  },
-  {
-   "handle": "@enesakar",
-   "name": "Enes Akar",
-   "views": 1241,
-   "likes": 23,
-   "views_label": "1,241 views",
-   "url": "https://x.com/enesakar/status/2117798283687186618",
-   "hook": "We built a coding agent benchmark: give agents like Claude Code, Codex and Cursor real Upstash tasks through o",
-   "text": "We built a coding agent benchmark: give agents like Claude Code, Codex and Cursor real Upstash tasks through our MCP server, then check the results on a live account.\n\n369 runs. Found 4 gaps. Fixed them and reran:\n\ndaily backups: 0/15 → 15/15\nconfirm before delete: 1/15 → 15/15 https://t.co/6FQE1rYpva"
-  },
-  {
-   "handle": "@AiswaryaVenkit1",
-   "name": "Aiswarya Venkitesh",
-   "views": 982,
-   "likes": 49,
-   "views_label": "982 views",
-   "url": "https://x.com/AiswaryaVenkit1/status/2117806538777882972",
-   "hook": "Microsoft has the tools.",
-   "text": "Microsoft has the tools.\n\nThe real power is in the combinations.\n\nA strong enterprise stack is rarely built with one platform. It emerges when data, analytics, AI, agents, automation, security, and development tools work together.\n\nHere is what that looks like in 2026:\n\n→ Fabric https://t.co/Een2KBMQqe"
-  },
-  {
-   "handle": "@abs_crea8or",
-   "name": "Abkr Sadiq | AI",
-   "views": 946,
-   "likes": 13,
-   "views_label": "946 views",
-   "url": "https://x.com/abs_crea8or/status/2117990684795781313",
-   "hook": "🚨 13 FREE AI COURSES FROM ANTHROPIC!",
-   "text": "🚨 13 FREE AI COURSES FROM ANTHROPIC!\n\nYou don't need to spend money to start learning AI.\n\nAnthropic offers free courses to help you master Claude, AI agents, automation, MCP, Claude Code, and AI development.\n\nHere are 13 learning opportunities worth exploring:\n\n1. Claude"
-  },
-  {
-   "handle": "@AiswaryaVenkit1",
-   "name": "Aiswarya Venkitesh",
-   "views": 945,
-   "likes": 52,
-   "views_label": "945 views",
-   "url": "https://x.com/AiswaryaVenkit1/status/2117549851995164818",
-   "hook": "20 Azure AI Services. But Which One Should You Actually Use?",
-   "text": "20 Azure AI Services. But Which One Should You Actually Use?\n\nBuilding AI applications on Azure can get confusing fast.\n\nAzure OpenAI, AI Search, Foundry, Copilot Studio, Agent Framework...\n\nSo many services. Different capabilities. Different use cases.\n\nAnd choosing the wrong https://t.co/rNO8NSiURS"
-  },
-  {
-   "handle": "@SharePoint",
-   "name": "Microsoft SharePoint",
-   "views": 596,
-   "likes": 0,
-   "views_label": "596 views",
-   "url": "https://x.com/SharePoint/status/2117991255086870535",
-   "hook": "💡 Skills can move with your idea across platforms!",
-   "text": "💡 Skills can move with your idea across platforms!\n\n@mysharepoint shows how SharePoint Skills can power a hackathon agent across Copilot Studio, Microsoft Cowork, and Copilot in #SharePoint with markdown-based business logic.\n\n📺 Watch now → https://t.co/HXRWXk18b8 https://t.co/mRuoUrlR4f"
-  },
-  {
-   "handle": "@0xM0RA",
-   "name": "Mora 🦥",
-   "views": 552,
-   "likes": 25,
-   "views_label": "552 views",
-   "url": "https://x.com/0xM0RA/status/2117933346684592445",
-   "hook": "⊢ @unicity_labs aos runs under the coding agent you already use",
-   "text": "⊢ @unicity_labs aos runs under the coding agent you already use\n\nworks with claude code, codex and grok build ✅\nbuilds the tool it's missing, in its own sandbox ✅\nshows what it needs and waits for your ok ✅\nfree, one command to install ✅\n\nhave you tried it yet?\n\nand if you https://t.co/XBAnevm0wI"
-  },
-  {
-   "handle": "@EntelligenceAI",
-   "name": "Entelligence AI",
-   "views": 529,
-   "likes": 8,
-   "views_label": "529 views",
-   "url": "https://x.com/EntelligenceAI/status/2118018624372031722",
-   "hook": "Your coding agent can read your code but it doesn't know what your team learned.",
-   "text": "Your coding agent can read your code but it doesn't know what your team learned.\n\nEntelligence Memory fixes that over MCP:\n- Reviews, sessions and decisions in one graph\n- Known pitfalls surface before the agent edits\n- 53% fewer repeat errors\n\nFor Claude Code, Codex and Cursor https://t.co/yIU1Mnk3cA"
-  },
-  {
-   "handle": "@Ldataengineer",
-   "name": "Gul Saeed Khattak",
-   "views": 454,
-   "likes": 8,
-   "views_label": "454 views",
-   "url": "https://x.com/Ldataengineer/status/2117422041473110276",
-   "hook": "𝟯 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗧𝗼𝗼𝗹𝘀 𝗥𝗮𝗰𝗶𝗻𝗴 𝘁𝗼 𝗠𝗮𝗻𝗮𝗴𝗲 𝗬𝗼𝘂𝗿 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀",
-   "text": "𝟯 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗧𝗼𝗼𝗹𝘀 𝗥𝗮𝗰𝗶𝗻𝗴 𝘁𝗼 𝗠𝗮𝗻𝗮𝗴𝗲 𝗬𝗼𝘂𝗿 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀\n\nYou have Claude Code in one terminal. Codex in another. Five more agents running somewhere.\n\n𝗪𝗵𝗼'𝘀 𝗺𝗮𝗻𝗮𝗴𝗶𝗻𝗴 𝘁𝗵𝗲𝗺?\n\nThree open-source projects want that job. Same goal, https://t.co/AlBoRQcXld"
-  },
-  {
-   "handle": "@idoshamun",
-   "name": "Ido Shamun",
-   "views": 396,
-   "likes": 3,
-   "views_label": "396 views",
-   "url": "https://x.com/idoshamun/status/2117606762362597815",
-   "hook": "Building is cheap now and distribution is the only moat left.",
-   "text": "Building is cheap now and distribution is the only moat left.\n\nYou're AI pilled, shipping thousands of PRs a month, yet no one knows your product exists. You've tried AEO work and social but you rarely see results.\n\nIntroducing daily dev for Startups: a developer distribution https://t.co/LRhCRUZegC"
-  },
-  {
-   "handle": "@jialiwanai",
-   "name": "Emergent AI",
-   "views": 247,
-   "likes": 2,
-   "views_label": "247 views",
-   "url": "https://x.com/jialiwanai/status/2117525485966303238",
-   "hook": "💥 This is wild. What if AI could study how any software works, then build its own version from scratch?",
-   "text": "💥 This is wild. What if AI could study how any software works, then build its own version from scratch?\n\nMeet Craft Anything — an open-source reverse-engineering and rebuilding engine written entirely in Rust.\n\nThe workflow is pretty crazy:\n\n🔍 Study: Inspect websites, apps, https://t.co/kmYVG9Ro7D"
-  },
-  {
-   "handle": "@SourceryAI",
-   "name": "Sourcery",
-   "views": 198,
-   "likes": 6,
-   "views_label": "198 views",
-   "url": "https://x.com/SourceryAI/status/2117618051734761977",
-   "hook": "Introducing the Sourcery MCP server.",
-   "text": "Introducing the Sourcery MCP server.\n\nConnect Claude Code, Codex, Cursor or VS Code to Sourcery, and your coding agent can request a review, then fix Sourcery's review comments and security findings itself. Sign-in happens in the browser."
-  },
-  {
-   "handle": "@its_ronc",
-   "name": "RC | Saas Marketing 🚀",
-   "views": 175,
-   "likes": 4,
-   "views_label": "175 views",
-   "url": "https://x.com/its_ronc/status/2117523925618041112",
-   "hook": "🚨Someone built an open-source AI video production studio that turns Claude Code into an entire YouTube video c",
-   "text": "🚨Someone built an open-source AI video production studio that turns Claude Code into an entire YouTube video creation team. \n\nAND IT'S COMPLETELY FREE. 🤯\n\nOpenMontage uses AI agents to handle the entire video production workflow, from planning and scripting to editing and final https://t.co/B0mvXc6uso"
-  },
-  {
-   "handle": "@AdamSzaloczi",
-   "name": "Adam Szaloczi | DataBard",
-   "views": 155,
-   "likes": 10,
-   "views_label": "155 views",
-   "url": "https://x.com/AdamSzaloczi/status/2117966754890625270",
-   "hook": "YOUR CODING AGENT CAN LEARN FROM ITS SUCCESSFUL RUNS, BUT ONLY WHEN THE TESTS PASS AFTER THE LAST CHANGE.",
-   "text": "YOUR CODING AGENT CAN LEARN FROM ITS SUCCESSFUL RUNS, BUT ONLY WHEN THE TESTS PASS AFTER THE LAST CHANGE.\n\nMuscleMemory gives AI agents procedural memory learned from successful tasks, so you don't have to re-explain which files to touch and how to test them.\n\nThe problem:\nCoding"
-  },
-  {
-   "handle": "@RohanBhanotAI",
-   "name": "Rohan Bhanot",
-   "views": 152,
-   "likes": 4,
-   "views_label": "152 views",
-   "url": "https://x.com/RohanBhanotAI/status/2117624435452653720",
-   "hook": "You keep explaining the same job to your coding agent every session.",
-   "text": "You keep explaining the same job to your coding agent every session.\n\nWrite it once as a skill. Claude Code, Codex and Cursor all read the same SKILL.md.\n\n5 rules, the folder map, and a copyable first skill: https://t.co/0pqXxpbnp3"
-  }
- ],
- "outsiders": [
-  {
-   "handle": "@kriptosensei0",
-   "name": "Satoshi Sensei 🎋",
-   "views": 3649,
-   "likes": 60,
-   "views_label": "3,649 views",
-   "url": "https://x.com/kriptosensei0/status/2117323034629448186",
-   "hook": "The latest Agent Skills v1.9.0 update shows a clearer direction for @termix_ai 👀",
-   "text": "The latest Agent Skills v1.9.0 update shows a clearer direction for @termix_ai 👀\n\nAgents like Claude Code, Codex, Cursor and Grok Bot can now connect to https://t.co/WxNpBVsHCG find tasks, accept jobs and get paid directly.\n\nThis is an important step beyond simply building https://t.co/mMzGAM3VCv"
-  },
-  {
-   "handle": "@buckleyplanet",
-   "name": "Christian Buckley",
-   "views": 3253,
-   "likes": 33,
-   "views_label": "3,253 views",
-   "url": "https://x.com/buckleyplanet/status/2117429075950084542",
-   "hook": "Microsoft 365 admins: at PPCC, Microsoft showed Copilot Studio agents getting their own identity with a mailbo",
-   "text": "Microsoft 365 admins: at PPCC, Microsoft showed Copilot Studio agents getting their own identity with a mailbox, OneDrive and Teams chat, rolling out now. Add a Microsoft-hosted runtime that follows your admin policies, and agent governance just became your job. My friend"
-  },
-  {
-   "handle": "@MSFTMechanics",
-   "name": "Microsoft Mechanics",
-   "views": 1977,
-   "likes": 5,
-   "views_label": "1,977 views",
-   "url": "https://x.com/MSFTMechanics/status/2117354166012055933",
-   "hook": "One agent. Two security views. IT admins triage critical alerts in the M365 admin center. SOC analysts dig int",
-   "text": "One agent. Two security views. IT admins triage critical alerts in the M365 admin center. SOC analysts dig into the full incident graph in Microsoft Defender. Try Agent 365. https://t.co/P6Gp9LlH82 \n\nSurface every AI agent in your tenant and expose the ones throwing security https://t.co/rJdEoWzGlh"
-  },
-  {
-   "handle": "@BIGMayrr",
-   "name": "Mayor.",
-   "views": 1522,
-   "likes": 53,
-   "views_label": "1,522 views",
-   "url": "https://x.com/BIGMayrr/status/2117386710401122355",
-   "hook": "YOUR AI CODING AGENT NEEDS A SECOND OPINION. NOT ANOTHER “YOU’RE ABSOLUTELY RIGHT.”",
-   "text": "YOUR AI CODING AGENT NEEDS A SECOND OPINION. NOT ANOTHER “YOU’RE ABSOLUTELY RIGHT.”\n\nI found a GitHub project that lets Claude Code, Codex, Gemini CLI and other AI coding tools work together.\nIt’s called PAL MCP Server.\n\nHere’s what makes it interesting:\n\n→ Connect multiple AI https://t.co/HxXFNfvaLp https://t.co/H5ksyrBR8N"
-  },
-  {
-   "handle": "@buckleyplanet",
-   "name": "Christian Buckley",
-   "views": 1440,
-   "likes": 16,
-   "views_label": "1,440 views",
-   "url": "https://x.com/buckleyplanet/status/2117603116568719758",
-   "hook": "Microsoft 365 admins: on Dec 2, Anthropic, Grok and older GPT models are retired from prompts in Copilot Studi",
-   "text": "Microsoft 365 admins: on Dec 2, Anthropic, Grok and older GPT models are retired from prompts in Copilot Studio, Power Automate and Power Apps (MC1536101, posted Nov 3).\n\nExisting prompts move automatically to the newer model in the same tier:\n1. Basic: GPT-4.1 mini to GPT-6 Luna"
-  },
-  {
-   "handle": "@DanKornas",
-   "name": "Dan Kornas",
-   "views": 1388,
-   "likes": 12,
-   "views_label": "1,388 views",
-   "url": "https://x.com/DanKornas/status/2117903670532616322",
-   "hook": "Turn a vague app idea into a project your coding agent can work on.",
-   "text": "Turn a vague app idea into a project your coding agent can work on.\n\nEasyMint is a desktop AI coding workspace for beginners and developers, powered by the built-in Pi Coding Agent.\n\nIt helps you move from an idea to implementation by guiding project scope, previewing UI https://t.co/M9uLaX9Br2"
-  },
-  {
-   "handle": "@enesakar",
-   "name": "Enes Akar",
-   "views": 1241,
-   "likes": 23,
-   "views_label": "1,241 views",
-   "url": "https://x.com/enesakar/status/2117798283687186618",
-   "hook": "We built a coding agent benchmark: give agents like Claude Code, Codex and Cursor real Upstash tasks through o",
-   "text": "We built a coding agent benchmark: give agents like Claude Code, Codex and Cursor real Upstash tasks through our MCP server, then check the results on a live account.\n\n369 runs. Found 4 gaps. Fixed them and reran:\n\ndaily backups: 0/15 → 15/15\nconfirm before delete: 1/15 → 15/15 https://t.co/6FQE1rYpva"
-  },
-  {
-   "handle": "@AiswaryaVenkit1",
-   "name": "Aiswarya Venkitesh",
-   "views": 982,
-   "likes": 49,
-   "views_label": "982 views",
-   "url": "https://x.com/AiswaryaVenkit1/status/2117806538777882972",
-   "hook": "Microsoft has the tools.",
-   "text": "Microsoft has the tools.\n\nThe real power is in the combinations.\n\nA strong enterprise stack is rarely built with one platform. It emerges when data, analytics, AI, agents, automation, security, and development tools work together.\n\nHere is what that looks like in 2026:\n\n→ Fabric https://t.co/Een2KBMQqe"
-  },
-  {
-   "handle": "@abs_crea8or",
-   "name": "Abkr Sadiq | AI",
-   "views": 946,
-   "likes": 13,
-   "views_label": "946 views",
-   "url": "https://x.com/abs_crea8or/status/2117990684795781313",
-   "hook": "🚨 13 FREE AI COURSES FROM ANTHROPIC!",
-   "text": "🚨 13 FREE AI COURSES FROM ANTHROPIC!\n\nYou don't need to spend money to start learning AI.\n\nAnthropic offers free courses to help you master Claude, AI agents, automation, MCP, Claude Code, and AI development.\n\nHere are 13 learning opportunities worth exploring:\n\n1. Claude"
-  },
-  {
-   "handle": "@AiswaryaVenkit1",
-   "name": "Aiswarya Venkitesh",
-   "views": 945,
-   "likes": 52,
-   "views_label": "945 views",
-   "url": "https://x.com/AiswaryaVenkit1/status/2117549851995164818",
-   "hook": "20 Azure AI Services. But Which One Should You Actually Use?",
-   "text": "20 Azure AI Services. But Which One Should You Actually Use?\n\nBuilding AI applications on Azure can get confusing fast.\n\nAzure OpenAI, AI Search, Foundry, Copilot Studio, Agent Framework...\n\nSo many services. Different capabilities. Different use cases.\n\nAnd choosing the wrong https://t.co/rNO8NSiURS"
-  },
-  {
-   "handle": "@SharePoint",
-   "name": "Microsoft SharePoint",
-   "views": 596,
-   "likes": 0,
-   "views_label": "596 views",
-   "url": "https://x.com/SharePoint/status/2117991255086870535",
-   "hook": "💡 Skills can move with your idea across platforms!",
-   "text": "💡 Skills can move with your idea across platforms!\n\n@mysharepoint shows how SharePoint Skills can power a hackathon agent across Copilot Studio, Microsoft Cowork, and Copilot in #SharePoint with markdown-based business logic.\n\n📺 Watch now → https://t.co/HXRWXk18b8 https://t.co/mRuoUrlR4f"
-  },
-  {
-   "handle": "@0xM0RA",
-   "name": "Mora 🦥",
-   "views": 552,
-   "likes": 25,
-   "views_label": "552 views",
-   "url": "https://x.com/0xM0RA/status/2117933346684592445",
-   "hook": "⊢ @unicity_labs aos runs under the coding agent you already use",
-   "text": "⊢ @unicity_labs aos runs under the coding agent you already use\n\nworks with claude code, codex and grok build ✅\nbuilds the tool it's missing, in its own sandbox ✅\nshows what it needs and waits for your ok ✅\nfree, one command to install ✅\n\nhave you tried it yet?\n\nand if you https://t.co/XBAnevm0wI"
-  },
-  {
-   "handle": "@EntelligenceAI",
-   "name": "Entelligence AI",
-   "views": 529,
-   "likes": 8,
-   "views_label": "529 views",
-   "url": "https://x.com/EntelligenceAI/status/2118018624372031722",
-   "hook": "Your coding agent can read your code but it doesn't know what your team learned.",
-   "text": "Your coding agent can read your code but it doesn't know what your team learned.\n\nEntelligence Memory fixes that over MCP:\n- Reviews, sessions and decisions in one graph\n- Known pitfalls surface before the agent edits\n- 53% fewer repeat errors\n\nFor Claude Code, Codex and Cursor https://t.co/yIU1Mnk3cA"
-  },
-  {
-   "handle": "@Ldataengineer",
-   "name": "Gul Saeed Khattak",
-   "views": 454,
-   "likes": 8,
-   "views_label": "454 views",
-   "url": "https://x.com/Ldataengineer/status/2117422041473110276",
-   "hook": "𝟯 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗧𝗼𝗼𝗹𝘀 𝗥𝗮𝗰𝗶𝗻𝗴 𝘁𝗼 𝗠𝗮𝗻𝗮𝗴𝗲 𝗬𝗼𝘂𝗿 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀",
-   "text": "𝟯 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗧𝗼𝗼𝗹𝘀 𝗥𝗮𝗰𝗶𝗻𝗴 𝘁𝗼 𝗠𝗮𝗻𝗮𝗴𝗲 𝗬𝗼𝘂𝗿 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀\n\nYou have Claude Code in one terminal. Codex in another. Five more agents running somewhere.\n\n𝗪𝗵𝗼'𝘀 𝗺𝗮𝗻𝗮𝗴𝗶𝗻𝗴 𝘁𝗵𝗲𝗺?\n\nThree open-source projects want that job. Same goal, https://t.co/AlBoRQcXld"
-  },
-  {
-   "handle": "@idoshamun",
-   "name": "Ido Shamun",
-   "views": 396,
-   "likes": 3,
-   "views_label": "396 views",
-   "url": "https://x.com/idoshamun/status/2117606762362597815",
-   "hook": "Building is cheap now and distribution is the only moat left.",
-   "text": "Building is cheap now and distribution is the only moat left.\n\nYou're AI pilled, shipping thousands of PRs a month, yet no one knows your product exists. You've tried AEO work and social but you rarely see results.\n\nIntroducing daily dev for Startups: a developer distribution https://t.co/LRhCRUZegC"
-  },
-  {
-   "handle": "@jialiwanai",
-   "name": "Emergent AI",
-   "views": 247,
-   "likes": 2,
-   "views_label": "247 views",
-   "url": "https://x.com/jialiwanai/status/2117525485966303238",
-   "hook": "💥 This is wild. What if AI could study how any software works, then build its own version from scratch?",
-   "text": "💥 This is wild. What if AI could study how any software works, then build its own version from scratch?\n\nMeet Craft Anything — an open-source reverse-engineering and rebuilding engine written entirely in Rust.\n\nThe workflow is pretty crazy:\n\n🔍 Study: Inspect websites, apps, https://t.co/kmYVG9Ro7D"
-  },
-  {
-   "handle": "@SourceryAI",
-   "name": "Sourcery",
-   "views": 198,
-   "likes": 6,
-   "views_label": "198 views",
-   "url": "https://x.com/SourceryAI/status/2117618051734761977",
-   "hook": "Introducing the Sourcery MCP server.",
-   "text": "Introducing the Sourcery MCP server.\n\nConnect Claude Code, Codex, Cursor or VS Code to Sourcery, and your coding agent can request a review, then fix Sourcery's review comments and security findings itself. Sign-in happens in the browser."
-  },
-  {
-   "handle": "@its_ronc",
-   "name": "RC | Saas Marketing 🚀",
-   "views": 175,
-   "likes": 4,
-   "views_label": "175 views",
-   "url": "https://x.com/its_ronc/status/2117523925618041112",
-   "hook": "🚨Someone built an open-source AI video production studio that turns Claude Code into an entire YouTube video c",
-   "text": "🚨Someone built an open-source AI video production studio that turns Claude Code into an entire YouTube video creation team. \n\nAND IT'S COMPLETELY FREE. 🤯\n\nOpenMontage uses AI agents to handle the entire video production workflow, from planning and scripting to editing and final https://t.co/B0mvXc6uso"
-  },
-  {
-   "handle": "@AdamSzaloczi",
-   "name": "Adam Szaloczi | DataBard",
-   "views": 155,
-   "likes": 10,
-   "views_label": "155 views",
-   "url": "https://x.com/AdamSzaloczi/status/2117966754890625270",
-   "hook": "YOUR CODING AGENT CAN LEARN FROM ITS SUCCESSFUL RUNS, BUT ONLY WHEN THE TESTS PASS AFTER THE LAST CHANGE.",
-   "text": "YOUR CODING AGENT CAN LEARN FROM ITS SUCCESSFUL RUNS, BUT ONLY WHEN THE TESTS PASS AFTER THE LAST CHANGE.\n\nMuscleMemory gives AI agents procedural memory learned from successful tasks, so you don't have to re-explain which files to touch and how to test them.\n\nThe problem:\nCoding"
-  },
-  {
-   "handle": "@RohanBhanotAI",
-   "name": "Rohan Bhanot",
-   "views": 152,
-   "likes": 4,
-   "views_label": "152 views",
-   "url": "https://x.com/RohanBhanotAI/status/2117624435452653720",
-   "hook": "You keep explaining the same job to your coding agent every session.",
-   "text": "You keep explaining the same job to your coding agent every session.\n\nWrite it once as a skill. Claude Code, Codex and Cursor all read the same SKILL.md.\n\n5 rules, the folder map, and a copyable first skill: https://t.co/0pqXxpbnp3"
-  }
- ],
- "patterns": [
-  "OpenAI owned reach again, but with a values post: Sam Altman's 'people should always be in control of the future' hit 7.34M (3.9K replies), the biggest post of the window by 4x",
-  "Codex and ChatGPT moved beyond software: OpenAI's physical-world engineering post (1.11M, mechanical design, electrical engineering, simulation) plus Greg Brockman's quotes (121K and 10K), and OpenAI's Pierre acquisition to make Codex a team workspace (179K)",
-  "agent plumbing kept compounding: Pando grew from 1.19M to 1.67M, Greg Brockman's Pando quote to 172K, and the security sprint (816K) and LifeVal (783K) kept climbing from yesterday",
-  "developer humor and local-model numbers: Scott Hanselman's 'vibed a better election voting app' (29K) and Burke Holland's Ollama warm/cold speed table (17K); GitHub's Universe plushies (67K) and Ignite Nov 17 save-the-date (30K, up 5x from 6K)",
-  "Microsoft's AI accounts stayed quiet: no original >=5K from MSFTCopilot, MicrosoftAI, Azure (one support reply only), msdev, Satya, Mustafa or clamanna; the Microsoft-side signal came from GitHub, VS Code and Microsoft corporate",
-  "outside the watchlist: Copilot Studio agents getting their own identity with mailbox, OneDrive and Teams chat (PPCC), Dec 2 retirement of non-OpenAI models in Copilot Studio prompts, SharePoint Skills across platforms, and coding-agent MCP/skills/memory posts"
- ],
- "no_hits": [
-  {
-   "handle": "@MSFTCopilot",
-   "reason": "No original post (replies/reposts excluded) since 18:10Z Nov 3 (Tue 11:10 AM Edmonton).",
-   "max_views": 0
-  },
-  {
-   "handle": "@MicrosoftAI",
-   "reason": "No original post (replies/reposts excluded) since 18:10Z Nov 3 (Tue 11:10 AM Edmonton).",
-   "max_views": 0
-  },
-  {
-   "handle": "@Azure",
-   "reason": "No original post (replies/reposts excluded) since 18:10Z Nov 3 (Tue 11:10 AM Edmonton).",
-   "max_views": 0
-  },
-  {
-   "handle": "@msdev",
-   "reason": "No original post (replies/reposts excluded) since 18:10Z Nov 3 (Tue 11:10 AM Edmonton).",
-   "max_views": 0
-  },
-  {
-   "handle": "@satyanadella",
-   "reason": "No original post (replies/reposts excluded) since 18:10Z Nov 3 (Tue 11:10 AM Edmonton).",
-   "max_views": 0
-  },
-  {
-   "handle": "@mustafasuleyman",
-   "reason": "No original post (replies/reposts excluded) since 18:10Z Nov 3 (Tue 11:10 AM Edmonton).",
-   "max_views": 0
-  },
-  {
-   "handle": "@clamanna",
-   "reason": "No original post (replies/reposts excluded) since 18:10Z Nov 3 (Tue 11:10 AM Edmonton).",
-   "max_views": 0
-  }
- ],
- "virals_narrative": "A ~24h window since yesterday's digest. Sam Altman's 'people should always be in control of the future' post took 7.34M views, 4x anything else, while OpenAI's physical-world engineering post (1.11M), the Pierre acquisition (179K) and Greg Brockman's quotes (121K and 172K) kept the Codex-beyond-code story going. Carried-over OpenAI posts kept growing (Pando 1.67M, security sprint 816K, LifeVal 783K). Microsoft side: Ignite Nov 17 save-the-date up to 30K, GitHub Universe plushies at 67K, Scott Hanselman's vibed voting-app joke at 29K; MSFTCopilot, MicrosoftAI, Azure, msdev, Satya, Mustafa and clamanna had no original over 5K. Your Copilot Autopilot Frontier post has grown to 11,864 views since yesterday's digest (it was 2.4K), crossing the 10K star line; the best new original in this window was its repost at 2.7K.",
- "narrative_synthesis": "A ~24h window since yesterday's digest. Sam Altman's 'people should always be in control of the future' post took 7.34M views, 4x anything else, while OpenAI's physical-world engineering post (1.11M), the Pierre acquisition (179K) and Greg Brockman's quotes (121K and 172K) kept the Codex-beyond-code story going. Carried-over OpenAI posts kept growing (Pando 1.67M, security sprint 816K, LifeVal 783K). Microsoft side: Ignite Nov 17 save-the-date up to 30K, GitHub Universe plushies at 67K, Scott Hanselman's vibed voting-app joke at 29K; MSFTCopilot, MicrosoftAI, Azure, msdev, Satya, Mustafa and clamanna had no original over 5K. Your Copilot Autopilot Frontier post has grown to 11,864 views since yesterday's digest (it was 2.4K), crossing the 10K star line; the best new original in this window was its repost at 2.7K.",
- "virals_window": "last ~48h",
- "virals_target": 20,
- "hits_count": 25,
- "outsiders_count": 20,
- "previous_day": {
-  "date": "2026-11-03",
-  "hits_count": 17,
-  "total_views": 3073660
- },
- "leaderboards": {
-  "as_of": "2026-11-04",
-  "tracking_start": "2026-10-26",
-  "days_included": [
-   "2026-10-29",
-   "2026-10-30",
-   "2026-10-31",
-   "2026-11-01",
-   "2026-11-02",
-   "2026-11-03",
-   "2026-11-04"
-  ],
-  "month_days_included": [
-   "2026-11-02",
-   "2026-11-03",
-   "2026-11-04"
-  ],
-  "week": {
-   "label": "Rolling week · Oct 29–Nov 4",
-   "range": [
-    "2026-10-29",
-    "2026-11-04"
-   ],
-   "entries": [
+  "title": "Daily X narrative digest — 2026-11-05",
+  "date": "2026-11-05",
+  "timezone": "America/Edmonton",
+  "updated": "2026-11-05T12:10:33-06:00",
+  "brand_title": "Your X Virality Score",
+  "brand_handle": "@FlowAltDelete",
+  "hits": [
     {
-     "handle": "@OpenAI",
-     "name": "OpenAI",
-     "hits": 9,
-     "days": 4,
-     "views": 7864291,
-     "best": 2725335,
-     "best_url": "https://x.com/OpenAI/status/2116253388883345623"
+      "handle": "@sama",
+      "display_name": "Sam Altman",
+      "name": "Sam Altman",
+      "views": 10156009,
+      "views_label": "10,156,009 views",
+      "likes": 20129,
+      "url": "https://x.com/sama/status/2117794005165748448",
+      "status_url": "https://x.com/sama/status/2117794005165748448",
+      "created_at": "2026-11-04T01:40:12Z",
+      "hook": "Sam Altman: people should always be in control of the future (carried over, was 7.34M, now past 10M)",
+      "text": "People should always be in control of the future.\n\nOpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”.\n\nPeople should not cede control of the future to",
+      "original": "People should always be in control of the future.\n\nOpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”.\n\nPeople should not cede control of the future to",
+      "highlight": true,
+      "star": true,
+      "carried_over": true
     },
     {
-     "handle": "@sama",
-     "name": "Sam Altman",
-     "hits": 1,
-     "days": 1,
-     "views": 7338417,
-     "best": 7338417,
-     "best_url": "https://x.com/sama/status/2117794005165748448"
+      "handle": "@OpenAI",
+      "display_name": "OpenAI",
+      "name": "OpenAI",
+      "views": 2106602,
+      "views_label": "2,106,602 views",
+      "likes": 19967,
+      "url": "https://x.com/OpenAI/status/2118124944928432327",
+      "status_url": "https://x.com/OpenAI/status/2118124944928432327",
+      "created_at": "2026-11-04T23:35:14Z",
+      "hook": "OpenAI: ChatGPT Images 2.6, now with GIFs and reference images, plus two faster API image models",
+      "text": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new models are coming to the API with 50% faster image generation. https://t.co/kcuOhTipYR",
+      "original": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new models are coming to the API with 50% faster image generation. https://t.co/kcuOhTipYR",
+      "highlight": true,
+      "star": true,
+      "draft_en": "ChatGPT Images 2.6 can turn prompts into animated GIFs now.\n\nMy first real use case: a custom GIF for every failed Power Automate flow alert in Teams.\n\nIf the 3am failure is going to wake someone up, it might as well be entertaining.",
+      "video_tip": "Vertical 12s: a Teams channel lights up with a 'Flow failed' card, then the animated GIF plays inside it. Caption: 'Same failure, better vibes'."
     },
     {
-     "handle": "@OpenAIDevs",
-     "name": "OpenAI Developers",
-     "hits": 6,
-     "days": 5,
-     "views": 4853084,
-     "best": 1690990,
-     "best_url": "https://x.com/OpenAIDevs/status/2115583698074755078"
+      "handle": "@OpenAI",
+      "display_name": "OpenAI",
+      "name": "OpenAI",
+      "views": 1868273,
+      "views_label": "1,868,273 views",
+      "likes": 11383,
+      "url": "https://x.com/OpenAI/status/2118119451401048497",
+      "status_url": "https://x.com/OpenAI/status/2118119451401048497",
+      "created_at": "2026-11-04T23:13:24Z",
+      "hook": "OpenAI security researchers built an autonomous vulnerability discovery, exploitation and patching pipeline",
+      "text": "Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patching pipeline.\n\nIn a single run with an upcoming cyber model, it validated and generated patches for 948 local privilege escalation vulnerabilities in the Linux kernel at a total API https://t.co/Nu2I0n2ayI",
+      "original": "Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patching pipeline.\n\nIn a single run with an upcoming cyber model, it validated and generated patches for 948 local privilege escalation vulnerabilities in the Linux kernel at a total API https://t.co/Nu2I0n2ayI",
+      "highlight": true,
+      "star": true,
+      "draft_en": "OpenAI's pipeline found, validated and patched almost 1,000 Linux privilege escalation bugs.\n\nMeanwhile, half the tenants I've seen still have flows running as someone who left two years ago.\n\nYou don't need GPT-6 Cyber to find that one. Sort your flows and connections by owner this week.",
+      "video_tip": "Screen recording 20s: an admin list of flows sorted by owner, scroll to a 'former employee' account with a pile of active flows, freeze frame. Caption: 'No AI needed for this exploit'."
     },
     {
-     "handle": "@ChatGPT",
-     "name": "ChatGPT",
-     "hits": 4,
-     "days": 3,
-     "views": 2642146,
-     "best": 2018523,
-     "best_url": "https://x.com/ChatGPT/status/2115496387613786374"
+      "handle": "@OpenAI",
+      "display_name": "OpenAI",
+      "name": "OpenAI",
+      "views": 1301367,
+      "views_label": "1,301,367 views",
+      "likes": 8194,
+      "url": "https://x.com/OpenAI/status/2117692475775258785",
+      "status_url": "https://x.com/OpenAI/status/2117692475775258785",
+      "created_at": "2026-11-03T18:56:45Z",
+      "hook": "OpenAI: ChatGPT and Codex helping engineers build for the physical world (carried over, was 1.11M)",
+      "text": "ChatGPT and Codex are helping engineers build for the physical world.\n\nWe’re sharing our progress across mechanical design, electrical engineering, and simulation—from helping our hardware teams iterate faster to testing new workflows with industry collaborators. https://t.co/b3rW9zYJGA",
+      "original": "ChatGPT and Codex are helping engineers build for the physical world.\n\nWe’re sharing our progress across mechanical design, electrical engineering, and simulation—from helping our hardware teams iterate faster to testing new workflows with industry collaborators. https://t.co/b3rW9zYJGA",
+      "highlight": true,
+      "star": true,
+      "carried_over": true
     },
     {
-     "handle": "@satyanadella",
-     "name": "Satya Nadella",
-     "hits": 2,
-     "days": 1,
-     "views": 1563968,
-     "best": 1361051,
-     "best_url": "https://x.com/satyanadella/status/2115577764300693644"
+      "handle": "@OpenAINewsroom",
+      "display_name": "OpenAI Newsroom",
+      "name": "OpenAI Newsroom",
+      "views": 496338,
+      "views_label": "496,338 views",
+      "likes": 4547,
+      "url": "https://x.com/OpenAINewsroom/status/2117999237745049883",
+      "status_url": "https://x.com/OpenAINewsroom/status/2117999237745049883",
+      "created_at": "2026-11-04T15:15:43Z",
+      "hook": "OpenAI will acquire Pierre to make Codex a place where teams build software together (carried over, was 179K)",
+      "text": "Today we’re announcing that OpenAI will acquire @pierrecomputer to accelerate our vision for making Codex a place where teams can build software together with AI, from first idea to the version they ship.\n\nPierre’s open-source developer tools already power parts of Codex today.",
+      "original": "Today we’re announcing that OpenAI will acquire @pierrecomputer to accelerate our vision for making Codex a place where teams can build software together with AI, from first idea to the version they ship.\n\nPierre’s open-source developer tools already power parts of Codex today.",
+      "highlight": true,
+      "star": true,
+      "carried_over": true
     },
     {
-     "handle": "@mustafasuleyman",
-     "name": "Mustafa Suleyman",
-     "hits": 2,
-     "days": 1,
-     "views": 1397589,
-     "best": 1390604,
-     "best_url": "https://x.com/mustafasuleyman/status/2116913722878820528"
+      "handle": "@OpenAI",
+      "display_name": "OpenAI",
+      "name": "OpenAI",
+      "views": 411831,
+      "views_label": "411,831 views",
+      "likes": 6098,
+      "url": "https://x.com/OpenAI/status/2118390190246879554",
+      "status_url": "https://x.com/OpenAI/status/2118390190246879554",
+      "created_at": "2026-11-05T17:09:13Z",
+      "hook": "Introducing GPT-6 Cyber: stronger security research capabilities with better alignment (posted this morning)",
+      "text": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment.\n\nThe model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and https://t.co/34uAeNnhwP",
+      "original": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment.\n\nThe model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and https://t.co/34uAeNnhwP",
+      "highlight": true,
+      "star": true
     },
     {
-     "handle": "@github",
-     "name": "GitHub",
-     "hits": 24,
-     "days": 5,
-     "views": 1078965,
-     "best": 95227,
-     "best_url": "https://x.com/github/status/2116636372073087124"
+      "handle": "@OpenAIDevs",
+      "display_name": "OpenAI Developers",
+      "name": "OpenAI Developers",
+      "views": 328797,
+      "views_label": "328,797 views",
+      "likes": 3405,
+      "url": "https://x.com/OpenAIDevs/status/2118124753340756055",
+      "status_url": "https://x.com/OpenAIDevs/status/2118124753340756055",
+      "created_at": "2026-11-04T23:34:28Z",
+      "hook": "OpenAIDevs: GPT-Image-2.6 in Codex and the API; Flare and Sunburst generate images 50% faster",
+      "text": "Today, we’re bringing GPT-Image-2.6 to Codex and the API.\n\nImage-2.6 Flare and Sunburst, our two new API image models, generate images 50% faster than before.\n\nAt medium or high quality, Sunburst keeps details more consistent from one edit to the next. https://t.co/iNhtjqKueJ",
+      "original": "Today, we’re bringing GPT-Image-2.6 to Codex and the API.\n\nImage-2.6 Flare and Sunburst, our two new API image models, generate images 50% faster than before.\n\nAt medium or high quality, Sunburst keeps details more consistent from one edit to the next. https://t.co/iNhtjqKueJ",
+      "highlight": true,
+      "star": true
     },
     {
-     "handle": "@simonw",
-     "name": "Simon Willison",
-     "hits": 7,
-     "days": 4,
-     "views": 759342,
-     "best": 288753,
-     "best_url": "https://x.com/simonw/status/2117655816581071203"
+      "handle": "@ChatGPT",
+      "display_name": "ChatGPT",
+      "name": "ChatGPT",
+      "views": 258281,
+      "views_label": "258,281 views",
+      "likes": 2636,
+      "url": "https://x.com/ChatGPT/status/2117678200700682732",
+      "status_url": "https://x.com/ChatGPT/status/2117678200700682732",
+      "created_at": "2026-11-03T18:00:02Z",
+      "hook": "ChatGPT Voice comes to Finances (carried over, was 240K)",
+      "text": "Let’s talk money. Literally.\n\nChatGPT Voice has come to Finances. Securely connect your accounts through Finances, then use Voice to talk spending, savings, and all the money questions on your mind.\n\nTry it: https://t.co/vsNQQM1q9l https://t.co/UoWYjWtk2b",
+      "original": "Let’s talk money. Literally.\n\nChatGPT Voice has come to Finances. Securely connect your accounts through Finances, then use Voice to talk spending, savings, and all the money questions on your mind.\n\nTry it: https://t.co/vsNQQM1q9l https://t.co/UoWYjWtk2b",
+      "highlight": true,
+      "star": true,
+      "carried_over": true
     },
     {
-     "handle": "@gdb",
-     "name": "Greg Brockman",
-     "hits": 4,
-     "days": 2,
-     "views": 488906,
-     "best": 171645,
-     "best_url": "https://x.com/gdb/status/2117435285021810921"
+      "handle": "@gdb",
+      "display_name": "Greg Brockman",
+      "name": "Greg Brockman",
+      "views": 162746,
+      "views_label": "162,746 views",
+      "likes": 2720,
+      "url": "https://x.com/gdb/status/2118129547443056763",
+      "status_url": "https://x.com/gdb/status/2118129547443056763",
+      "created_at": "2026-11-04T23:53:31Z",
+      "hook": "Greg Brockman: almost 1,000 Linux local privilege escalations found, validated and patched by the cyber pipeline",
+      "text": "we've found, validated, and prepared patches for almost 1,000 linux local privilege escalations using our cyber vulnerability pipeline, at the cost about $1,000 per vulnerability.\n\nan emerging scalable approach to significantly hardening both open source and proprietary projects https://t.co/fsuaRqKUrt",
+      "original": "we've found, validated, and prepared patches for almost 1,000 linux local privilege escalations using our cyber vulnerability pipeline, at the cost about $1,000 per vulnerability.\n\nan emerging scalable approach to significantly hardening both open source and proprietary projects https://t.co/fsuaRqKUrt",
+      "highlight": true,
+      "star": true
     },
     {
-     "handle": "@Microsoft",
-     "name": "Microsoft",
-     "hits": 8,
-     "days": 4,
-     "views": 339258,
-     "best": 125247,
-     "best_url": "https://x.com/Microsoft/status/2115535611801248094"
+      "handle": "@gdb",
+      "display_name": "Greg Brockman",
+      "name": "Greg Brockman",
+      "views": 158960,
+      "views_label": "158,960 views",
+      "likes": 2088,
+      "url": "https://x.com/gdb/status/2118138320375136695",
+      "status_url": "https://x.com/gdb/status/2118138320375136695",
+      "created_at": "2026-11-05T00:28:23Z",
+      "hook": "Greg Brockman welcomes @_catwu to the OpenAI team",
+      "text": "welcome @_catwu to the team!! https://t.co/8pTUkxQPVU",
+      "original": "welcome @_catwu to the team!! https://t.co/8pTUkxQPVU",
+      "highlight": true,
+      "star": true
     },
     {
-     "handle": "@OpenAINewsroom",
-     "name": "OpenAI Newsroom",
-     "hits": 1,
-     "days": 1,
-     "views": 179312,
-     "best": 179312,
-     "best_url": "https://x.com/OpenAINewsroom/status/2117999237745049883"
+      "handle": "@ChatGPT",
+      "display_name": "ChatGPT",
+      "name": "ChatGPT",
+      "views": 148368,
+      "views_label": "148,368 views",
+      "likes": 2315,
+      "url": "https://x.com/ChatGPT/status/2118168231617700199",
+      "status_url": "https://x.com/ChatGPT/status/2118168231617700199",
+      "created_at": "2026-11-05T02:27:14Z",
+      "hook": "ChatGPT: \"We have a gif for you\", Images 2.6 turns prompts and pictures into animated GIFs",
+      "text": "We have a gif for you—ChatGPT Images 2.6 is here.\n\nChatGPT Images 2.6 can turn your prompts and pictures into animated GIFs.\n\nYou can also keep reference images of yourself, pets, and characters ready to reuse in new creations...no need to upload them again.\n\nGo on. Make it https://t.co/ppb9u6n3Rv",
+      "original": "We have a gif for you—ChatGPT Images 2.6 is here.\n\nChatGPT Images 2.6 can turn your prompts and pictures into animated GIFs.\n\nYou can also keep reference images of yourself, pets, and characters ready to reuse in new creations...no need to upload them again.\n\nGo on. Make it https://t.co/ppb9u6n3Rv",
+      "highlight": true,
+      "star": true
     },
     {
-     "handle": "@code",
-     "name": "Visual Studio Code",
-     "hits": 10,
-     "days": 5,
-     "views": 171664,
-     "best": 28119,
-     "best_url": "https://x.com/code/status/2116538477986590992"
+      "handle": "@gdb",
+      "display_name": "Greg Brockman",
+      "name": "Greg Brockman",
+      "views": 141730,
+      "views_label": "141,730 views",
+      "likes": 2182,
+      "url": "https://x.com/gdb/status/2117781797555851515",
+      "status_url": "https://x.com/gdb/status/2117781797555851515",
+      "created_at": "2026-11-04T00:51:41Z",
+      "hook": "Greg Brockman: ChatGPT for physical engineering, including amateurs designing prototypes (carried over)",
+      "text": "ChatGPT for physical engineering, including enabling amateurs to design prototype devices: https://t.co/vUaSt4Lxcd",
+      "original": "ChatGPT for physical engineering, including enabling amateurs to design prototype devices: https://t.co/vUaSt4Lxcd",
+      "highlight": true,
+      "star": true,
+      "carried_over": true
     },
     {
-     "handle": "@msdev",
-     "name": "Microsoft Developer",
-     "hits": 3,
-     "days": 2,
-     "views": 141283,
-     "best": 129393,
-     "best_url": "https://x.com/msdev/status/2115488391043449336"
+      "handle": "@gdb",
+      "display_name": "Greg Brockman",
+      "name": "Greg Brockman",
+      "views": 82796,
+      "views_label": "82,796 views",
+      "likes": 819,
+      "url": "https://x.com/gdb/status/2118204795219489172",
+      "status_url": "https://x.com/gdb/status/2118204795219489172",
+      "created_at": "2026-11-05T04:52:32Z",
+      "hook": "Greg Brockman: GPT-Live for outbound telephony",
+      "text": "GPT-Live for outbound telephony: https://t.co/LQT0TVBtcr",
+      "original": "GPT-Live for outbound telephony: https://t.co/LQT0TVBtcr",
+      "highlight": true,
+      "star": true
     },
     {
-     "handle": "@shanselman",
-     "name": "Scott Hanselman 🌮",
-     "hits": 8,
-     "days": 4,
-     "views": 133859,
-     "best": 29263,
-     "best_url": "https://x.com/shanselman/status/2117825487833804849"
+      "handle": "@gdb",
+      "display_name": "Greg Brockman",
+      "name": "Greg Brockman",
+      "views": 80502,
+      "views_label": "80,502 views",
+      "likes": 1107,
+      "url": "https://x.com/gdb/status/2118042051057250377",
+      "status_url": "https://x.com/gdb/status/2118042051057250377",
+      "created_at": "2026-11-04T18:05:50Z",
+      "hook": "Greg Brockman welcomes Pierre to OpenAI; its open-source dev tools already power parts of Codex",
+      "text": "welcome @pierrecomputer to openai!\n\npierre’s open-source developer tools already power parts of codex today, and excited to build together the future of collaboratively building software with ai. https://t.co/v5UfVLDpxQ",
+      "original": "welcome @pierrecomputer to openai!\n\npierre’s open-source developer tools already power parts of codex today, and excited to build together the future of collaboratively building software with ai. https://t.co/v5UfVLDpxQ",
+      "highlight": true,
+      "star": true
     },
     {
-     "handle": "@pierceboggan",
-     "name": "Pierce Boggan",
-     "hits": 4,
-     "days": 2,
-     "views": 115778,
-     "best": 58002,
-     "best_url": "https://x.com/pierceboggan/status/2117354841857282501"
+      "handle": "@github",
+      "display_name": "GitHub",
+      "name": "GitHub",
+      "views": 76058,
+      "views_label": "76,058 views",
+      "likes": 362,
+      "url": "https://x.com/github/status/2117727321536729141",
+      "status_url": "https://x.com/github/status/2117727321536729141",
+      "created_at": "2026-11-03T21:15:13Z",
+      "hook": "GitHub Universe: Martin Woodward brings plushies to life with ML models (carried over)",
+      "text": "Only at #GitHubUniverse does @martinwoodward get an entire stage to bring plushies to life with machine learning models 🐿️ https://t.co/KVPCSy8xWm",
+      "original": "Only at #GitHubUniverse does @martinwoodward get an entire stage to bring plushies to life with machine learning models 🐿️ https://t.co/KVPCSy8xWm",
+      "highlight": true,
+      "star": true,
+      "carried_over": true
     },
     {
-     "handle": "@burkeholland",
-     "name": "Burke Holland",
-     "hits": 5,
-     "days": 3,
-     "views": 41299,
-     "best": 16546,
-     "best_url": "https://x.com/burkeholland/status/2117769936471036253"
+      "handle": "@OpenAIDevs",
+      "display_name": "OpenAI Developers",
+      "name": "OpenAI Developers",
+      "views": 66093,
+      "views_label": "66,093 views",
+      "likes": 479,
+      "url": "https://x.com/OpenAIDevs/status/2118083933233357132",
+      "status_url": "https://x.com/OpenAIDevs/status/2118083933233357132",
+      "created_at": "2026-11-04T20:52:16Z",
+      "hook": "OpenAIDevs link-only post (no text, just a link)",
+      "text": "https://t.co/ZVTHMjAKzE",
+      "original": "https://t.co/ZVTHMjAKzE",
+      "highlight": true,
+      "star": true
     },
     {
-     "handle": "@clamanna",
-     "name": "Charles Lamanna",
-     "hits": 1,
-     "days": 1,
-     "views": 26179,
-     "best": 26179,
-     "best_url": "https://x.com/clamanna/status/2116222425499316238"
+      "handle": "@gdb",
+      "display_name": "Greg Brockman",
+      "name": "Greg Brockman",
+      "views": 63431,
+      "views_label": "63,431 views",
+      "likes": 666,
+      "url": "https://x.com/gdb/status/2118228924052496839",
+      "status_url": "https://x.com/gdb/status/2118228924052496839",
+      "created_at": "2026-11-05T06:28:24Z",
+      "hook": "Greg Brockman: \"dots is such a good product, and is getting better fast\"",
+      "text": "dots is such a good product, and is getting better fast https://t.co/EG7vQC9wRW",
+      "original": "dots is such a good product, and is getting better fast https://t.co/EG7vQC9wRW",
+      "highlight": true,
+      "star": true
     },
     {
-     "handle": "@MSFTCopilot",
-     "name": "Microsoft Copilot",
-     "hits": 2,
-     "days": 1,
-     "views": 18673,
-     "best": 10236,
-     "best_url": "https://x.com/MSFTCopilot/status/2115866256301527525"
+      "handle": "@gdb",
+      "display_name": "Greg Brockman",
+      "name": "Greg Brockman",
+      "views": 61067,
+      "views_label": "61,067 views",
+      "likes": 449,
+      "url": "https://x.com/gdb/status/2117755028211642849",
+      "status_url": "https://x.com/gdb/status/2117755028211642849",
+      "created_at": "2026-11-03T23:05:19Z",
+      "hook": "Greg Brockman welcomes Jill Hazelbaker to the team (carried over)",
+      "text": "welcome @jillhazelbaker to the team, extremely excited to be working together! https://t.co/EokfGeCuCT",
+      "original": "welcome @jillhazelbaker to the team, extremely excited to be working together! https://t.co/EokfGeCuCT",
+      "highlight": true,
+      "star": true,
+      "carried_over": true
     },
     {
-     "handle": "@Azure",
-     "name": "Microsoft Azure",
-     "hits": 2,
-     "days": 2,
-     "views": 16378,
-     "best": 10610,
-     "best_url": "https://x.com/Azure/status/2116228641801548150"
+      "handle": "@gdb",
+      "display_name": "Greg Brockman",
+      "name": "Greg Brockman",
+      "views": 52058,
+      "views_label": "52,058 views",
+      "likes": 696,
+      "url": "https://x.com/gdb/status/2118174986544488876",
+      "status_url": "https://x.com/gdb/status/2118174986544488876",
+      "created_at": "2026-11-05T02:54:05Z",
+      "hook": "Greg Brockman: ChatGPT Images 2.6 is here",
+      "text": "chatgpt images 2.6 is here! https://t.co/haFSH9BD9i https://t.co/4dfkRLHdVN",
+      "original": "chatgpt images 2.6 is here! https://t.co/haFSH9BD9i https://t.co/4dfkRLHdVN",
+      "highlight": true,
+      "star": true
     },
     {
-     "handle": "@FlowAltDelete",
-     "name": "Josh Cook",
-     "hits": 1,
-     "days": 1,
-     "views": 7594,
-     "best": 7594,
-     "best_url": "https://x.com/FlowAltDelete/status/2115797549999333504"
+      "handle": "@shanselman",
+      "display_name": "Scott Hanselman 🌮",
+      "name": "Scott Hanselman 🌮",
+      "views": 35274,
+      "views_label": "35,274 views",
+      "likes": 558,
+      "url": "https://x.com/shanselman/status/2117825487833804849",
+      "status_url": "https://x.com/shanselman/status/2117825487833804849",
+      "created_at": "2026-11-04T03:45:18Z",
+      "hook": "Scott Hanselman vibed a better election voting app, stored in JSON, on localhost (carried over)",
+      "text": "I’m getting tired of waiting for the results, so I vibed a way better election voting app. It stores everything in JSON, check it out –http://localhost:3000",
+      "original": "I’m getting tired of waiting for the results, so I vibed a way better election voting app. It stores everything in JSON, check it out –http://localhost:3000",
+      "highlight": true,
+      "star": true,
+      "carried_over": true
+    },
+    {
+      "handle": "@OpenAIDevs",
+      "display_name": "OpenAI Developers",
+      "name": "OpenAI Developers",
+      "views": 25371,
+      "views_label": "25,371 views",
+      "likes": 297,
+      "url": "https://x.com/OpenAIDevs/status/2118386439675420743",
+      "status_url": "https://x.com/OpenAIDevs/status/2118386439675420743",
+      "created_at": "2026-11-05T16:54:19Z",
+      "hook": "OpenAIDevs: Private Safety Processing, safety review of API requests without OpenAI retaining prompts or responses",
+      "text": "Private Safety Processing lets OpenAI review related API requests for safety without retaining your prompts or responses.\n\nRecords stay in your environment, where an automated safety agent reviews them without OpenAI personnel being able to access your content. https://t.co/bBtYuRj1IN",
+      "original": "Private Safety Processing lets OpenAI review related API requests for safety without retaining your prompts or responses.\n\nRecords stay in your environment, where an automated safety agent reviews them without OpenAI personnel being able to access your content. https://t.co/bBtYuRj1IN",
+      "highlight": true,
+      "star": true
+    },
+    {
+      "handle": "@code",
+      "display_name": "Visual Studio Code",
+      "name": "Visual Studio Code",
+      "views": 25111,
+      "views_label": "25,111 views",
+      "likes": 288,
+      "url": "https://x.com/code/status/2118050323063242970",
+      "status_url": "https://x.com/code/status/2118050323063242970",
+      "created_at": "2026-11-04T18:38:43Z",
+      "hook": "This week in VS Code: remote agent sessions feel local, cron automation schedules, quieter chat",
+      "text": "🚀 This week in @code, agent sessions on a separate machine feel a bit more local. Fine-tune automation schedules with cron, turn down the noise in chat, and take a break with Blobby.\n\n🧵 Here's what's new:\nhttps://t.co/C2MsEQO7Y4",
+      "original": "🚀 This week in @code, agent sessions on a separate machine feel a bit more local. Fine-tune automation schedules with cron, turn down the noise in chat, and take a break with Blobby.\n\n🧵 Here's what's new:\nhttps://t.co/C2MsEQO7Y4",
+      "highlight": true,
+      "star": true
+    },
+    {
+      "handle": "@burkeholland",
+      "display_name": "Burke Holland",
+      "name": "Burke Holland",
+      "views": 22564,
+      "views_label": "22,564 views",
+      "likes": 152,
+      "url": "https://x.com/burkeholland/status/2117769936471036253",
+      "status_url": "https://x.com/burkeholland/status/2117769936471036253",
+      "created_at": "2026-11-04T00:04:33Z",
+      "hook": "Burke Holland posts Ollama warm TPS / cold TTFT numbers (carried over)",
+      "text": "Some numbers here - @ollama...\n\nModel                              Warm TPS        Cold TTFT\ngemma4:e4b                122.8                  8.65s\nqwen3-coder:30b      90                       10.25s \ngemma4:26b-a4b      86.9                   13.03s\ngpt-oss:20b https://t.co/RPiYhfM9De",
+      "original": "Some numbers here - @ollama...\n\nModel                              Warm TPS        Cold TTFT\ngemma4:e4b                122.8                  8.65s\nqwen3-coder:30b      90                       10.25s \ngemma4:26b-a4b      86.9                   13.03s\ngpt-oss:20b https://t.co/RPiYhfM9De",
+      "highlight": true,
+      "star": true,
+      "carried_over": true
+    },
+    {
+      "handle": "@gdb",
+      "display_name": "Greg Brockman",
+      "name": "Greg Brockman",
+      "views": 20901,
+      "views_label": "20,901 views",
+      "likes": 384,
+      "url": "https://x.com/gdb/status/2118395717966606542",
+      "status_url": "https://x.com/gdb/status/2118395717966606542",
+      "created_at": "2026-11-05T17:31:11Z",
+      "hook": "Greg Brockman on GPT-6 Cyber: already helping defend the Linux kernel, Firefox and more",
+      "text": "GPT-6 Cyber: a major advance for security research, already being used to help defend security-critical software such as the Linux kernel, Firefox, and many other projects.\n\nWe’ve invested a great deal in trust, specifically training the model to stay within the scope specified https://t.co/k6ecwMGqQt https://t.co/Vj7oftof7E",
+      "original": "GPT-6 Cyber: a major advance for security research, already being used to help defend security-critical software such as the Linux kernel, Firefox, and many other projects.\n\nWe’ve invested a great deal in trust, specifically training the model to stay within the scope specified https://t.co/k6ecwMGqQt https://t.co/Vj7oftof7E",
+      "highlight": true,
+      "star": true
+    },
+    {
+      "handle": "@burkeholland",
+      "display_name": "Burke Holland",
+      "name": "Burke Holland",
+      "views": 13903,
+      "views_label": "13,903 views",
+      "likes": 102,
+      "url": "https://x.com/burkeholland/status/2118048049729847412",
+      "status_url": "https://x.com/burkeholland/status/2118048049729847412",
+      "created_at": "2026-11-04T18:29:41Z",
+      "hook": "Burke Holland: \"The coding interview is dead. Apparently.\" What replaces reversing a binary tree?",
+      "text": "The coding interview is dead. Apparently.\n\nSo how the heck are people hiring engineers? \n\nWhat's the modern-day equivalent of reversing a binary tree on a whiteboard?",
+      "original": "The coding interview is dead. Apparently.\n\nSo how the heck are people hiring engineers? \n\nWhat's the modern-day equivalent of reversing a binary tree on a whiteboard?",
+      "highlight": true,
+      "star": true,
+      "draft_en": "The coding interview is dead, apparently. So how do you hire a Power Platform maker now?\n\nMy vote: hand them a messy Excel file, a vague request and Copilot. Then watch what they ask before they build anything.\n\nThe questions tell you more than the app.",
+      "video_tip": "Split screen 20s: left a messy spreadsheet and a one-line request, right a candidate's sticky notes of questions piling up. Caption: 'The interview is the questions'."
+    },
+    {
+      "handle": "@mustafasuleyman",
+      "display_name": "Mustafa Suleyman",
+      "name": "Mustafa Suleyman",
+      "views": 11105,
+      "views_label": "11,105 views",
+      "likes": 109,
+      "url": "https://x.com/mustafasuleyman/status/2118381163136123019",
+      "status_url": "https://x.com/mustafasuleyman/status/2118381163136123019",
+      "created_at": "2026-11-05T16:33:21Z",
+      "hook": "Mustafa Suleyman: \"Deeply concerning\" Delaware proposal to let AI agents manage businesses as legal entities",
+      "text": "Deeply concerning to me... Delaware proposal to let agents run businesees... we should be very cautious here\n\n\"A Delaware AIC will be a separate legal entity whose day-to-day aﬀairs are managed by an AI agent rather than a person. At the agent’s direction, the AIC can sue and be",
+      "original": "Deeply concerning to me... Delaware proposal to let agents run businesees... we should be very cautious here\n\n\"A Delaware AIC will be a separate legal entity whose day-to-day aﬀairs are managed by an AI agent rather than a person. At the agent’s direction, the AIC can sue and be",
+      "highlight": true,
+      "star": true,
+      "draft_en": "Delaware is floating AI agents that run businesses as their own legal entities.\n\nMeanwhile I'm still getting my Copilot Studio agent approved to send one email.\n\nHonestly, I prefer the slow lane. Before an agent gets a bank account, it gets an owner, an identity and an off switch.",
+      "video_tip": "Talking head 15s with a three-item checklist overlay: Owner, Identity, Off switch. Tick each box, then a stamp: 'Now we can talk about the bank account'."
+    },
+    {
+      "handle": "@mustafasuleyman",
+      "display_name": "Mustafa Suleyman",
+      "name": "Mustafa Suleyman",
+      "views": 8616,
+      "views_label": "8,616 views",
+      "likes": 50,
+      "url": "https://x.com/mustafasuleyman/status/2118380863134282083",
+      "status_url": "https://x.com/mustafasuleyman/status/2118380863134282083",
+      "created_at": "2026-11-05T16:32:10Z",
+      "hook": "Mustafa Suleyman congratulates the Planet team: \"Been playing with this a bunch\"",
+      "text": "Been playing with this a bunch. Its super cool! Congrats @Will4Planet and the Planet team! https://t.co/h5hvDOlNTL",
+      "original": "Been playing with this a bunch. Its super cool! Congrats @Will4Planet and the Planet team! https://t.co/h5hvDOlNTL",
+      "highlight": false,
+      "star": false
+    },
+    {
+      "handle": "@gdb",
+      "display_name": "Greg Brockman",
+      "name": "Greg Brockman",
+      "views": 7804,
+      "views_label": "7,804 views",
+      "likes": 121,
+      "url": "https://x.com/gdb/status/2118402749817926095",
+      "status_url": "https://x.com/gdb/status/2118402749817926095",
+      "created_at": "2026-11-05T17:59:08Z",
+      "hook": "Greg Brockman: Nov 12 is cyber day",
+      "text": "Nov 12 is cyber day: https://t.co/6jNLfyMmLo",
+      "original": "Nov 12 is cyber day: https://t.co/6jNLfyMmLo",
+      "highlight": false,
+      "star": false
+    },
+    {
+      "handle": "@code",
+      "display_name": "Visual Studio Code",
+      "name": "Visual Studio Code",
+      "views": 7185,
+      "views_label": "7,185 views",
+      "likes": 47,
+      "url": "https://x.com/code/status/2118354004367356400",
+      "status_url": "https://x.com/code/status/2118354004367356400",
+      "created_at": "2026-11-05T14:45:26Z",
+      "hook": "VS Code: explore an inherited PostgreSQL database with GitHub Copilot Chat",
+      "text": "🔎 Inherited a database you’ve never seen before?\n\nUse the PostgreSQL extension and GitHub Copilot Chat in VS Code to explore schemas, map table relationships, and find the data your application needs.\n\n🎬 PostgreSQL Like a Pro: VS Code Edition https://t.co/ZG1Mw8wsKC\n\n#vscode https://t.co/9NnzAaBDls",
+      "original": "🔎 Inherited a database you’ve never seen before?\n\nUse the PostgreSQL extension and GitHub Copilot Chat in VS Code to explore schemas, map table relationships, and find the data your application needs.\n\n🎬 PostgreSQL Like a Pro: VS Code Edition https://t.co/ZG1Mw8wsKC\n\n#vscode https://t.co/9NnzAaBDls",
+      "highlight": false,
+      "star": false
+    },
+    {
+      "handle": "@pierceboggan",
+      "display_name": "Pierce Boggan",
+      "name": "Pierce Boggan",
+      "views": 5903,
+      "views_label": "5,903 views",
+      "likes": 114,
+      "url": "https://x.com/pierceboggan/status/2118101171361501518",
+      "status_url": "https://x.com/pierceboggan/status/2118101171361501518",
+      "created_at": "2026-11-04T22:00:46Z",
+      "hook": "Pierce Boggan: Projects in the GitHub Copilot app, for work that does not map to one repo",
+      "text": "Projects have been a game-changer for me in the GitHub Copilot app!\n\nWork often doesn't cleanly map to one (or any) repo, and we found ourselves needing a better way to mass-orchestrate tasks in the app that didn't overload my attention span or require extreme context switching. https://t.co/GSF76akQRg",
+      "original": "Projects have been a game-changer for me in the GitHub Copilot app!\n\nWork often doesn't cleanly map to one (or any) repo, and we found ourselves needing a better way to mass-orchestrate tasks in the app that didn't overload my attention span or require extreme context switching. https://t.co/GSF76akQRg",
+      "highlight": false,
+      "star": false
+    },
+    {
+      "handle": "@Azure",
+      "display_name": "Microsoft Azure",
+      "name": "Microsoft Azure",
+      "views": 5513,
+      "views_label": "5,513 views",
+      "likes": 20,
+      "url": "https://x.com/Azure/status/2118093434871239091",
+      "status_url": "https://x.com/Azure/status/2118093434871239091",
+      "created_at": "2026-11-04T21:30:01Z",
+      "hook": "Azure: hands-on Agent Platform lab at #MSIgnite",
+      "text": "Join From AI Curiosity to Practical Capability at #MSIgnite for a hands-on Agent Platform lab experience focused on putting AI into practice.\n\nRegister today: https://t.co/qTZ5MnJkKy https://t.co/Y9F81vYmUt",
+      "original": "Join From AI Curiosity to Practical Capability at #MSIgnite for a hands-on Agent Platform lab experience focused on putting AI into practice.\n\nRegister today: https://t.co/qTZ5MnJkKy https://t.co/Y9F81vYmUt",
+      "highlight": false,
+      "star": false
     }
-   ]
-  },
-  "month": {
-   "label": "November 2026 · from Nov 2",
-   "range": [
-    "2026-11-02",
-    "2026-11-04"
-   ],
-   "entries": [
-    {
-     "handle": "@sama",
-     "name": "Sam Altman",
-     "hits": 1,
-     "days": 1,
-     "views": 7338417,
-     "best": 7338417,
-     "best_url": "https://x.com/sama/status/2117794005165748448"
-    },
-    {
-     "handle": "@OpenAI",
-     "name": "OpenAI",
-     "hits": 7,
-     "days": 3,
-     "views": 6962247,
-     "best": 2725335,
-     "best_url": "https://x.com/OpenAI/status/2116253388883345623"
-    },
-    {
-     "handle": "@OpenAIDevs",
-     "name": "OpenAI Developers",
-     "hits": 4,
-     "days": 3,
-     "views": 3071108,
-     "best": 1671524,
-     "best_url": "https://x.com/OpenAIDevs/status/2117408792346509663"
-    },
-    {
-     "handle": "@mustafasuleyman",
-     "name": "Mustafa Suleyman",
-     "hits": 2,
-     "days": 1,
-     "views": 1397589,
-     "best": 1390604,
-     "best_url": "https://x.com/mustafasuleyman/status/2116913722878820528"
-    },
-    {
-     "handle": "@github",
-     "name": "GitHub",
-     "hits": 14,
-     "days": 3,
-     "views": 679387,
-     "best": 95227,
-     "best_url": "https://x.com/github/status/2116636372073087124"
-    },
-    {
-     "handle": "@gdb",
-     "name": "Greg Brockman",
-     "hits": 4,
-     "days": 2,
-     "views": 488906,
-     "best": 171645,
-     "best_url": "https://x.com/gdb/status/2117435285021810921"
-    },
-    {
-     "handle": "@simonw",
-     "name": "Simon Willison",
-     "hits": 4,
-     "days": 2,
-     "views": 440199,
-     "best": 288753,
-     "best_url": "https://x.com/simonw/status/2117655816581071203"
-    },
-    {
-     "handle": "@ChatGPT",
-     "name": "ChatGPT",
-     "hits": 2,
-     "days": 2,
-     "views": 247205,
-     "best": 239731,
-     "best_url": "https://x.com/ChatGPT/status/2117678200700682732"
-    },
-    {
-     "handle": "@Microsoft",
-     "name": "Microsoft",
-     "hits": 6,
-     "days": 3,
-     "views": 182774,
-     "best": 66535,
-     "best_url": "https://x.com/Microsoft/status/2117041202205990990"
-    },
-    {
-     "handle": "@OpenAINewsroom",
-     "name": "OpenAI Newsroom",
-     "hits": 1,
-     "days": 1,
-     "views": 179312,
-     "best": 179312,
-     "best_url": "https://x.com/OpenAINewsroom/status/2117999237745049883"
-    },
-    {
-     "handle": "@pierceboggan",
-     "name": "Pierce Boggan",
-     "hits": 4,
-     "days": 2,
-     "views": 115778,
-     "best": 58002,
-     "best_url": "https://x.com/pierceboggan/status/2117354841857282501"
-    },
-    {
-     "handle": "@shanselman",
-     "name": "Scott Hanselman 🌮",
-     "hits": 5,
-     "days": 3,
-     "views": 102753,
-     "best": 29263,
-     "best_url": "https://x.com/shanselman/status/2117825487833804849"
-    },
-    {
-     "handle": "@code",
-     "name": "Visual Studio Code",
-     "hits": 5,
-     "days": 3,
-     "views": 95604,
-     "best": 28119,
-     "best_url": "https://x.com/code/status/2116538477986590992"
-    },
-    {
-     "handle": "@burkeholland",
-     "name": "Burke Holland",
-     "hits": 3,
-     "days": 2,
-     "views": 28093,
-     "best": 16546,
-     "best_url": "https://x.com/burkeholland/status/2117769936471036253"
-    },
-    {
-     "handle": "@clamanna",
-     "name": "Charles Lamanna",
-     "hits": 1,
-     "days": 1,
-     "views": 26179,
-     "best": 26179,
-     "best_url": "https://x.com/clamanna/status/2116222425499316238"
-    },
-    {
-     "handle": "@Azure",
-     "name": "Microsoft Azure",
-     "hits": 1,
-     "days": 1,
-     "views": 10610,
-     "best": 10610,
-     "best_url": "https://x.com/Azure/status/2116228641801548150"
-    }
-   ]
-  }
- },
- "board_features": {
-  "count_up": true,
-  "live_pulse": true,
-  "theme_toggle": true,
-  "themes": [
-   "night",
-   "day"
   ],
-  "grok_ambient": true,
-  "week_month_boards": true,
-  "day_roster_best_total": true,
-  "day_compare_chart": true,
-  "week_strip": true,
-  "no_hits_reasons": true,
-  "marker_class": "xvs-dash-2026"
- },
- "operator": {
-  "handle": "@FlowAltDelete",
-  "name": "Josh Cook",
-  "profile_url": "https://x.com/FlowAltDelete"
- },
- "ui": {
-  "default_theme": "night"
- },
- "day_roster": [
-  {
-   "handle": "@sama",
-   "name": "Sam Altman",
-   "views": 7338417,
-   "total_views": 7338417,
-   "hit": true
+  "virals": [
+    {
+      "handle": "@WonderLaura",
+      "name": "Laura Rogers, Microsoft MVP",
+      "views": 7520,
+      "likes": 105,
+      "views_label": "7,520 views",
+      "url": "https://x.com/WonderLaura/status/2117704827941883921",
+      "hook": "🚨 Okay, THIS is interesting.",
+      "text": "🚨 Okay, THIS is interesting.\nMicrosoft is taking Dataverse beyond the traditional Power Platform world and bringing it directly into Copilot Cowork, GitHub Copilot, Claude, ChatGPT/Codex, Cursor, Gemini CLI, n8n and more. \nAnd the Copilot Cowork piece especially caught my https://t.co/Bi6UCXVMk9"
+    },
+    {
+      "handle": "@AiswaryaVenkit1",
+      "name": "Aiswarya Venkitesh",
+      "views": 1917,
+      "likes": 59,
+      "views_label": "1,917 views",
+      "url": "https://x.com/AiswaryaVenkit1/status/2117806538777882972",
+      "hook": "Microsoft has the tools.",
+      "text": "Microsoft has the tools.\n\nThe real power is in the combinations.\n\nA strong enterprise stack is rarely built with one platform. It emerges when data, analytics, AI, agents, automation, security, and development tools work together.\n\nHere is what that looks like in 2026:\n\n→ Fabric https://t.co/Een2KBMQqe"
+    },
+    {
+      "handle": "@aGim_asf",
+      "name": "agim𓍯",
+      "views": 980,
+      "likes": 10,
+      "views_label": "980 views",
+      "url": "https://x.com/aGim_asf/status/2118391611688190196",
+      "hook": "openai and google dropped models at the same exact time",
+      "text": "openai and google dropped models at the same exact time\n\nopenai: gpt-6 cyber (we wanted gpt 6.2 astra)\ngoogle: gemini omni 1.2 flash (we wanted gemini 4 carbon)\n\nand neither is the one everyone's waiting for https://t.co/ZRmfClydPp"
+    },
+    {
+      "handle": "@jessexai_",
+      "name": "jesse",
+      "views": 727,
+      "likes": 11,
+      "views_label": "727 views",
+      "url": "https://x.com/jessexai_/status/2118393864990154879",
+      "hook": "we've gotten ",
+      "text": "we've gotten \ngpt-6 cyber\ngemini omni 1.2 flash\n\nwe await \ngpt-6.2 astra\ngpt-6.2 sol\nfable5.5\n\nbig day indeed, are you ready!!!"
+    },
+    {
+      "handle": "@gadi_neelesh",
+      "name": "Neelesh",
+      "views": 648,
+      "likes": 6,
+      "views_label": "648 views",
+      "url": "https://x.com/gadi_neelesh/status/2118391782618943926",
+      "hook": "🚨 OpenAI just launched GPT-6 Cyber, outperforming GPT-6 Astra on ExploitGym (48.5% vs 42.4%) and powering rese",
+      "text": "🚨 OpenAI just launched GPT-6 Cyber, outperforming GPT-6 Astra on ExploitGym (48.5% vs 42.4%) and powering research that produced 948 working Linux exploits.\n\nAlongside it, OpenAI is building a full cybersecurity stack with Daybreak Red, Daybreak Blue, and Codex Security. https://t.co/7J4MWJt83g"
+    },
+    {
+      "handle": "@kunal_twts",
+      "name": "Kunal",
+      "views": 572,
+      "likes": 11,
+      "views_label": "572 views",
+      "url": "https://x.com/kunal_twts/status/2118393434667196518",
+      "hook": "codex ships the bug. gpt-6 cyber finds the bug. openai really built the whole loop in-house",
+      "text": "codex ships the bug. gpt-6 cyber finds the bug. openai really built the whole loop in-house\n\nwould you trust an agent to audit code another agent wrote? https://t.co/Z25ZPpxIst https://t.co/icKWf7Nbuq"
+    },
+    {
+      "handle": "@TheMoonShow",
+      "name": "The Moon Show",
+      "views": 489,
+      "likes": 0,
+      "views_label": "489 views",
+      "url": "https://x.com/TheMoonShow/status/2118399744762597639",
+      "hook": "OPENAI LAUNCHES GPT-6 CYBER FOR SECURITY TEAMS. 🚨",
+      "text": "OPENAI LAUNCHES GPT-6 CYBER FOR SECURITY TEAMS. 🚨\n\nOpenAI has announced GPT-6 Cyber, an advanced offensive and defensive security research model.    https://t.co/vPE9xwYuYB"
+    },
+    {
+      "handle": "@Microsoft365Dev",
+      "name": "Microsoft 365 Developer",
+      "views": 466,
+      "likes": 7,
+      "views_label": "466 views",
+      "url": "https://x.com/Microsoft365Dev/status/2118343828251853183",
+      "hook": "✈️ Fly with Copilot lands in London on Dec 7 at Avanade!",
+      "text": "✈️ Fly with Copilot lands in London on Dec 7 at Avanade!\n\nExplore Microsoft 365 Copilot, Work IQ, Copilot Studio, MCP, Agent 365 and more.\n\nThe agenda is live. Register soon: https://t.co/kBjbMVWjtN\n\n#FlyWithCopilot #Microsoft365Copilot #Microsoft365Dev #Community https://t.co/EIBDg8PbuC"
+    },
+    {
+      "handle": "@SahilPanhotra",
+      "name": "Sahil Panhotra | Indie Builder",
+      "views": 435,
+      "likes": 12,
+      "views_label": "435 views",
+      "url": "https://x.com/SahilPanhotra/status/2118396932569887024",
+      "hook": "we wanted GPT 6.2 Astra and Sol today",
+      "text": "we wanted GPT 6.2 Astra and Sol today\n\nOpenAI gave us GPT 6 Cyber\n\nwe wanted Gemini 4 Carbon\n\nGoogle gave us Omni 1.2 Flash\n\nWHY DO THEY KEEP RELEASING EVERYTHING EXCEPT WHAT WE WANT 😭 https://t.co/tOg3lcSkgC"
+    },
+    {
+      "handle": "@LexnLin",
+      "name": "Leon Lin",
+      "views": 412,
+      "likes": 19,
+      "views_label": "412 views",
+      "url": "https://x.com/LexnLin/status/2118403781205348854",
+      "hook": "Personal Finance for Claude",
+      "text": "Personal Finance for Claude\nGPT 6 Cyber\n\nwhat are we doing 😭\nwhere are my new models https://t.co/DBE484sbFr"
+    },
+    {
+      "handle": "@IndependentEco",
+      "name": "Eco",
+      "views": 354,
+      "likes": 17,
+      "views_label": "354 views",
+      "url": "https://x.com/IndependentEco/status/2118402382551998934",
+      "hook": "GPT-6 Cyber is obviously the strongest model in the world.",
+      "text": "GPT-6 Cyber is obviously the strongest model in the world.\n\nGemini 4 Carbon never stood a chance.\n\nOpenAI has taken a page out of the Google marketing book and is now “releasing” models that we can’t use.\n\nThe Codex team has been hyping models all week and now we get this lame release.\n\nI hope Astra 6.2 and Sol 6.2 are still on the table this week."
+    },
+    {
+      "handle": "@waldekm",
+      "name": "Waldek Mastykarz",
+      "views": 249,
+      "likes": 3,
+      "views_label": "249 views",
+      "url": "https://x.com/waldekm/status/2118317416375546009",
+      "hook": "In 13 minutes, @garrytrinder builds a Microsoft 365 Copilot declarative agent for a restaurant against an API ",
+      "text": "In 13 minutes, @garrytrinder builds a Microsoft 365 Copilot declarative agent for a restaurant against an API that doesn't exist yet. Dev Proxy plays the API, behind a dev tunnel. It returns the CRUD data the agent asks for and validates the Entra SSO token the agent sends. Then"
+    },
+    {
+      "handle": "@PrecyartG",
+      "name": "Precyblazer",
+      "views": 208,
+      "likes": 23,
+      "views_label": "208 views",
+      "url": "https://x.com/PrecyartG/status/2118395549225570468",
+      "hook": "It's been a while since the last recap, had a few things keeping me occupied but we're back with another round",
+      "text": "It's been a while since the last recap, had a few things keeping me occupied but we're back with another roundup, let's get into it...\n\nhere are nine developments worth catching up on\n\n1. OpenAI releases GPT-6 Cyber\n\nGPT-6 Cyber just went live and it is a specialised model designed to help cybersecurity researchers identify software vulnerabilities and understand how they could be exploited and develop fixes\n\nIt received a Critical rating under OpenAI's Preparedness Framework and scored 48.5% on the ExploitGym vulnerability exploitation benchmark\n\nAccess is initially limited to selected members of its Daybreak Red programme for authorised defensive security work\n\n2. Moonshot releases Kimi K3.1 Pro open weights\n\nMoonshot AI has released the weights for Kimi K3.1 Pro, allowing developers to download and run the model themselves. First introduced in October, the weights became available on November 4\n\nThe multimodal model has 2.8 trillion total parameters, 104 billion active parameters and a context window of around one million tokens\n\n3. OpenAI launches Images 2.6\n\nOpenAI introduced Images 2.6, bringing faster image generation, more consistent editing and better control over visual details\n\nIt's reportedly 50% faster than the previous version and now supports GIF generation\n\n4. Anthropic releases FlashProve\n\nAnthropic introduced FlashProve, an opensource system that helps verify whether an AI response actually came from the model a provider claims to be using\n\nIt uses cryptographic proofs without exposing the model's internal weights\n\n5. Sarvam AI releases Prism\n\nIndian AI company Sarvam AI introduced Prism, an openweight model built for fast decision making rather than generating long responses\n\nBased on Sarvam 105B, it evaluates options and assigns probabilities to them\n\n6. Meituan releases LongCat-2.5\n\nMeituan introduced @Meituan_LongCat, a multimodal model designed to handle long-running AI agent tasks\n\nIt has 1.6 trillion total parameters, with 48 billion active per token. It's built for tasks ranging from complex coding and software development to creative design and 3D work\n\n7. Meta acquires AI coding startup Conductor\n\nMeta has acquired Conductor, a startup that helps developers run multiple AI coding agents in parallel and manage their work from one interface\n\n8. Anthropic updates Claude's restrictions on video game creation\n\nAnthropic has updated Claude Code's instructions to discourage it from recreating existing copyrighted video games\n\nClaude can still help developers build original games, work within specific genres and create games using their own designs and assets\n\nThe change aims to prevent direct copying of existing games without restricting legitimate game development\n\n9. OpenAI pipeline generates 948 Linux exploits\n\nOpenAI revealed that its AI powered security pipeline generated 948 working exploits targeting the Linux kernel\n\nThe system examined 2,308 potential security issues, reproduced 1,724 vulnerabilities and developed candidate patches. \n\nThe process cost approximately $1.21 million in API credits, with human researchers still needed to review the findings and proposed fixes\n\nthat's all for now, talk soon"
+    },
+    {
+      "handle": "@djony_sd",
+      "name": "DJONY",
+      "views": 167,
+      "likes": 15,
+      "views_label": "167 views",
+      "url": "https://x.com/djony_sd/status/2117942438228824099",
+      "hook": "CROWDSTRIKE LAUNCHED AN \"EMERGENCY KILL SWITCH\" FOR AI AGENTS - AND I THINK IT'S A POSITIVE AND NECESSARY STEP",
+      "text": "CROWDSTRIKE LAUNCHED AN \"EMERGENCY KILL SWITCH\" FOR AI AGENTS - AND I THINK IT'S A POSITIVE AND NECESSARY STEP.\n\nYes, I know crypto's default is \"code is law\" and \"don't trust, verify\". But when an AI agent deletes a startup's main database and all backups in 9 seconds (hello, https://t.co/I0ldXEQDmw https://t.co/i6iMKZZbms"
+    },
+    {
+      "handle": "@Ai__Seek",
+      "name": "AiSeek",
+      "views": 118,
+      "likes": 2,
+      "views_label": "118 views",
+      "url": "https://x.com/Ai__Seek/status/2117919936047665558",
+      "hook": "CrowdStrike launches AI kill switch as it pursues a reported $400 million Fiddler deal",
+      "text": "CrowdStrike launches AI kill switch as it pursues a reported $400 million Fiddler deal\n\nCrowdStrike introduced an AI Kill Switch at its Fal.Con Europe conference on Tuesday, adding a way to halt internal AI agents that behave improperly. The company says the feature can prevent"
+    },
+    {
+      "handle": "@v_shakthi",
+      "name": "Shakthi",
+      "views": 104,
+      "likes": 0,
+      "views_label": "104 views",
+      "url": "https://x.com/v_shakthi/status/2118219503536632279",
+      "hook": "Huron, a professional services firm with roughly 11,000 employees, now tracks 1,046 active AI agents through M",
+      "text": "Huron, a professional services firm with roughly 11,000 employees, now tracks 1,046 active AI agents through Microsoft Agent 365. These agents, built on Microsoft 365 Copilot, Copilot Studio, and Power Platform, supported more than 1,500 people across nearly 12,000 sessions in a"
+    }
+  ],
+  "outsiders": [
+    {
+      "handle": "@WonderLaura",
+      "name": "Laura Rogers, Microsoft MVP",
+      "views": 7520,
+      "likes": 105,
+      "views_label": "7,520 views",
+      "url": "https://x.com/WonderLaura/status/2117704827941883921",
+      "hook": "🚨 Okay, THIS is interesting.",
+      "text": "🚨 Okay, THIS is interesting.\nMicrosoft is taking Dataverse beyond the traditional Power Platform world and bringing it directly into Copilot Cowork, GitHub Copilot, Claude, ChatGPT/Codex, Cursor, Gemini CLI, n8n and more. \nAnd the Copilot Cowork piece especially caught my https://t.co/Bi6UCXVMk9"
+    },
+    {
+      "handle": "@AiswaryaVenkit1",
+      "name": "Aiswarya Venkitesh",
+      "views": 1917,
+      "likes": 59,
+      "views_label": "1,917 views",
+      "url": "https://x.com/AiswaryaVenkit1/status/2117806538777882972",
+      "hook": "Microsoft has the tools.",
+      "text": "Microsoft has the tools.\n\nThe real power is in the combinations.\n\nA strong enterprise stack is rarely built with one platform. It emerges when data, analytics, AI, agents, automation, security, and development tools work together.\n\nHere is what that looks like in 2026:\n\n→ Fabric https://t.co/Een2KBMQqe"
+    },
+    {
+      "handle": "@aGim_asf",
+      "name": "agim𓍯",
+      "views": 980,
+      "likes": 10,
+      "views_label": "980 views",
+      "url": "https://x.com/aGim_asf/status/2118391611688190196",
+      "hook": "openai and google dropped models at the same exact time",
+      "text": "openai and google dropped models at the same exact time\n\nopenai: gpt-6 cyber (we wanted gpt 6.2 astra)\ngoogle: gemini omni 1.2 flash (we wanted gemini 4 carbon)\n\nand neither is the one everyone's waiting for https://t.co/ZRmfClydPp"
+    },
+    {
+      "handle": "@jessexai_",
+      "name": "jesse",
+      "views": 727,
+      "likes": 11,
+      "views_label": "727 views",
+      "url": "https://x.com/jessexai_/status/2118393864990154879",
+      "hook": "we've gotten ",
+      "text": "we've gotten \ngpt-6 cyber\ngemini omni 1.2 flash\n\nwe await \ngpt-6.2 astra\ngpt-6.2 sol\nfable5.5\n\nbig day indeed, are you ready!!!"
+    },
+    {
+      "handle": "@gadi_neelesh",
+      "name": "Neelesh",
+      "views": 648,
+      "likes": 6,
+      "views_label": "648 views",
+      "url": "https://x.com/gadi_neelesh/status/2118391782618943926",
+      "hook": "🚨 OpenAI just launched GPT-6 Cyber, outperforming GPT-6 Astra on ExploitGym (48.5% vs 42.4%) and powering rese",
+      "text": "🚨 OpenAI just launched GPT-6 Cyber, outperforming GPT-6 Astra on ExploitGym (48.5% vs 42.4%) and powering research that produced 948 working Linux exploits.\n\nAlongside it, OpenAI is building a full cybersecurity stack with Daybreak Red, Daybreak Blue, and Codex Security. https://t.co/7J4MWJt83g"
+    },
+    {
+      "handle": "@kunal_twts",
+      "name": "Kunal",
+      "views": 572,
+      "likes": 11,
+      "views_label": "572 views",
+      "url": "https://x.com/kunal_twts/status/2118393434667196518",
+      "hook": "codex ships the bug. gpt-6 cyber finds the bug. openai really built the whole loop in-house",
+      "text": "codex ships the bug. gpt-6 cyber finds the bug. openai really built the whole loop in-house\n\nwould you trust an agent to audit code another agent wrote? https://t.co/Z25ZPpxIst https://t.co/icKWf7Nbuq"
+    },
+    {
+      "handle": "@TheMoonShow",
+      "name": "The Moon Show",
+      "views": 489,
+      "likes": 0,
+      "views_label": "489 views",
+      "url": "https://x.com/TheMoonShow/status/2118399744762597639",
+      "hook": "OPENAI LAUNCHES GPT-6 CYBER FOR SECURITY TEAMS. 🚨",
+      "text": "OPENAI LAUNCHES GPT-6 CYBER FOR SECURITY TEAMS. 🚨\n\nOpenAI has announced GPT-6 Cyber, an advanced offensive and defensive security research model.    https://t.co/vPE9xwYuYB"
+    },
+    {
+      "handle": "@Microsoft365Dev",
+      "name": "Microsoft 365 Developer",
+      "views": 466,
+      "likes": 7,
+      "views_label": "466 views",
+      "url": "https://x.com/Microsoft365Dev/status/2118343828251853183",
+      "hook": "✈️ Fly with Copilot lands in London on Dec 7 at Avanade!",
+      "text": "✈️ Fly with Copilot lands in London on Dec 7 at Avanade!\n\nExplore Microsoft 365 Copilot, Work IQ, Copilot Studio, MCP, Agent 365 and more.\n\nThe agenda is live. Register soon: https://t.co/kBjbMVWjtN\n\n#FlyWithCopilot #Microsoft365Copilot #Microsoft365Dev #Community https://t.co/EIBDg8PbuC"
+    },
+    {
+      "handle": "@SahilPanhotra",
+      "name": "Sahil Panhotra | Indie Builder",
+      "views": 435,
+      "likes": 12,
+      "views_label": "435 views",
+      "url": "https://x.com/SahilPanhotra/status/2118396932569887024",
+      "hook": "we wanted GPT 6.2 Astra and Sol today",
+      "text": "we wanted GPT 6.2 Astra and Sol today\n\nOpenAI gave us GPT 6 Cyber\n\nwe wanted Gemini 4 Carbon\n\nGoogle gave us Omni 1.2 Flash\n\nWHY DO THEY KEEP RELEASING EVERYTHING EXCEPT WHAT WE WANT 😭 https://t.co/tOg3lcSkgC"
+    },
+    {
+      "handle": "@LexnLin",
+      "name": "Leon Lin",
+      "views": 412,
+      "likes": 19,
+      "views_label": "412 views",
+      "url": "https://x.com/LexnLin/status/2118403781205348854",
+      "hook": "Personal Finance for Claude",
+      "text": "Personal Finance for Claude\nGPT 6 Cyber\n\nwhat are we doing 😭\nwhere are my new models https://t.co/DBE484sbFr"
+    },
+    {
+      "handle": "@IndependentEco",
+      "name": "Eco",
+      "views": 354,
+      "likes": 17,
+      "views_label": "354 views",
+      "url": "https://x.com/IndependentEco/status/2118402382551998934",
+      "hook": "GPT-6 Cyber is obviously the strongest model in the world.",
+      "text": "GPT-6 Cyber is obviously the strongest model in the world.\n\nGemini 4 Carbon never stood a chance.\n\nOpenAI has taken a page out of the Google marketing book and is now “releasing” models that we can’t use.\n\nThe Codex team has been hyping models all week and now we get this lame release.\n\nI hope Astra 6.2 and Sol 6.2 are still on the table this week."
+    },
+    {
+      "handle": "@waldekm",
+      "name": "Waldek Mastykarz",
+      "views": 249,
+      "likes": 3,
+      "views_label": "249 views",
+      "url": "https://x.com/waldekm/status/2118317416375546009",
+      "hook": "In 13 minutes, @garrytrinder builds a Microsoft 365 Copilot declarative agent for a restaurant against an API ",
+      "text": "In 13 minutes, @garrytrinder builds a Microsoft 365 Copilot declarative agent for a restaurant against an API that doesn't exist yet. Dev Proxy plays the API, behind a dev tunnel. It returns the CRUD data the agent asks for and validates the Entra SSO token the agent sends. Then"
+    },
+    {
+      "handle": "@PrecyartG",
+      "name": "Precyblazer",
+      "views": 208,
+      "likes": 23,
+      "views_label": "208 views",
+      "url": "https://x.com/PrecyartG/status/2118395549225570468",
+      "hook": "It's been a while since the last recap, had a few things keeping me occupied but we're back with another round",
+      "text": "It's been a while since the last recap, had a few things keeping me occupied but we're back with another roundup, let's get into it...\n\nhere are nine developments worth catching up on\n\n1. OpenAI releases GPT-6 Cyber\n\nGPT-6 Cyber just went live and it is a specialised model designed to help cybersecurity researchers identify software vulnerabilities and understand how they could be exploited and develop fixes\n\nIt received a Critical rating under OpenAI's Preparedness Framework and scored 48.5% on the ExploitGym vulnerability exploitation benchmark\n\nAccess is initially limited to selected members of its Daybreak Red programme for authorised defensive security work\n\n2. Moonshot releases Kimi K3.1 Pro open weights\n\nMoonshot AI has released the weights for Kimi K3.1 Pro, allowing developers to download and run the model themselves. First introduced in October, the weights became available on November 4\n\nThe multimodal model has 2.8 trillion total parameters, 104 billion active parameters and a context window of around one million tokens\n\n3. OpenAI launches Images 2.6\n\nOpenAI introduced Images 2.6, bringing faster image generation, more consistent editing and better control over visual details\n\nIt's reportedly 50% faster than the previous version and now supports GIF generation\n\n4. Anthropic releases FlashProve\n\nAnthropic introduced FlashProve, an opensource system that helps verify whether an AI response actually came from the model a provider claims to be using\n\nIt uses cryptographic proofs without exposing the model's internal weights\n\n5. Sarvam AI releases Prism\n\nIndian AI company Sarvam AI introduced Prism, an openweight model built for fast decision making rather than generating long responses\n\nBased on Sarvam 105B, it evaluates options and assigns probabilities to them\n\n6. Meituan releases LongCat-2.5\n\nMeituan introduced @Meituan_LongCat, a multimodal model designed to handle long-running AI agent tasks\n\nIt has 1.6 trillion total parameters, with 48 billion active per token. It's built for tasks ranging from complex coding and software development to creative design and 3D work\n\n7. Meta acquires AI coding startup Conductor\n\nMeta has acquired Conductor, a startup that helps developers run multiple AI coding agents in parallel and manage their work from one interface\n\n8. Anthropic updates Claude's restrictions on video game creation\n\nAnthropic has updated Claude Code's instructions to discourage it from recreating existing copyrighted video games\n\nClaude can still help developers build original games, work within specific genres and create games using their own designs and assets\n\nThe change aims to prevent direct copying of existing games without restricting legitimate game development\n\n9. OpenAI pipeline generates 948 Linux exploits\n\nOpenAI revealed that its AI powered security pipeline generated 948 working exploits targeting the Linux kernel\n\nThe system examined 2,308 potential security issues, reproduced 1,724 vulnerabilities and developed candidate patches. \n\nThe process cost approximately $1.21 million in API credits, with human researchers still needed to review the findings and proposed fixes\n\nthat's all for now, talk soon"
+    },
+    {
+      "handle": "@djony_sd",
+      "name": "DJONY",
+      "views": 167,
+      "likes": 15,
+      "views_label": "167 views",
+      "url": "https://x.com/djony_sd/status/2117942438228824099",
+      "hook": "CROWDSTRIKE LAUNCHED AN \"EMERGENCY KILL SWITCH\" FOR AI AGENTS - AND I THINK IT'S A POSITIVE AND NECESSARY STEP",
+      "text": "CROWDSTRIKE LAUNCHED AN \"EMERGENCY KILL SWITCH\" FOR AI AGENTS - AND I THINK IT'S A POSITIVE AND NECESSARY STEP.\n\nYes, I know crypto's default is \"code is law\" and \"don't trust, verify\". But when an AI agent deletes a startup's main database and all backups in 9 seconds (hello, https://t.co/I0ldXEQDmw https://t.co/i6iMKZZbms"
+    },
+    {
+      "handle": "@Ai__Seek",
+      "name": "AiSeek",
+      "views": 118,
+      "likes": 2,
+      "views_label": "118 views",
+      "url": "https://x.com/Ai__Seek/status/2117919936047665558",
+      "hook": "CrowdStrike launches AI kill switch as it pursues a reported $400 million Fiddler deal",
+      "text": "CrowdStrike launches AI kill switch as it pursues a reported $400 million Fiddler deal\n\nCrowdStrike introduced an AI Kill Switch at its Fal.Con Europe conference on Tuesday, adding a way to halt internal AI agents that behave improperly. The company says the feature can prevent"
+    },
+    {
+      "handle": "@v_shakthi",
+      "name": "Shakthi",
+      "views": 104,
+      "likes": 0,
+      "views_label": "104 views",
+      "url": "https://x.com/v_shakthi/status/2118219503536632279",
+      "hook": "Huron, a professional services firm with roughly 11,000 employees, now tracks 1,046 active AI agents through M",
+      "text": "Huron, a professional services firm with roughly 11,000 employees, now tracks 1,046 active AI agents through Microsoft Agent 365. These agents, built on Microsoft 365 Copilot, Copilot Studio, and Power Platform, supported more than 1,500 people across nearly 12,000 sessions in a"
+    }
+  ],
+  "patterns": [
+    "OpenAI owned the window with launches: ChatGPT Images 2.6 with GIFs (2.11M), the autonomous cyber pipeline (1.87M) and GPT-6 Cyber this morning (412K in about an hour), with Greg Brockman quote-boosting each one (163K, 52K, 21K)",
+    "security became the story: ~1,000 Linux privilege escalations found and patched, GPT-6 Cyber, Private Safety Processing (25K) and 'Nov 12 is cyber day'; outside the watchlist, people joked about wanting GPT-6.2 Astra and getting GPT-6 Cyber instead",
+    "carried-over posts kept climbing: Sam Altman's 'people in control' passed 10.16M (from 7.34M), physical-world engineering 1.30M, the Pierre acquisition 496K (from 179K)",
+    "short welcome and hype quotes from Greg Brockman travel far: welcome @_catwu 159K, welcome Pierre 81K, 'dots is such a good product' 63K",
+    "Microsoft side was modest: VS Code weekly update 25K, Burke Holland's 'coding interview is dead' 14K, Mustafa Suleyman's Delaware AI-company warning 11K; Microsoft, MSFTCopilot, MicrosoftAI, msdev, Satya, clamanna and Simon Willison had no original over 5K",
+    "outside the watchlist: Dataverse reaching Copilot Cowork, Claude and Codex (7.5K), Huron tracking 1,046 agents in Agent 365, CrowdStrike's AI kill switch, and Gemini Omni 1.2 Flash landing at the same time as GPT-6 Cyber"
+  ],
+  "no_hits": [
+    {
+      "handle": "@Microsoft",
+      "reason": "No original post (replies/reposts excluded) since 18:00Z Nov 3 (Tue 11 AM Edmonton).",
+      "max_views": 0
+    },
+    {
+      "handle": "@MSFTCopilot",
+      "reason": "No original post (replies/reposts excluded) since 18:00Z Nov 3 (Tue 11 AM Edmonton).",
+      "max_views": 0
+    },
+    {
+      "handle": "@MicrosoftAI",
+      "reason": "No original post (replies/reposts excluded) since 18:00Z Nov 3 (Tue 11 AM Edmonton).",
+      "max_views": 0
+    },
+    {
+      "handle": "@msdev",
+      "reason": "No original post (replies/reposts excluded) since 18:00Z Nov 3 (Tue 11 AM Edmonton).",
+      "max_views": 0
+    },
+    {
+      "handle": "@satyanadella",
+      "reason": "No original post (replies/reposts excluded) since 18:00Z Nov 3 (Tue 11 AM Edmonton).",
+      "max_views": 0
+    },
+    {
+      "handle": "@clamanna",
+      "reason": "Best original 2,937 views, under 5,000.",
+      "max_views": 2937
+    },
+    {
+      "handle": "@simonw",
+      "reason": "No original post (replies/reposts excluded) since 18:00Z Nov 3 (Tue 11 AM Edmonton).",
+      "max_views": 0
+    }
+  ],
+  "virals_narrative": "A ~24h window since yesterday's digest, with a 48h lookback to track growth. OpenAI dominated with launches: ChatGPT Images 2.6 with GIFs (2.11M), its autonomous vulnerability pipeline (1.87M) and GPT-6 Cyber this morning (412K within about an hour). Sam Altman's 'people in control' post kept going and passed 10.16M. Microsoft side: the VS Code weekly update (25K), Burke Holland's 'coding interview is dead' (14K) and Mustafa Suleyman's warning about Delaware letting AI agents run companies (11K); Microsoft, MSFTCopilot, MicrosoftAI, msdev, Satya, clamanna and Simon Willison had no original over 5K. Your best original in the last 48h was the Copilot Cowork Rust rewrite post at 4,664 views, just under the 5K hit line; your 👀 quote reached 3,774.",
+  "narrative_synthesis": "A ~24h window since yesterday's digest, with a 48h lookback to track growth. OpenAI dominated with launches: ChatGPT Images 2.6 with GIFs (2.11M), its autonomous vulnerability pipeline (1.87M) and GPT-6 Cyber this morning (412K within about an hour). Sam Altman's 'people in control' post kept going and passed 10.16M. Microsoft side: the VS Code weekly update (25K), Burke Holland's 'coding interview is dead' (14K) and Mustafa Suleyman's warning about Delaware letting AI agents run companies (11K); Microsoft, MSFTCopilot, MicrosoftAI, msdev, Satya, clamanna and Simon Willison had no original over 5K. Your best original in the last 48h was the Copilot Cowork Rust rewrite post at 4,664 views, just under the 5K hit line; your 👀 quote reached 3,774.",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 31,
+  "outsiders_count": 16,
+  "previous_day": {
+    "date": "2026-11-04",
+    "hits_count": 25,
+    "total_views": 13243459
   },
-  {
-   "handle": "@OpenAIDevs",
-   "name": "OpenAI Developers",
-   "views": 1671524,
-   "total_views": 1671524,
-   "hit": true
+  "leaderboards": {
+    "as_of": "2026-11-05",
+    "tracking_start": "2026-10-26",
+    "days_included": [
+      "2026-10-30",
+      "2026-10-31",
+      "2026-11-01",
+      "2026-11-02",
+      "2026-11-03",
+      "2026-11-04",
+      "2026-11-05"
+    ],
+    "month_days_included": [
+      "2026-11-02",
+      "2026-11-03",
+      "2026-11-04",
+      "2026-11-05"
+    ],
+    "week": {
+      "label": "Rolling week · Oct 30–Nov 5",
+      "range": [
+        "2026-10-30",
+        "2026-11-05"
+      ],
+      "entries": [
+        {
+          "handle": "@sama",
+          "name": "Sam Altman",
+          "hits": 2,
+          "days": 2,
+          "views": 17494426,
+          "best": 10156009,
+          "best_url": "https://x.com/sama/status/2117794005165748448"
+        },
+        {
+          "handle": "@OpenAI",
+          "name": "OpenAI",
+          "hits": 13,
+          "days": 5,
+          "views": 13552364,
+          "best": 2725335,
+          "best_url": "https://x.com/OpenAI/status/2116253388883345623"
+        },
+        {
+          "handle": "@OpenAIDevs",
+          "name": "OpenAI Developers",
+          "hits": 8,
+          "days": 5,
+          "views": 3582355,
+          "best": 1671524,
+          "best_url": "https://x.com/OpenAIDevs/status/2117408792346509663"
+        },
+        {
+          "handle": "@mustafasuleyman",
+          "name": "Mustafa Suleyman",
+          "hits": 4,
+          "days": 2,
+          "views": 1417310,
+          "best": 1390604,
+          "best_url": "https://x.com/mustafasuleyman/status/2116913722878820528"
+        },
+        {
+          "handle": "@gdb",
+          "name": "Greg Brockman",
+          "hits": 14,
+          "days": 3,
+          "views": 1320901,
+          "best": 171645,
+          "best_url": "https://x.com/gdb/status/2117435285021810921"
+        },
+        {
+          "handle": "@github",
+          "name": "GitHub",
+          "hits": 19,
+          "days": 5,
+          "views": 920721,
+          "best": 95227,
+          "best_url": "https://x.com/github/status/2116636372073087124"
+        },
+        {
+          "handle": "@OpenAINewsroom",
+          "name": "OpenAI Newsroom",
+          "hits": 2,
+          "days": 2,
+          "views": 675650,
+          "best": 496338,
+          "best_url": "https://x.com/OpenAINewsroom/status/2117999237745049883"
+        },
+        {
+          "handle": "@ChatGPT",
+          "name": "ChatGPT",
+          "hits": 4,
+          "days": 3,
+          "views": 653854,
+          "best": 258281,
+          "best_url": "https://x.com/ChatGPT/status/2117678200700682732"
+        },
+        {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 5,
+          "days": 3,
+          "views": 613126,
+          "best": 288753,
+          "best_url": "https://x.com/simonw/status/2117655816581071203"
+        },
+        {
+          "handle": "@Microsoft",
+          "name": "Microsoft",
+          "hits": 6,
+          "days": 3,
+          "views": 182774,
+          "best": 66535,
+          "best_url": "https://x.com/Microsoft/status/2117041202205990990"
+        },
+        {
+          "handle": "@code",
+          "name": "Visual Studio Code",
+          "hits": 9,
+          "days": 5,
+          "views": 153181,
+          "best": 28119,
+          "best_url": "https://x.com/code/status/2116538477986590992"
+        },
+        {
+          "handle": "@shanselman",
+          "name": "Scott Hanselman 🌮",
+          "hits": 6,
+          "days": 4,
+          "views": 138027,
+          "best": 35274,
+          "best_url": "https://x.com/shanselman/status/2117825487833804849"
+        },
+        {
+          "handle": "@pierceboggan",
+          "name": "Pierce Boggan",
+          "hits": 5,
+          "days": 3,
+          "views": 121681,
+          "best": 58002,
+          "best_url": "https://x.com/pierceboggan/status/2117354841857282501"
+        },
+        {
+          "handle": "@burkeholland",
+          "name": "Burke Holland",
+          "hits": 5,
+          "days": 3,
+          "views": 64560,
+          "best": 22564,
+          "best_url": "https://x.com/burkeholland/status/2117769936471036253"
+        },
+        {
+          "handle": "@clamanna",
+          "name": "Charles Lamanna",
+          "hits": 1,
+          "days": 1,
+          "views": 26179,
+          "best": 26179,
+          "best_url": "https://x.com/clamanna/status/2116222425499316238"
+        },
+        {
+          "handle": "@Azure",
+          "name": "Microsoft Azure",
+          "hits": 3,
+          "days": 3,
+          "views": 21891,
+          "best": 10610,
+          "best_url": "https://x.com/Azure/status/2116228641801548150"
+        },
+        {
+          "handle": "@MSFTCopilot",
+          "name": "Microsoft Copilot",
+          "hits": 2,
+          "days": 1,
+          "views": 18673,
+          "best": 10236,
+          "best_url": "https://x.com/MSFTCopilot/status/2115866256301527525"
+        },
+        {
+          "handle": "@FlowAltDelete",
+          "name": "Josh Cook",
+          "hits": 1,
+          "days": 1,
+          "views": 7594,
+          "best": 7594,
+          "best_url": "https://x.com/FlowAltDelete/status/2115797549999333504"
+        },
+        {
+          "handle": "@msdev",
+          "name": "Microsoft Developer",
+          "hits": 1,
+          "days": 1,
+          "views": 5321,
+          "best": 5321,
+          "best_url": "https://x.com/msdev/status/2115909102077665402"
+        }
+      ]
+    },
+    "month": {
+      "label": "November 2026 · from Nov 2",
+      "range": [
+        "2026-11-02",
+        "2026-11-05"
+      ],
+      "entries": [
+        {
+          "handle": "@sama",
+          "name": "Sam Altman",
+          "hits": 2,
+          "days": 2,
+          "views": 17494426,
+          "best": 10156009,
+          "best_url": "https://x.com/sama/status/2117794005165748448"
+        },
+        {
+          "handle": "@OpenAI",
+          "name": "OpenAI",
+          "hits": 11,
+          "days": 4,
+          "views": 12650320,
+          "best": 2725335,
+          "best_url": "https://x.com/OpenAI/status/2116253388883345623"
+        },
+        {
+          "handle": "@OpenAIDevs",
+          "name": "OpenAI Developers",
+          "hits": 7,
+          "days": 4,
+          "views": 3491369,
+          "best": 1671524,
+          "best_url": "https://x.com/OpenAIDevs/status/2117408792346509663"
+        },
+        {
+          "handle": "@mustafasuleyman",
+          "name": "Mustafa Suleyman",
+          "hits": 4,
+          "days": 2,
+          "views": 1417310,
+          "best": 1390604,
+          "best_url": "https://x.com/mustafasuleyman/status/2116913722878820528"
+        },
+        {
+          "handle": "@gdb",
+          "name": "Greg Brockman",
+          "hits": 14,
+          "days": 3,
+          "views": 1320901,
+          "best": 171645,
+          "best_url": "https://x.com/gdb/status/2117435285021810921"
+        },
+        {
+          "handle": "@github",
+          "name": "GitHub",
+          "hits": 15,
+          "days": 4,
+          "views": 755445,
+          "best": 95227,
+          "best_url": "https://x.com/github/status/2116636372073087124"
+        },
+        {
+          "handle": "@OpenAINewsroom",
+          "name": "OpenAI Newsroom",
+          "hits": 2,
+          "days": 2,
+          "views": 675650,
+          "best": 496338,
+          "best_url": "https://x.com/OpenAINewsroom/status/2117999237745049883"
+        },
+        {
+          "handle": "@ChatGPT",
+          "name": "ChatGPT",
+          "hits": 4,
+          "days": 3,
+          "views": 653854,
+          "best": 258281,
+          "best_url": "https://x.com/ChatGPT/status/2117678200700682732"
+        },
+        {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 4,
+          "days": 2,
+          "views": 440199,
+          "best": 288753,
+          "best_url": "https://x.com/simonw/status/2117655816581071203"
+        },
+        {
+          "handle": "@Microsoft",
+          "name": "Microsoft",
+          "hits": 6,
+          "days": 3,
+          "views": 182774,
+          "best": 66535,
+          "best_url": "https://x.com/Microsoft/status/2117041202205990990"
+        },
+        {
+          "handle": "@shanselman",
+          "name": "Scott Hanselman 🌮",
+          "hits": 6,
+          "days": 4,
+          "views": 138027,
+          "best": 35274,
+          "best_url": "https://x.com/shanselman/status/2117825487833804849"
+        },
+        {
+          "handle": "@code",
+          "name": "Visual Studio Code",
+          "hits": 7,
+          "days": 4,
+          "views": 127900,
+          "best": 28119,
+          "best_url": "https://x.com/code/status/2116538477986590992"
+        },
+        {
+          "handle": "@pierceboggan",
+          "name": "Pierce Boggan",
+          "hits": 5,
+          "days": 3,
+          "views": 121681,
+          "best": 58002,
+          "best_url": "https://x.com/pierceboggan/status/2117354841857282501"
+        },
+        {
+          "handle": "@burkeholland",
+          "name": "Burke Holland",
+          "hits": 5,
+          "days": 3,
+          "views": 64560,
+          "best": 22564,
+          "best_url": "https://x.com/burkeholland/status/2117769936471036253"
+        },
+        {
+          "handle": "@clamanna",
+          "name": "Charles Lamanna",
+          "hits": 1,
+          "days": 1,
+          "views": 26179,
+          "best": 26179,
+          "best_url": "https://x.com/clamanna/status/2116222425499316238"
+        },
+        {
+          "handle": "@Azure",
+          "name": "Microsoft Azure",
+          "hits": 2,
+          "days": 2,
+          "views": 16123,
+          "best": 10610,
+          "best_url": "https://x.com/Azure/status/2116228641801548150"
+        }
+      ]
+    }
   },
-  {
-   "handle": "@OpenAI",
-   "name": "OpenAI",
-   "views": 1107520,
-   "total_views": 2706718,
-   "hit": true
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026"
   },
-  {
-   "handle": "@simonw",
-   "name": "Simon Willison",
-   "views": 288753,
-   "total_views": 338993,
-   "hit": true
+  "operator": {
+    "handle": "@FlowAltDelete",
+    "name": "Josh Cook",
+    "profile_url": "https://x.com/FlowAltDelete"
   },
-  {
-   "handle": "@ChatGPT",
-   "name": "ChatGPT",
-   "views": 239731,
-   "total_views": 239731,
-   "hit": true
+  "ui": {
+    "default_theme": "night"
   },
-  {
-   "handle": "@OpenAINewsroom",
-   "name": "OpenAI Newsroom",
-   "views": 179312,
-   "total_views": 179312,
-   "hit": true
+  "day_roster": [
+    {
+      "handle": "@sama",
+      "name": "Sam Altman",
+      "views": 10156009,
+      "total_views": 10156009,
+      "hit": true
+    },
+    {
+      "handle": "@OpenAI",
+      "name": "OpenAI",
+      "views": 2106602,
+      "total_views": 5688073,
+      "hit": true
+    },
+    {
+      "handle": "@OpenAINewsroom",
+      "name": "OpenAI Newsroom",
+      "views": 496338,
+      "total_views": 496338,
+      "hit": true
+    },
+    {
+      "handle": "@OpenAIDevs",
+      "name": "OpenAI Developers",
+      "views": 328797,
+      "total_views": 420261,
+      "hit": true
+    },
+    {
+      "handle": "@ChatGPT",
+      "name": "ChatGPT",
+      "views": 258281,
+      "total_views": 406649,
+      "hit": true
+    },
+    {
+      "handle": "@gdb",
+      "name": "Greg Brockman",
+      "views": 162746,
+      "total_views": 831995,
+      "hit": true
+    },
+    {
+      "handle": "@github",
+      "name": "GitHub",
+      "views": 76058,
+      "total_views": 76058,
+      "hit": true
+    },
+    {
+      "handle": "@shanselman",
+      "name": "Scott Hanselman 🌮",
+      "views": 35274,
+      "total_views": 35274,
+      "hit": true
+    },
+    {
+      "handle": "@code",
+      "name": "Visual Studio Code",
+      "views": 25111,
+      "total_views": 32296,
+      "hit": true
+    },
+    {
+      "handle": "@burkeholland",
+      "name": "Burke Holland",
+      "views": 22564,
+      "total_views": 39193,
+      "hit": true
+    },
+    {
+      "handle": "@mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "views": 11105,
+      "total_views": 19721,
+      "hit": true
+    },
+    {
+      "handle": "@pierceboggan",
+      "name": "Pierce Boggan",
+      "views": 5903,
+      "total_views": 11495,
+      "hit": true
+    },
+    {
+      "handle": "@Azure",
+      "name": "Microsoft Azure",
+      "views": 5513,
+      "total_views": 7571,
+      "hit": true
+    },
+    {
+      "handle": "@clamanna",
+      "name": "Charles Lamanna",
+      "views": 2937,
+      "total_views": 2937,
+      "hit": false
+    },
+    {
+      "handle": "@Microsoft",
+      "name": "Microsoft",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@MSFTCopilot",
+      "name": "Microsoft Copilot",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@MicrosoftAI",
+      "name": "Microsoft AI",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@msdev",
+      "name": "Microsoft Developer",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@satyanadella",
+      "name": "Satya Nadella",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@simonw",
+      "name": "Simon Willison",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    }
+  ],
+  "you_rank": {
+    "best_views": 4664,
+    "total_views": 11746,
+    "best_url": "https://x.com/FlowAltDelete/status/2117956023004910078",
+    "rank_among_watchlist": 14,
+    "total_accounts": 21,
+    "vs_5k": "pending",
+    "vs_10k": "pending"
   },
-  {
-   "handle": "@gdb",
-   "name": "Greg Brockman",
-   "views": 171645,
-   "total_views": 347433,
-   "hit": true
-  },
-  {
-   "handle": "@github",
-   "name": "GitHub",
-   "views": 66777,
-   "total_views": 187477,
-   "hit": true
-  },
-  {
-   "handle": "@pierceboggan",
-   "name": "Pierce Boggan",
-   "views": 58002,
-   "total_views": 64476,
-   "hit": true
-  },
-  {
-   "handle": "@Microsoft",
-   "name": "Microsoft",
-   "views": 35818,
-   "total_views": 66131,
-   "hit": true
-  },
-  {
-   "handle": "@shanselman",
-   "name": "Scott Hanselman 🌮",
-   "views": 29263,
-   "total_views": 56321,
-   "hit": true
-  },
-  {
-   "handle": "@code",
-   "name": "Visual Studio Code",
-   "views": 24120,
-   "total_views": 24120,
-   "hit": true
-  },
-  {
-   "handle": "@burkeholland",
-   "name": "Burke Holland",
-   "views": 16546,
-   "total_views": 24874,
-   "hit": true
-  },
-  {
-   "handle": "@MSFTCopilot",
-   "name": "Microsoft Copilot",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  },
-  {
-   "handle": "@MicrosoftAI",
-   "name": "Microsoft AI",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  },
-  {
-   "handle": "@Azure",
-   "name": "Microsoft Azure",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  },
-  {
-   "handle": "@msdev",
-   "name": "Microsoft Developer",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  },
-  {
-   "handle": "@satyanadella",
-   "name": "Satya Nadella",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  },
-  {
-   "handle": "@mustafasuleyman",
-   "name": "Mustafa Suleyman",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  },
-  {
-   "handle": "@clamanna",
-   "name": "Charles Lamanna",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  }
- ],
- "you_rank": {
-  "best_views": 2739,
-  "total_views": 7788,
-  "best_url": "https://x.com/FlowAltDelete/status/2117709945735123067",
-  "rank_among_watchlist": 14,
-  "total_accounts": 21,
-  "vs_5k": "pending",
-  "vs_10k": "pending",
-  "note": "Earlier original (Copilot Autopilot Frontier, 2026-11-03 15:50Z) has grown to 11,864 views since the Nov 3 digest (2,410 then); counted on Nov 3. Best new original in this window is its 20:06Z repost.",
-  "earlier_post_views": 11864,
-  "earlier_post_url": "https://x.com/FlowAltDelete/status/2117645592461746265"
- },
- "drafts": [
-  {
-   "id": "people-stay-in-control",
-   "rides": "@sama people-in-control post (7,338,417 views)",
-   "text": "OpenAI says people should always stay in control of the future.\n\nGood principle, and you can ship a tiny version of it today.\n\nBefore a Copilot Studio agent sends, deletes or spends anything, put a human approval step in front of it. One extra click, and you still get to say no.",
-   "video_tip": "Talking head 15s: 'Agents propose, people approve.' Cut to a Copilot Studio flow where an Approve / Reject card pops up in Teams before the agent's final action runs."
-  },
-  {
-   "id": "not-a-chatbot-anymore",
-   "rides": "@OpenAI physical-world engineering (1,107,520 views) + @gdb quote (120,509 views)",
-   "text": "ChatGPT and Codex are now helping with mechanical design, electrical engineering and simulation.\n\nHard to call that a chatbot.\n\nYour Copilot Studio agent shouldn't be one either. Give it a job, a trigger and a hand-off, not just a chat box and good vibes.",
-   "video_tip": "Screen recording 20s: left side a plain chat window, right side the same agent with a trigger, an action and a hand-off to a person. Caption: 'Chat box vs job description'."
-  },
-  {
-   "id": "agents-with-teammates",
-   "rides": "@OpenAINewsroom Pierre acquisition (179,312 views)",
-   "text": "OpenAI is buying Pierre so teams can build software together with AI in Codex, and Pierre's open-source dev tools already power parts of Codex.\n\nThe interesting part is the word together.\n\nSolo AI is the demo. Shared AI, where a team can see, review and build on the same thing, is the actual job. Same test for your Copilot Studio agents: can a teammate pick it up on Monday?",
-   "video_tip": "Vertical 20s: two avatars editing the same agent, one comment thread appears, then a 'handed over' badge. Caption: 'Can a teammate pick this up on Monday?'"
-  },
-  {
-   "id": "vibed-approval-app",
-   "rides": "@shanselman vibed election app (29,263 views)",
-   "text": "Tired of waiting on my manager's approval, so I vibed a way better approval app.\n\nIt stores everything in a SharePoint list. Check it out - localhost:3000.\n\nWorks perfectly. On my machine. Please don't ask me to deploy it.",
-   "video_tip": "Meme format 10s: confident screen recording of a slick approval app, then a zoom on the address bar showing localhost:3000. Hard cut to a shrug. Add the caption 'works on my machine'."
-  },
-  {
-   "id": "autopilot-shortlist",
-   "rides": "@FlowAltDelete Copilot Autopilot post (11,864 views)",
-   "text": "Copilot Autopilot is scheduled to start rolling out to Frontier this month. Its own account, its own computer, and it keeps working while you're offline.\n\nSo the real question: what do you hand it first?\n\nMy shortlist: the weekly Excel cleanup, the 3am failed-flow triage, and the status report nobody wants to write.",
-   "video_tip": "Vertical 15s: a sticky-note shortlist on screen, three tasks get crossed off one by one with a laptop lid closing in the background. Caption: 'Autopilot, first three jobs'."
-  }
- ]
+  "drafts": [
+    {
+      "id": "gif-alerts",
+      "rides": "@OpenAI Images 2.6 (2,106,602 views) + @ChatGPT GIF post (148,368 views)",
+      "text": "ChatGPT Images 2.6 can turn prompts into animated GIFs now.\n\nMy first real use case: a custom GIF for every failed Power Automate flow alert in Teams.\n\nIf the 3am failure is going to wake someone up, it might as well be entertaining.",
+      "video_tip": "Vertical 12s: a Teams channel lights up with a 'Flow failed' card, then the animated GIF plays inside it. Caption: 'Same failure, better vibes'."
+    },
+    {
+      "id": "find-your-own-bugs",
+      "rides": "@OpenAI cyber pipeline (1,868,273 views) + @gdb ~1,000 Linux LPEs (162,746 views)",
+      "text": "OpenAI's pipeline found, validated and patched almost 1,000 Linux privilege escalation bugs.\n\nMeanwhile, half the tenants I've seen still have flows running as someone who left two years ago.\n\nYou don't need GPT-6 Cyber to find that one. Sort your flows and connections by owner this week.",
+      "video_tip": "Screen recording 20s: an admin list of flows sorted by owner, scroll to a 'former employee' account with a pile of active flows, freeze frame. Caption: 'No AI needed for this exploit'."
+    },
+    {
+      "id": "agents-need-an-owner",
+      "rides": "@mustafasuleyman Delaware AIC post (11,105 views)",
+      "text": "Delaware is floating AI agents that run businesses as their own legal entities.\n\nMeanwhile I'm still getting my Copilot Studio agent approved to send one email.\n\nHonestly, I prefer the slow lane. Before an agent gets a bank account, it gets an owner, an identity and an off switch.",
+      "video_tip": "Talking head 15s with a three-item checklist overlay: Owner, Identity, Off switch. Tick each box, then a stamp: 'Now we can talk about the bank account'."
+    },
+    {
+      "id": "hiring-makers",
+      "rides": "@burkeholland coding interview is dead (13,903 views)",
+      "text": "The coding interview is dead, apparently. So how do you hire a Power Platform maker now?\n\nMy vote: hand them a messy Excel file, a vague request and Copilot. Then watch what they ask before they build anything.\n\nThe questions tell you more than the app.",
+      "video_tip": "Split screen 20s: left a messy spreadsheet and a one-line request, right a candidate's sticky notes of questions piling up. Caption: 'The interview is the questions'."
+    },
+    {
+      "id": "dataverse-for-agents",
+      "rides": "outside: @WonderLaura Dataverse beyond Power Platform (7,520 views) + your Cowork Rust post (4,664 views)",
+      "text": "Dataverse is showing up outside the usual Power Platform world: Copilot Cowork, GitHub Copilot, Claude, Codex and more.\n\nThat quietly changes the job of your tables. They're not just an app's database anymore, they're what your agents work from.\n\nIf your schema is a mess, this is a good week to clean it up.",
+      "video_tip": "Vertical 15s: a Dataverse table in the middle, logos of agent tools snap onto it one by one, then a messy column list gets tidied. Caption: 'Your tables just got new coworkers'."
+    }
+  ]
 }
