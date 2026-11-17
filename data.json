@@ -2,7 +2,7 @@
   "title": "Daily X narrative digest — 2026-11-17",
   "date": "2026-11-17",
   "timezone": "America/Edmonton",
-  "updated": "2026-11-17T10:49:30-06:00",
+  "updated": "2026-11-17T10:49:47-06:00",
   "brand_title": "Your X Virality Score",
   "brand_handle": "@FlowAltDelete",
   "hits": [
@@ -56,8 +56,7 @@
       "text": "We’re expanding free access to our frontier models for up to 200,000 scientists worldwide, with training and support.\n\nApplications open Nov. 23. By default, we don’t use data shared through the program to train our models.\n\nhttps://t.co/eJwqO9Q2WG https://t.co/IffpbKLQWW",
       "original": "We’re expanding free access to our frontier models for up to 200,000 scientists worldwide, with training and support.\n\nApplications open Nov. 23. By default, we don’t use data shared through the program to train our models.\n\nhttps://t.co/eJwqO9Q2WG https://t.co/IffpbKLQWW",
       "highlight": true,
-      "star": true,
-      "carried_over": true
+      "star": true
     },
     {
       "handle": "@clamanna",
@@ -90,8 +89,7 @@
       "text": "Scientists reported nearly doubling their productivity with AI in our study of more than 1,800 participants in the ChatGPT for Academic Researchers program.\n\nUsing privacy-preserving methods, we looked at how they use ChatGPT across their work—from developing ideas to analyzing https://t.co/oM09TAa3W3",
       "original": "Scientists reported nearly doubling their productivity with AI in our study of more than 1,800 participants in the ChatGPT for Academic Researchers program.\n\nUsing privacy-preserving methods, we looked at how they use ChatGPT across their work—from developing ideas to analyzing https://t.co/oM09TAa3W3",
       "highlight": true,
-      "star": true,
-      "carried_over": true
+      "star": true
     },
     {
       "handle": "@OpenAI",
@@ -107,8 +105,7 @@
       "text": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins.\n\n@AbridgeHQ, @AmbienceAI, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior https://t.co/hbRzj5WTFA",
       "original": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins.\n\n@AbridgeHQ, @AmbienceAI, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior https://t.co/hbRzj5WTFA",
       "highlight": true,
-      "star": true,
-      "carried_over": true
+      "star": true
     },
     {
       "handle": "@gdb",
@@ -141,8 +138,7 @@
       "text": "We're releasing a free new tool to vetted organizations to help detect child sexual abuse material, including AI-generated images. We're also adding ChatGPT warnings, publishing guidance for developers, and supporting child safety investigators.  \n\nWe developed the classifier with assistance from the National Center for Missing & Exploited Children. We're working with the Tech Coalition and ROOST to help make it available to more organizations.\n\nhttps://t.co/MqKVJ6mdTy",
       "original": "We're releasing a free new tool to vetted organizations to help detect child sexual abuse material, including AI-generated images. We're also adding ChatGPT warnings, publishing guidance for developers, and supporting child safety investigators.  \n\nWe developed the classifier with assistance from the National Center for Missing & Exploited Children. We're working with the Tech Coalition and ROOST to help make it available to more organizations.\n\nhttps://t.co/MqKVJ6mdTy",
       "highlight": true,
-      "star": true,
-      "carried_over": true
+      "star": true
     },
     {
       "handle": "@github",
@@ -175,8 +171,7 @@
       "text": "launching our first round of embedded assessments: https://t.co/Ty8ey4snZU",
       "original": "launching our first round of embedded assessments: https://t.co/Ty8ey4snZU",
       "highlight": true,
-      "star": true,
-      "carried_over": true
+      "star": true
     },
     {
       "handle": "@gdb",
@@ -192,8 +187,7 @@
       "text": "ChatGPT for doubling the productivity of scientists: https://t.co/7Y7qhvOiC5",
       "original": "ChatGPT for doubling the productivity of scientists: https://t.co/7Y7qhvOiC5",
       "highlight": true,
-      "star": true,
-      "carried_over": true
+      "star": true
     },
     {
       "handle": "@simonw",
@@ -210,7 +204,6 @@
       "original": "I've been exploring new ways to sandbox code written by coding agents - here's a description of the external sandbox pattern, where agents run on your Mac but execute code in a WebAssembly or QEMU or Apple Container sandbox - with demos for Claude Code, Codex and Pi https://t.co/0XIhs4XYvQ",
       "highlight": true,
       "star": true,
-      "carried_over": true,
       "draft_en": "Three of yesterday's best dev posts were the same idea.\n\nGitHub: agent skills, write the instructions once and reuse them.\nSimon Willison: let the agent run on your Mac, but execute its code in a sandbox.\nScott Hanselman: an MCP server for Windows Sandbox.\n\nReusable instructions + a box the agent can't break out of.\n\nThat's the Copilot Studio playbook too: knowledge and topics you reuse, actions you scope tight.",
       "video_tip": "Vertical 12s: three screenshots stack on screen one by one (skills guide, sandbox diagram, Windows Sandbox), then an arrow points to a Copilot Studio agent with a 'scoped actions' label. Caption: 'Instructions in, blast radius down.'"
     },
@@ -228,8 +221,7 @@
       "text": "You're going to want to keep this tab open. 👀 Follow the Microsoft Ignite live blog starting November 17. #MSIgnite https://t.co/y2zv5rVopr https://t.co/07n4XJZ3Q6",
       "original": "You're going to want to keep this tab open. 👀 Follow the Microsoft Ignite live blog starting November 17. #MSIgnite https://t.co/y2zv5rVopr https://t.co/07n4XJZ3Q6",
       "highlight": true,
-      "star": true,
-      "carried_over": true
+      "star": true
     },
     {
       "handle": "@github",
@@ -245,8 +237,7 @@
       "text": "Agent skills let you capture repeatable instructions so you and your agents can reuse them.\n\nA practical guide on agent skills to keep past instructions, institutional knowledge, and other context 👇 https://t.co/G2A4KdnTOo",
       "original": "Agent skills let you capture repeatable instructions so you and your agents can reuse them.\n\nA practical guide on agent skills to keep past instructions, institutional knowledge, and other context 👇 https://t.co/G2A4KdnTOo",
       "highlight": true,
-      "star": true,
-      "carried_over": true
+      "star": true
     },
     {
       "handle": "@satyanadella",
@@ -263,7 +254,6 @@
       "original": "Looking forward to Ignite, kicking off today at 10am PST! Hope you’ll join us live. https://t.co/2l8YrnUxVR https://t.co/TNYM9b8y4y",
       "highlight": true,
       "star": true,
-      "carried_over": true,
       "draft_en": "Ignite keynote today, 10am PT (11am Mountain).\n\nThree things I'm listening for:\n\n1. Autopilot, when and for who\n2. MicrosoftAI models inside the Copilot harness (Cowork, Studio, Code)\n3. What agents cost, in plain numbers\n\nEverything else is a demo until it ships to my tenant.",
       "video_tip": "Vertical 8s: coffee in hand, laptop showing the Ignite stream countdown, three sticky notes on the screen edge with the three items. Caption: 'Ignite: what I actually care about.'"
     },
@@ -281,8 +271,7 @@
       "text": "Consider this your reminder to get comfortable. 🍿 The #MSIgnite keynote begins November 17 at 10AM PT.  Tune in live: https://t.co/cLOC5L1yCe https://t.co/RbeHzo7Ttu",
       "original": "Consider this your reminder to get comfortable. 🍿 The #MSIgnite keynote begins November 17 at 10AM PT.  Tune in live: https://t.co/cLOC5L1yCe https://t.co/RbeHzo7Ttu",
       "highlight": true,
-      "star": true,
-      "carried_over": true
+      "star": true
     },
     {
       "handle": "@shanselman",
@@ -298,8 +287,7 @@
       "text": "Here’s an MCP server for Windows Sandbox https://t.co/huB9hAoxSv https://t.co/h0jcwTDPHF",
       "original": "Here’s an MCP server for Windows Sandbox https://t.co/huB9hAoxSv https://t.co/h0jcwTDPHF",
       "highlight": true,
-      "star": true,
-      "carried_over": true
+      "star": true
     },
     {
       "handle": "@Microsoft",
@@ -315,8 +303,7 @@
       "text": "Consider this your reminder to get comfortable. 🍿 The #MSIgnite Ignite keynote begins November 17 at 10AM PT.  Tune in live: https://t.co/NJLaDmpRUL https://t.co/cxXA66PIbp",
       "original": "Consider this your reminder to get comfortable. 🍿 The #MSIgnite Ignite keynote begins November 17 at 10AM PT.  Tune in live: https://t.co/NJLaDmpRUL https://t.co/cxXA66PIbp",
       "highlight": true,
-      "star": true,
-      "carried_over": true
+      "star": true
     },
     {
       "handle": "@shanselman",
@@ -332,8 +319,7 @@
       "text": "At #MsIgnite? Put a hold on your calendar for Tuesday at 3:15pm…something awesome, info ASAP",
       "original": "At #MsIgnite? Put a hold on your calendar for Tuesday at 3:15pm…something awesome, info ASAP",
       "highlight": true,
-      "star": true,
-      "carried_over": true
+      "star": true
     },
     {
       "handle": "@MSFTCopilot",
@@ -350,7 +336,6 @@
       "original": "Using AI tools at work shouldn’t exceed your budget. In partnership with GigaOm, we compared Copilot to several leading tools and found that Copilot was more cost effective without sacrificing quality on both everyday and advanced AI tasks. See how Copilot stacks up in the full analysis: https://t.co/EiUIPk1PN7",
       "highlight": true,
       "star": true,
-      "carried_over": true,
       "draft_en": "Microsoft says Copilot is more cost effective than the other leading tools.\n\nCost effective only counts if you use what's in the license.\n\nExample: Microsoft 365 Copilot includes 20 hours of Teams interpretation per month. Most people I ask have never turned it on.\n\nScheduled meeting, Interpreter on, pick your language. Done.",
       "video_tip": "Vertical 12s screen recording: open a scheduled Teams meeting, turn on Interpreter, pick a listening language, slide the Balance volume. Caption: 'You already paid for this.'"
     }
@@ -828,9 +813,9 @@
   "hits_count": 20,
   "outsiders_count": 20,
   "previous_day": {
-    "date": "2026-11-17",
-    "hits_count": 20,
-    "total_views": 5103094
+    "date": "2026-11-16",
+    "hits_count": 28,
+    "total_views": 26312323
   },
   "leaderboards": {
     "as_of": "2026-11-17",
